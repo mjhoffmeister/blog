@@ -29,6 +29,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+collections:
+  jacob_cycle:
+    output: true
+    permalink: /jacob-cycle/:title
+
 # Build settings
 # theme: minima
 remote_theme: mmistakes/minimal-mistakes@4.24.0
@@ -36,6 +41,35 @@ minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+  # _jacob_cycle
+  - scope:
+      path: ""
+      type: jacob_cycle
+    values:
+      layout: single
+
+include:
+  - _pages
+  - _jacob_cycle
 
 # Exclude from processing.
 # The following items will not be processed, by default.
