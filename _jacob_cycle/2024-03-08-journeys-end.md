@@ -2,6 +2,8 @@
 title: "The Jacob Cycle Part 12 - Journey's end"
 date: 2024-03-08 04:18:00 -0600
 categories: jacob-cycle
+sidebar:
+  nav: jacob-cycle
 ---
 
 The final scenes of the Jacob story have numerous references to what has come before. The Abraham
