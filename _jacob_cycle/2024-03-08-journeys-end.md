@@ -269,7 +269,7 @@ Fokkelman, J.P. *Narrative Art in Genesis*. Eugine, Oregon: Wipf and Stock Publi
 Sarna, Nahum M. *Genesis*. The JPS Torah Commentary. Philadelphia: The Jewish Publication Society,
 1989.
 
-Wenham, Gordon John. *Genesis 16-50, Volume 2*. World Biblical Commentary. E-book ed., Zondervan 
+Wenham, Gordon John. *Genesis 16-50, Volume 2*. World Biblical Commentary. E-book ed. Zondervan 
 Academic, 2017.
 
 ---
