@@ -252,7 +252,7 @@ myself to freely receive God’s blessing and let it flow from me?”
 [^8]: Cassuto, *Genesis*, 305.
 [^9]: Sarna, *Genesis*, 244.
 [^10]: Sarna, *Genesis*, 245.
-[^11]: Bergsma and Sietze, "Noah's Nakedness," 34.
+[^11]: Bergsma and Hahn, "Noah's Nakedness," 34.
 [^12]: Wenham, *Genesis 16-50*, 327.
 [^13]: Sarna, *Genesis*, 107.
 
