@@ -178,7 +178,7 @@ south of Ephrath, showing that Jacob is continuing his symbolic conquest of Cana
 Reuben, the firstborn of Jacob’s unloved wife Leah, sleeps with Bilhah to both prevent her from 
 becoming the new favorite and as a challenge to Jacob’s authority. We saw the same with Ham in 
 [Genesis 9:22](https://biblia.com/bible/esv/genesis/9/22) ("saw the nakedness of his father" likely 
-means that Ham slept with his mother[^11]) and Absolom will sleep with David’s concubines as a 
+means that Ham slept with his mother[^11],) and Absolom will sleep with David’s concubines as a 
 challenge to his father’s authority in 
 [2 Samuel 16:22](https://biblia.com/bible/esv/2-samuel/16/22)[^12]. However, by grasping for 
 authority, Reuben loses all hope for it. Judah is now implicitly set up to carry on the line of the 
