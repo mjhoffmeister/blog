@@ -108,8 +108,8 @@ he called its name Allon-bacuth.
 >
 > --Genesis 35:8 (ESV)
 
-The recording of Deborah’s death is a puzzle. It could be to emphasize the consequences of 
-Rebekah’s actions in the deception of Isaac. She hoped to see Jacob again. (see
+The recording of Deborah’s death is a puzzle. It could serve as emphasis of the consequences of 
+Rebekah’s actions in the deception of Isaac. She hoped to see Jacob again (see
 [Genesis 27:45](https://biblia.com/bible/esv/genesis/27/45).)
 Instead, she disappears from the story. Not even her death is recorded, although her nurse’s is
 [^3]. Deborah's death could also be connected to the burial of the foreign gods. Deborah would have 
