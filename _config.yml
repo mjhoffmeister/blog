@@ -50,7 +50,6 @@ defaults:
       type: posts
     values:
       layout: single
-      classes: wide
       read_time: true
       comments: true
       share: true
@@ -61,14 +60,13 @@ defaults:
       type: pages
     values:
       layout: single
-      classes: wide
   # _jacob_cycle
   - scope:
       path: ""
       type: jacob_cycle
     values:
       layout: single
-      classes: wide
+      share: true
 
 include:
   - _pages

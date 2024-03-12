@@ -1,10 +1,14 @@
 ---
-title: "The Jacob Cycle Part 12 - Journey's end"
+title: Journey's end
 date: 2024-03-08 04:18:00 -0600
 categories: jacob-cycle
 sidebar:
   nav: jacob-cycle
+toc: true
+toc_sticky: true
+toc_label: Journey's end
 ---
+**The Jacob Cycle - Part 12**
 
 The final scenes of the Jacob story have numerous references to what has come before. The Abraham
 and Joseph stories end in a similar way, illustrating the intentional design of Genesis and 
@@ -29,7 +33,7 @@ When Rachel commanded Joseph to flee to Haran, she told him to “arise,” “f
 end of the Jacob story, God commands Jacob to “arise,” “go up,” and “stay.” Jacob’s flight from the 
 land is being reversed[^1].
 
-“Go up” (*‘aleh*,) has the same root word (*‘lh*) as “ascending” (‘olim*) in 
+“Go up” (*‘aleh*,) has the same root word (*‘lh*) as “ascending” (*‘olim*) in 
 [Genesis 28:12](https://biblia.com/bible/esv/genesis/28/12) where Jacob had the vision of angels 
 ascending the stairway between earth and heaven.
 
