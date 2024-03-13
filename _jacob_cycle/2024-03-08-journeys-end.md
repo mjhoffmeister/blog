@@ -48,7 +48,7 @@ it reached to heaven. And behold, the angels of God were **ascending (‘olim)**
 the house of God, *beth-el*, and the gate of heaven. God commands him to build an altar, which
 reminds us of Jacob’s promise to worship God at the end of the Bethel scene in 
 [Genesis 28:21-22](https://biblia.com/bible/esv/genesis/28/21-22). Building an altar is a
-reaffirmation his loyalty to Yahweh[^2].
+reaffirmation of his loyalty to Yahweh[^2].
 
 ### Foreign gods
 
