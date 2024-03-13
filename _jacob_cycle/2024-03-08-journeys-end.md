@@ -29,7 +29,7 @@ Haran <sup>44</sup> and **stay** with him a while, until your brother’s fury t
 >
 > --Genesis 27:43-44 (ESV) [emphasis added]
 
-When Rachel commanded Joseph to flee to Haran, she told him to “arise,” “flee,” and “stay.” At the 
+When Rachel commanded Jacob to flee to Haran, she told him to “arise,” “flee,” and “stay.” At the 
 end of the Jacob story, God commands Jacob to “arise,” “go up,” and “stay.” Jacob’s flight from the 
 land is being reversed[^1].
 
@@ -75,7 +75,7 @@ idols and earrings. The earrings might have had images or symbols of gods on the
 Surprisingly, Jacob doesn’t destroy them. He instead hides them under the terebinth tree at Shechem. 
 Abraham set up an altar to Yahweh at this tree when he first entered the land in 
 [Genesis 12:6-7](https://biblia.com/bible/esv/genesis/12/6-7). It was probably originally a 
-site of worship to a god or gods of Canaan. Abraham building an altar there would hav been an act of 
+site of worship to a god or gods of Canaan. Abraham building an altar there would have been an act of 
 spiritual warfare claiming the superiority of Yahweh. Jacob hiding idols by burying them under the 
 tree could be just as good as destroying them as a sacred site would likely not be disturbed. 
 Rachel’s sitting on Laban’s household gods during her period could perhaps be recalled now to see 
@@ -97,7 +97,7 @@ response to the Dinah/Shechem situation stemmed from fear of the Hivites. His fe
 unfounded. God prevents the Hivites from any vengeful pursuit[^4].
 
 We’re reminded that the place formerly called Luz had been transformed into Bethel, “House of God,” 
-by God’s appearance there. He build an altar, fulfilling his promise to God, and updates the name 
+by God’s appearance there. He built an altar, fulfilling his promise to God, and updates the name 
 to El-Bethel “The God of Bethel,” establishing the continuity that it’s been the same god that’s 
 been with Jacob his entire journey[^4].
 
@@ -113,7 +113,7 @@ Rebekah’s actions in the deception of Isaac. She hoped to see Jacob again (see
 [Genesis 27:45](https://biblia.com/bible/esv/genesis/27/45).)
 Instead, she disappears from the story. Not even her death is recorded, although her nurse’s is
 [^3]. Deborah's death could also be connected to the burial of the foreign gods. Deborah would have 
-come with Rebekah from Haran in Mesopotamia, outside the land. Ties to things other than Yawheh and 
+come with Rebekah from Haran in Mesopotamia, outside the land. Ties to things other than Yahweh and 
 his land are dying and being buried under trees, both gods and humans[^6].
 
 ## God appears to Jacob
