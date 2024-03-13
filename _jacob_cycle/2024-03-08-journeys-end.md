@@ -65,7 +65,7 @@ It’s likely that the foreign gods were acquired along with the people and poss
 the Hivites (see [Genesis 34:29](https://biblia.com/bible/esv/genesis/34/20)). Worship of other 
 gods is incompatible with loyalty to Yahweh 
 ([Exodus 20:3](https://biblia.com/bible/esv/exodus/20/3),) so idols had to be purged from the 
-community. Purification rituals found later in the Bible and are often connected to preparing
+community. Purification rituals found later in the Bible are often connected to preparing
 oneself for encountering God. Changing clothes represents putting off an old way of life and taking 
 up a new one. After the slaughter of the Hivite men, Jacob may have recognized the need for 
 spiritual renewal before returning to Bethel[^3].
