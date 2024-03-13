@@ -129,7 +129,7 @@ pillar in the place where he had spoken with him, a pillar of stone. He poured o
 on it and poured oil on it. <sup>15</sup> So Jacob called the name of the place where God had spoken 
 with him Bethel.
 >
-> -- Genesis 35:9-15 (ESV)
+> --Genesis 35:9-15 (ESV)
 
 God appears to Jacob again at Bethel and reaffirms and reemphasizes his blessing and promises. God's
 words to Jacob are a combination of promises to Abraham, Isaac’s prayer before Jacob left for 
@@ -146,6 +146,8 @@ soul was departing (for she was dying), she called his name Ben-oni; but his fat
 Benjamin. <sup>19</sup> So Rachel died, and she was buried on the way to Ephrath (that is, 
 Bethlehem), <sup>20</sup> and Jacob set up a pillar over her tomb. It is the pillar of Rachel’s 
 tomb, which is there to this day.
+>
+> --Genesis 35:16-20 (ESV)
 
 It may seem strange that Jacob moves on from Bethel, but he follows the footsteps of Abraham and 
 paves the way for Joshua’s conquest of Canaan. The same paths are taken by all three. Abraham and 
