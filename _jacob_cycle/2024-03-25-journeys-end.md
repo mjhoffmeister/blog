@@ -1,6 +1,6 @@
 ---
 title: Journey's end
-date: 2024-03-35 14:38:00 -0600
+date: 2024-03-25 14:38:00 -0600
 categories: jacob-cycle
 sidebar:
   nav: jacob-cycle
