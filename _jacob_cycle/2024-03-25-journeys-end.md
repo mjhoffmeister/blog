@@ -1,6 +1,6 @@
 ---
 title: Journey's end
-date: 2024-03-08 04:18:00 -0600
+date: 2024-03-35 14:38:00 -0600
 categories: jacob-cycle
 sidebar:
   nav: jacob-cycle
@@ -10,7 +10,7 @@ toc_label: Journey's end
 ---
 **The Jacob Cycle - Part 12**
 
-The final scenes of the Jacob story have numerous references to what has come before. The Abraham
+The final scenes of the Jacob Cycle have numerous references to what has come before. The Abraham
 and Joseph stories end in a similar way, illustrating the intentional design of Genesis and 
 reinforcing the idea that the stories of these generations elaborate on one another and are meant 
 to be compared to get their full meaning.
