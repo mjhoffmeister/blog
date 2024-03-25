@@ -1,6 +1,7 @@
 ---
 title: Introduction
 date: 2024-03-25 14:39:00 -0600
+permalink: /jacob-cycle/introduction
 categories: jacob-cycle
 sidebar:
   nav: jacob-cycle

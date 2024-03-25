@@ -1,6 +1,7 @@
 ---
 title: Journey's end
-date: 2024-03-25 14:38:00 -0600
+date: 2024-03-25 15:00:00 -0600
+permalink: /jacob-cycle/journeys-end
 categories: jacob-cycle
 sidebar:
   nav: jacob-cycle

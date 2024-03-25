@@ -33,7 +33,6 @@ github_username:  jekyll
 collections:
   jacob_cycle:
     output: true
-    permalink: /jacob-cycle/:title
 
 # Build settings
 # theme: minima
