@@ -184,17 +184,6 @@ DeRouchie, “The Blessing-Commission, the Promised Offspring, and the Toledot S
 
 Sailhamer, John H. *Genesis*. The Expositor's Bible Commentary. E-book ed. Zondervan Academic, 2017. 
 
-Bergsma, John Sietze and Hahn, Scott Walker. "Noah's Nakedness and the Curse on Canaan (Genesis 9:
-20-27)," *Journal of Biblical Literature* 124, no. 1 (2005): 25-40.
-
-Cassuto, Umberto. *A Commentary on the Book of Genesis: From Noah to Abraham*. Translated by Israel
-Abrams. E-book ed. Varda Books, 2012.
-
-Fokkelman, J.P. *Narrative Art in Genesis*. Eugine, Oregon: Wipf and Stock Publishers, 2004.
-
-Sarna, Nahum M. *Genesis*. The JPS Torah Commentary. Philadelphia: The Jewish Publication Society,
-1989.
-
 Wenham, Gordon John. *Genesis 16-50, Volume 2*. World Biblical Commentary. E-book ed. Zondervan 
 Academic, 2017.
 
