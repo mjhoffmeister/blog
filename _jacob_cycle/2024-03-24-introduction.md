@@ -21,18 +21,18 @@ explores the Biblical context of these stories and touches on their overarching 
 Before Adam and Eve are exiled from the garden of Eden, God foretells of the conflict between the 
 seed of the serpent and the seed of the woman. Although there would be a struggle, the seed of the 
 woman would ultimately win. Who the seeds of the serpent and woman are isn’t revealed (the serpent, 
-walking and talking, seemed a lot like a human, after all;) the rest of the Bible tells the story.
-[^1]
+walking and talking, seemed a lot like a human, after all;) the rest of the Bible tells the story
+[^1].
 
 The seed of the woman is the image bearer of God and carries the blessed commission to be fruitful 
 and multiply and rule over creation. Genesis compares and contrasts this chosen seed and the seed 
-of the snake in sections bounded by the phrase “These are the generations.”[^2].
+of the snake in sections bounded by the phrase “These are the generations”[^2].
 
 ### "These are the generations"
 
 The phrase “these are the the generations” occurs 11 times in Genesis, 10 of which introduce a 
 family story or genealogy. The Hebrew word translated "generations" (ESV) is *toledot*. These 
-*toledot* units are linked into larger groupings by the word "and" (Hebrew *waw*.)[^3] Many 
+*toledot* units are linked into larger groupings by the word "and" (Hebrew *waw*[^3].) Many 
 English Bible translations hide the "and."
 
 <table>
