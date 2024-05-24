@@ -271,7 +271,7 @@ Bergsma, John Sietze and Hahn, Scott Walker. "Noah's Nakedness and the Curse on 
 Cassuto, Umberto. *A Commentary on the Book of Genesis: From Noah to Abraham*. Translated by Israel
 Abrams. E-book ed. Varda Books, 2012.
 
-Fokkelman, J.P. *Narrative Art in Genesis*. Eugine, Oregon: Wipf and Stock Publishers, 2004.
+Fokkelman, J.P. *Narrative Art in Genesis*. Eugene, Oregon: Wipf and Stock Publishers, 2004.
 
 Sarna, Nahum M. *Genesis*. The JPS Torah Commentary. Philadelphia: The Jewish Publication Society,
 1989.

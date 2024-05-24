@@ -1,7 +1,9 @@
 jacob-cycle:
  - title: The Jacob Cycle
    children:
-     - title: Part 1 - Introduction
-       url: /jacob-cycle/introduction
+     - title: Part 1 - Overview
+       url: /jacob-cycle/overview
+     - title: Part 2 - Beginnings
+       url: /jacob-cycle/beginnings
      - title: Part 12 - Journey's end
        url: /jacob-cycle/journeys-end
