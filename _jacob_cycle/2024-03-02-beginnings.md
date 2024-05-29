@@ -13,9 +13,9 @@ toc_label: Beginnings
 
 ## Structure
 
-The first section of the Jacob Cycle encompasses 
-[Genesis 25:19-34](https://biblia.com/bible/esv/genesis/25/19-34) and is divided into 4 sections.
-[^1]
+The first part of the Jacob Cycle encompasses 
+[Genesis 25:19-34](https://biblia.com/bible/esv/genesis/25/19-34) and is divided into 4 
+sections.[^1]
 
 ### Sections
 
