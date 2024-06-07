@@ -107,7 +107,7 @@ Aramean of Paddan-aram, the sister of Laban the Aramean, to be his wife.
 
 In [Genesis 24:10](https://biblia.com/bible/esv/genesis/24/10), Abraham's servant goes to Haran
 (referred to as "the city of Nahor") to find a wife for Isaac. Paddan-aram may be another name for 
-Haran[^5]. So, we’re reminded of Isaac’s link with Laban and Haran/Padan-aram (perhaps “field of 
+Haran.[^5] So, we’re reminded of Isaac’s link with Laban and Haran/Padan-aram (perhaps “field of 
 Aram,” see [Hosea 12:12](https://biblia.com/bible/esv/hosea/12/12).) Jacob will later flee to 
 Haran, meeting his match in trickery and deception in his uncle Laban.
 
@@ -594,6 +594,8 @@ Sailhamer, John H. *Genesis*. The Expositor's Bible Commentary. E-book ed. Zonde
 
 Sarna, Nahum M. *Genesis*. The JPS Torah Commentary. Philadelphia: The Jewish Publication Society,
 1989.
+
+Walton, Johm H. *Genesis*. The NIV Application Commentary. E-book ed. Zondervan, 2014.
 
 Wenham, Gordon John. *Genesis 16-50, Volume 2*. World Biblical Commentary. E-book ed. Zondervan 
 Academic, 2017.
