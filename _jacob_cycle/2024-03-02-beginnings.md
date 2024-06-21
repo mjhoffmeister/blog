@@ -218,7 +218,7 @@ in its parallel line: wife (subject) > barren (condition) becomes conceived (con
 The root of the Hebrew word translated "prayed" here is *‘tr*. This is the first time a word with 
 that root is used in the Bible, occurring 25 times in total. The more common word for “pray” (*pll*)
 occurs 172 times, so the usage of *‘tr* here is interesting. The next time it's used, and most 
-often, is in Exodus when Moses asks God to remove the plagues[^10]. The Jacob Cycle will often 
+often, is in Exodus when Moses asks God to remove the plagues.[^10] The Jacob Cycle will often 
 allude to Israel's time in Egypt, connecting it to Jacob's exile in Haran. So, we have both an early 
 connection to Israel's enslavement in Egypt and Rebekah's barrenness being addressed in the same way
 that Moses addresses the plagues on behalf of Pharaoh. Isaac asks God to remove a chaotic, 
@@ -320,7 +320,7 @@ In the third line, God reveals that one nation will be stronger than the other.
 
 The last line gives us the twist: the nation descended from the older shall serve the younger. 
 However, it doesn’t suggest that the younger child is therefore more favored by God or to be more 
-favored by Isaac and Rebekah; it’s about the nations that descend from them.[^20]. The words “sons” 
+favored by Isaac and Rebekah; it’s about the nations that descend from them.[^20] The words “sons” 
 or “children” are absent from the oracle.
 
 This line is more ambiguous in Hebrew. The word translated “older” (*rav*) is never translated that 
