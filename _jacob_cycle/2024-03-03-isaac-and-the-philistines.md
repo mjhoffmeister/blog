@@ -57,7 +57,7 @@ of Abraham in Egypt and Gerar.[^4]
 ## Divine promises in Gerar
 
 > <sup>1</sup> Now there was a famine in the land, besides the former famine that was in the days of
-Abraham. And Isaac went to Gerar to Abimelech king of the Philistines. <sup>2</sup> And the LORD 
+Abraham. And Isaac went to Gerar to Abimelek king of the Philistines. <sup>2</sup> And the LORD 
 appeared to him and said, “Do not go down to Egypt; dwell in the land of which I shall tell you. 
 <sup>3</sup> Sojourn in this land, and I will be with you and will bless you, for to you and to your
 offspring I will give all these lands, and I will establish the oath that I swore to Abraham your 
@@ -228,7 +228,7 @@ story need to strive for; it's given as a gift.
 
 #### Charge, commandments, statute, and laws
 
-Elaborating on Abraham's obedience, God states tha Abraham kept his charge, commandments, statutes, 
+Elaborating on Abraham's obedience, God states that Abraham kept his charge, commandments, statutes, 
 and laws. This is almost the exact wording of Deuteronomy 11:1 where Moses expresses what God 
 requires of Israel after he received the second set of tablets that had the ten commandments.
 (The first set he broke after speaking to God on Mount Sinai and seeing the people worshipping a 
@@ -250,9 +250,57 @@ nomadic context, but the root virtue of honesty was consistent throughout Israel
 Yahweh claimed Abraham's family as his and Abraham's obedience to the heart of God's law set him 
 apart as God's own. So, Isaac, as Abraham's son, receives the blessing first given to Abraham.
 
+This is in contrast to how Jacob obtained the birthright.[^17] Isaac receives the promises on God’s
+terms: as a free gift based on his father’s obedience, not by scheming as Jacob did.[^18]
+
+### Isaac obeys
+
+> <sup>6</sup> So Isaac settled in Gerar.
+>
+> Genesis 26:6 (ESV)
+
+Isaac obeys God and doesn't proceed to Egypt. 
+
+## Wife/sister
+
+In Gerar, Isaac shows that he doesn't fully trust God as protector. He resorts to the same
+deception as his father did to protect himself from the perceived danger of having a beautiful 
+wife among the nations.
+
+> <sup>7</sup> When the men of the place asked him about his wife, he said, “She is my sister,” for
+he feared to say, “My wife,” thinking, “lest the men of the place should kill me because of Rebekah,
+” because she was attractive in appearance.
+>
+> Genesis 26:7 (ESV)
+
+This is the last of three incidents in Genesis where a patriarch pretends that his wife is only his
+sister (see [Abraham in Egypt](#parallels-with-abraham-in-egypt) and 
+[Abraham in Gerar](#parallels-with-abraham-in-gerar).) As mentioned above, the danger God's chosen 
+line faces is less progressively less pronounced in each of these episodes. Pharaoh took Sarai as 
+his wife in Genesis 12 (see [Genesis 12:15](https://biblia.com/bible/esv/genesis/12/15) and 
+[Genesis 12:19](https://biblia.com/bible/esv/genesis/12/19).) In Genesis 20, Abimelek took Sarah, 
+but God prevented him from touching her ([Genesis 20:6](https://biblia.com/bible/esv/genesis/20/6).)
+In Genesis 26, we'll see that Rebekah isn't taken at all.
+
+[Part 1](overview.html#historical-context) introduced the idea of exile being a theme explored in 
+the Jacob Cycle, partly by holding multiple historical exiles in tensions. Taken together, the 
+wife/sister scenes work as an oracle for Israel being enslaved by Egypt and the Exodus.[^19] While 
+the foreshadowing of enslavement by Egypt solidifies into an inevitability in Genesis, it's also 
+preluded by the establishment of God's protection and plan for humanity's rescue as unshakable. The 
+decreasing danger in the wife/sister scenes, all pointing to Egypt, show that God's plan to bring 
+humanity back to Eden is never truly threatened, even when Israel is enslaved. That message 
+reverberates forward to the Babylonian exile, Jesus's "exile" on the cross, and our own communal and
+personal spiritual exiles.
+
+Immediately in the context of the Jacob Cycle, this scene reflects back on what has happened with 
+the birthright and what will soon follow with the blessing.
+
 ## Bibliography
 
 Aharoni, Y. "The Land of Gerar," *Israel Exploration Society*. 6, no. 1 (1956): 26-32.
+
+Cassuto, Umberto. *The Documentary Hypothesis*. Translated by Israel Abrams. E-book ed. Varda Books,
+2005.
 
 Mackey, Tim, and John Collins, “Deuteronomy: The Law… Again,” *The BibleProject Podcast*. October 
 24, 2022. Podcast, website, 01:13:07. https://bibleproject.com/podcast/law-again/.
@@ -286,3 +334,6 @@ Academic, 2017.
 [^14]: Ibid, 19.
 [^15]: Wenham, *Genesis 16-50*, 190.
 [^16]: Mackey and Collins, "The Law... Again", 19:35-34:39.
+[^17]: Walton, *Genesis*, 557.
+[^18]: Wenham, *Genesis 16-50*, 187.
+[^19]: Cassuto, *Documentary Hypothesis*, 83.
