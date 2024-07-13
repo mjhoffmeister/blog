@@ -460,8 +460,8 @@ ignored or forgotten, and Isaac passively acquiesces to Abimelek’s request to 
 because he had become “mightier” than they were. These phrases are a link to passages in 
 Exodus.[^25]
 
-> <sup>16</sup> And Abimelech said to Isaac, “Go away from us, for you are much [*m<sup>e</sup>'od*]
-mightier [*'atsam<sup>e</sup>ta*, root *'-ts-m*] than we.”
+> <sup>16</sup> And Abimelech said to Isaac, “Go away from us, for you are much [*m<sup>e</sup>‘od*]
+mightier [*‘atsam<sup>e</sup>ta*, root *‘-ts-m*] than we.”
 >
 > --Genesis 26:16 (ESV)
 
@@ -470,7 +470,7 @@ language from the Genesis 1 commission ([Genesis 1:28](https://biblia.com/bible/
 and Abimelek's concern.
 
 > But the people of Israel were fruitful and increased greatly; they multiplied and grew exceedingly
-[*m<sup>e</sup>'od* *m<sup>e</sup>'od* (repeated for emphasis)] strong [*ya'astmu*, root *'-ts-m*],
+[*m<sup>e</sup>‘od* *m<sup>e</sup>‘od* (repeated for emphasis)] strong [*ya‘astmu*, root *‘-ts-m*],
 so that the land was filled with them.
 >
 > --Exodus 1:7 (ESV)
@@ -488,7 +488,7 @@ Genesis, used only here and in the transition leading into Genesis 34
 It's extensively used in Exodus and elsewhere to describe the Israelites camping in the wilderness.
 [^26]
 
-A likely reason for these link is to foreshadow what'ss to come for God's people. We might also be
+A likely reason for these link is to foreshadow what's to come for God's people. We might also be
 expected to compare Isaac's "exodus" with Israel's. How do different leaders of the nations respond
 to the strength of God's chosen line and what are their fates?
 
@@ -498,7 +498,7 @@ to the strength of God's chosen line and what are their fates?
 
 This section is thematically parallel with Abram and Lot separating in 
 [Genesis 13:1-13](https://biblia.com/bible/esv/genesis/13/1-13). Abram had also become wealthy, and
-the land couldn't support him and Lot.
+the land couldn't support both him and Lot.
 
 > <sup>2</sup> Now Abram was very rich in livestock, in silver, and in gold. <sup>3</sup> And he 
 journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning,
@@ -521,28 +521,61 @@ other.
 
 The strain led to conflict between Abram and Lot's herdsmen, so they decided to separate. As the 
 elder and Lot's uncle (and possibly guardian), Abram had the right to choose the best land
-for himself.[^27] However, he allows Lot to choose the more attractive land.
-
-
+for himself.[^27] However, he allowed Lot to choose what appeared to be the more fruitful land 
+instead of grasping for it, himself.
 
 #### Hagar and Ishmael
 
 As introduced [above](#threat-disproved), there are also links to Abraham sending Hagar and Ishmael
 away in Genesis 21. Hagar "departed" (*telek*, root *hlk*) to the wilderness of Beersheba after 
 being sent away with Ishmael by Abraham 
-([Genesis 13:1-13](https://biblia.com/bible/esv/genesis/13/1-13).) Isaac departed (*yelek*, root 
-*hlk*) to the Valley of Gerar after being asked to go by Abimelek. With the continued linking of the
-two stories through shared words, the invitation to compare them is strengthened. The ramifications
-on interpretation are discussed below.
+
+> <sup>14</sup> So Abraham rose early in the morning and took bread and a skin of water and gave it
+to Hagar, putting it on her shoulder, along with the child, and sent her away. And she departed 
+[*telek*] and wandered in the wilderness of Beersheba.
+>
+> Genesis 21:14 (ESV)
+
+Isaac departed (*yelek*, root *hlk*) to the Valley of Gerar after being asked to go by Abimelek. 
+With the continued linking of the two stories through shared words, the invitation to compare them 
+is strengthened.
+
+#### Summary
+
+In these parallels with the Abraham cycle, we see people within and without the chosen line
+dependent on God with an emphasis on the need for water. Abram surrendered what seemed to be the
+best, well-watered land to Lot, who culturally had a lower position than him, and Hagar and Ishmael,
+outcasts from the camp of the chosen line, needed water in the wilderness. We'll see how these
+previous stories in Genesis inform the interpretation of Genesis 26.
 
 ## Isaac's wells
 
+> <sup>18</sup> And Isaac dug again the wells of water that had been dug in the days of Abraham his
+father, which the Philistines had stopped after the death of Abraham. And he gave them the names
+that his father had given them.
 
-Genesis 26:18-20 - Isaac restores the wells dug by Abraham and gives them their original names, which may have established clear ownership rights (Sarna: 186). While doing this, Isaac’s servants discover another well, but the shepherds of Gerar unjustly say it’s theirs. Instead of challenging them, he calls the well Esek and leaves it to them. 
+Isaac and his camp, now separated from the Philistines in Gerar and the relative protection from the
+famine there, is in need of water. He re-digs the wells that the Philistines had filled to spite
+Abraham and restores their names, which might re-stablish ownership rights.[^28] His journey echoes
+elements of Abram, Hagar, and Ishmael's.
 
-There are links back to Abraham and Lot separating in Genesis 13:5-7, continuing the link to the Abraham’s story which began in Genesis 25:19/Genesis 11:27.
+### Esek: contention
 
-Genesis 13:7 - There was quarreling (riv) between the herdsman (ro’e) of Abram’s livestock and the herdsman (ro’e) of Lot’s livestock.
+> <sup>19</sup> But when Isaac’s servants dug in the valley and found there a well of spring water,
+<sup>20</sup> the herdsmen of Gerar quarreled with Isaac’s herdsmen, saying, “The water is ours.” So
+he called the name of the well Esek, because they contended with him.
+>
+> Genesis 26:19-20 (ESV)
+
+These verses have word links with Abram and Lot separating. In both episodes, there was
+strife/quarreling (root *ryv*) between herdsman (*ro‘e*.) Abram allowed Lot to choose what seemed 
+to be the best land. Isaac doesn't perpetuate conflict, but allows the herdsmen of Gerar to have the
+well.
+
+This situation could be looking back on Jacob and Esau's contention about the birthright and stew. 
+
+
+
 
 Genesis 26:20 - The herdsmen of Gerar (ro’e) quarreled (yarivbu - note the root riv) with Isaac’s herdsmen (ro’e).
 
@@ -629,3 +662,5 @@ Academic, 2017.
 [^25]: Ibid.
 [^26]: Ibid.
 [^27]: Sarna, *Genesis*, 98.
+[^28]: Ibid, 186.
+[^29]: Ibid.
