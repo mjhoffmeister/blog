@@ -445,6 +445,11 @@ materializing.[^24] We also learn more of what is at stake for the son who has t
 right of the firstborn confers a double portion of Isaac's wealth, so whoever holds it stands to 
 receive two-thirds of the wealth accumulated by Isaac.
 
+Given the links to the Israelites flourishing under oppression in Egypt (see [Exodus](#exodus),) and
+the Esek well scene potentially reflecting back on the sale of the birthright (see 
+[Esek: contention](#esek-contention),) Isaac's fruitful crop could be underscoring God's reversal 
+of Rebekah's barrenness and looking forward to 
+
 ### Exodus
 
 > <sup>16</sup> And Abimelech said to Isaac, “Go away from us, for you are much mightier than we.” 
@@ -452,7 +457,7 @@ receive two-thirds of the wealth accumulated by Isaac.
 >
 > --Genesis 26:16-17 (ESV)
 
-Isaac's wealth leads to the Philistines envying him and we’re given a note about the Philistines
+Isaac's wealth leads to the Philistines envying him, and we’re given a note about the Philistines
 spitefully filling Abraham’s wells. When Abraham was in Gerar, the servants of the Abimelek of his
 time seized one of his wells, but a treaty was made between Abraham and Abimelek and the well was
 returned ([Genesis 21:25-34](https://biblia.com/bible/esv/genesis/21/25-34).) This treaty was either
@@ -569,10 +574,15 @@ he called the name of the well Esek, because they contended with him.
 
 These verses have word links with Abram and Lot separating. In both episodes, there was
 strife/quarreling (root *ryv*) between herdsman (*ro‘e*.) Abram allowed Lot to choose what seemed 
-to be the best land. Isaac doesn't perpetuate conflict, but allows the herdsmen of Gerar to have the
-well.
+to be the best land. Similarly, Isaac doesn't perpetuate conflict, but allows the herdsmen of Gerar
+to have the well.
 
-This situation could be looking back on Jacob and Esau's contention about the birthright and stew. 
+As will be seen with the other wells Isaac digs, the name of the well not only reflect's the
+current situation but also on other aspects of the Jacob Cycle. "Esek" means contention. This is the
+only time the noun is used in the Bible. In sources outside the Bible, it's used in connection to
+disputed titles of ownership.[^29] In additional to reflecting on the situation
+between the herdsman, the name could be reflecting back on Jacob and Esau's contention about the
+birthright and stew. While the sale could have been legally binding in their culture, Esau
 
 
 
