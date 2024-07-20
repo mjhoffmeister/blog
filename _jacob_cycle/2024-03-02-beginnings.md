@@ -247,14 +247,14 @@ foretold by God that a consequence of Adam and Eve’s sin would be pain in conc
 Perhaps, a manifestation of that pain is seen in Rebekah's difficult pregnancy and her reaction to 
 it. The root word used in [Genesis 3:16](https://biblia.com/bible/esv/genesis/3/16),
 translated “childbearing” (ESV,) is the same root word used in 
-[Genesis 25:21](https://biblia.com/bible/esv/genesis/25:21), translated “conceived” (ESV): *h-r-h*.
+[Genesis 25:21](https://biblia.com/bible/esv/genesis/25:21), translated “conceived” (ESV): *hrh*.
 
 > <sup>16</sup> To the woman he said, “I will surely multiply your pain in childbearing [root 
-*h-r-h*]; in pain you shall bring forth children."
+*hrh*]; in pain you shall bring forth children."
 >
 > --Genesis 3:16a (ESV)
 
-> <sup>21</sup> ... And the LORD granted his prayer, and Rebekah his wife conceived [root *h-r-h*].
+> <sup>21</sup> ... And the LORD granted his prayer, and Rebekah his wife conceived [root *hrh*].
 >
 > --Genesis 25:21b (ESV)
 
@@ -284,10 +284,11 @@ God in response to her difficult pregnancy.
 
 This verse is parallel to God’s promise to Abraham in Genesis 12:1-3.
 
-> Now the LORD said to Abram, “Go from your country and your kindred and your father’s house to the 
-land that I will show you. And I will make of you a great nation, and I will bless you and make your
-name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors 
-you I will curse, and in you all the families of the earth shall be blessed.”
+> <sup>1</sup> Now the LORD said to Abram, “Go from your country and your kindred and your father’s
+house to the land that I will show you. <sup>2</sup> And I will make of you a great nation, and I
+will bless you and make your name great, so that you will be a blessing. <sup>3</sup> I will bless
+those who bless you, and him who dishonors you I will curse, and in you all the families of the
+earth shall be blessed.”
 >
 > --Genesis 12:1-3 (ESV)
 
@@ -295,7 +296,7 @@ God's promise to Abraham in Genesis 12 establishes the mission for his family an
 nation that will come from it.[^18] Rebekah's oracle, being compared to the promise given to 
 Abraham, invites the question: how will the conflict foretold result in a nation of blessing?
 
-God’s answer to Rebekah's inquiry is presented in the form of a poem. As is typically in biblical 
+God’s answer to Rebekah's inquiry is presented in the form of a poem. As is typical in biblical 
 poetry, it's in pairs of lines with the second line in each pair developing and intensifying the 
 first.[^19]
 
@@ -307,7 +308,7 @@ nations.
 > "and two peoples from within you shall be divided"
 
 The second line develops the first with a negative aspect: the peoples of the two nations will be 
-divided. The root Hebrew word for “divided” (*p-r-d*) is the same root word used for the nations 
+divided. The root Hebrew word for “divided” (*prd*) is the same root word used for the nations 
 descended from Noah’s children with their own languages (the Babel story explains how they ended 
 up with different languages,) and the separation of Abraham and Lot in
 [Genesis 13:14](https://biblia.com/bible/esv/genesis/13/14).
@@ -395,8 +396,8 @@ also, that strengthen the connections to the poem in Genesis 32.[^24]
 
 Most historians agree that Gilgamesh was a historical king of the Sumerian city-state Uruk who was 
 poetically elevated to part-god status after his death. In the *Epic of Gilgamesh*, he's described 
-as 2/3 god and 1/3 human. His mother was the goddess Ninsun and his father was Lugalbanda, a king 
-of Uruk.
+as two-thirds god and one-third human. His mother was the goddess Ninsun and his father was
+Lugalbanda, a king of Uruk.
 
 In the beginning of the ancient poem, Gilgamesh is portrayed as a tyrant who takes what isn't his: 
 he sleeps with new brides on their wedding nights. The people of Uruk petition the gods for help. 

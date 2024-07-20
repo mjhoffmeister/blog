@@ -21,7 +21,7 @@ order[^1] and is highly repetitive of episodes of Abraham in Egypt
 incoherent, but the intrusion serves to develop the story of God‘s covenant with the seed of the 
 woman, allows us to reflect on what just happened, and frames what will follow.[^2] Also, we‘re 
 still to compare this story with that of Abraham, with differences between the two cycles being 
-particularly instructive. Furthermore, it‘s linked to the story of Jacob‘s daughter Dinah in 
+particularly instructive. Furthermore, it's linked to the story of Jacob‘s daughter Dinah in 
 Genesis 34, which is itself an interruption between chapters 33 and 35 and also deals with 
 interactions with the people of Canaan.[^3]
 
@@ -53,6 +53,13 @@ of Abraham in Egypt and Gerar.[^4]
 | Oath | [Genesis 21:23](https://biblia.com/bible/esv/genesis/21/23) | [Genesis 26:25](https://biblia.com/bible/esv/genesis/26/28)
 | Treaty | [Genesis 21:24-31](https://biblia.com/bible/esv/genesis/21/24-31) | [Genesis 26:30-31](https://biblia.com/bible/esv/genesis/26/30-31)
 | Beersheba named | [Genesis 21:31](https://biblia.com/bible/esv/genesis/21:31) | [Genesis 26:32-33](https://biblia.com/bible/esv/genesis/26/32-33)
+
+### God's name
+
+God's covenental name, Yahweh, appears seven times in this episode. Seven is an important number in 
+the Bible, signifying completeness. Structurally, this feature attests to the unity of this segment
+in the Jacob Cycle. It also shows that God is with Isaac throughout his time in Gerar even when it's
+not explicitly apparent.
 
 ## Divine promises in Gerar
 
@@ -445,10 +452,12 @@ materializing.[^24] We also learn more of what is at stake for the son who has t
 right of the firstborn confers a double portion of Isaac's wealth, so whoever holds it stands to 
 receive two-thirds of the wealth accumulated by Isaac.
 
-Given the links to the Israelites flourishing under oppression in Egypt (see [Exodus](#exodus),) and
-the Esek well scene potentially reflecting back on the sale of the birthright (see 
+Given the links to the Israelite's flourishing under oppression in Egypt (see [Exodus](#exodus),) 
+and the Esek well scene potentially reflecting back on the sale of the birthright (see 
 [Esek: contention](#esek-contention),) Isaac's fruitful crop could be underscoring God's reversal 
-of Rebekah's barrenness and looking forward to 
+of Rebekah's barrenness and looking forward to the growth of God's people despite situations that 
+would normally result in diminishment. The power of God is greater than the threat that infertile 
+humans or land poses to the chosen line, and only by that power is the chosen line sustained.
 
 ### Exodus
 
@@ -511,16 +520,14 @@ between Bethel and Ai, <sup>4</sup> to the place where he had made an altar at t
 Abram called upon the name of the LORD. <sup>5</sup> And Lot, who went with Abram, also had flocks 
 and herds and tents, <sup>6</sup> so that the land could not support both of them dwelling together;
 for their possessions were so great that they could not dwell together, <sup>7</sup> and there was
-strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock.
->
-> <sup>8</sup> Then Abram said to Lot, “Let there be no strife between you and me, and between your 
-herdsmen and my herdsmen, for we are kinsmen. <sup>9</sup> Is not the whole land before you? 
-Separate yourself from me. If you take the left hand, then I will go to the right, or if you take 
-the right hand, then I will go to the left.” <sup>10</sup> And Lot lifted up his eyes and saw that 
-the Jordan Valley was well watered everywhere like the garden of the LORD....<sup>11</sup> So Lot 
-chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each 
-other.
-
+strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. At that time
+the Canaanites and the Perizzites were dwelling in the land. <sup>8</sup> Then Abram said to Lot, 
+“Let there be no strife between you and me, and between your herdsmen and my herdsmen, for we are
+kinsmen. <sup>9</sup> Is not the whole land before you? Separate yourself from me. If you take the 
+left hand, then I will go to the right, or if you take the right hand, then I will go to the left.”
+<sup>10</sup> And Lot lifted up his eyes and saw that the Jordan Valley was well watered everywhere
+like the garden of the LORD....<sup>11</sup> So Lot chose for himself all the Jordan Valley, and Lot
+journeyed east. Thus they separated from each other.
 >
 > --Genesis 13:2-7a, 8-10a, 11 (ESV)
 
@@ -529,17 +536,20 @@ elder and Lot's uncle (and possibly guardian), Abram had the right to choose the
 for himself.[^27] However, he allowed Lot to choose what appeared to be the more fruitful land 
 instead of grasping for it, himself.
 
+The note about the Canaanites and Perizzites provides a link to Exodus 3 discussed in
+[Made room](#made-room).
+
 #### Hagar and Ishmael
 
 As introduced [above](#threat-disproved), there are also links to Abraham sending Hagar and Ishmael
 away in Genesis 21. Hagar "departed" (*telek*, root *hlk*) to the wilderness of Beersheba after 
-being sent away with Ishmael by Abraham 
+being sent away with Ishmael by Abraham.
 
 > <sup>14</sup> So Abraham rose early in the morning and took bread and a skin of water and gave it
 to Hagar, putting it on her shoulder, along with the child, and sent her away. And she departed 
 [*telek*] and wandered in the wilderness of Beersheba.
 >
-> Genesis 21:14 (ESV)
+> --Genesis 21:14 (ESV)
 
 Isaac departed (*yelek*, root *hlk*) to the Valley of Gerar after being asked to go by Abimelek. 
 With the continued linking of the two stories through shared words, the invitation to compare them 
@@ -558,11 +568,13 @@ previous stories in Genesis inform the interpretation of Genesis 26.
 > <sup>18</sup> And Isaac dug again the wells of water that had been dug in the days of Abraham his
 father, which the Philistines had stopped after the death of Abraham. And he gave them the names
 that his father had given them.
+>
+> --Genesis 26:18 (ESV)
 
 Isaac and his camp, now separated from the Philistines in Gerar and the relative protection from the
 famine there, is in need of water. He re-digs the wells that the Philistines had filled to spite
-Abraham and restores their names, which might re-stablish ownership rights.[^28] His journey echoes
-elements of Abram, Hagar, and Ishmael's.
+Abraham and restores their names, which might have re-established ownership rights.[^28] His journey
+echoes elements of Abram, Hagar, and Ishmael's.
 
 ### Esek: contention
 
@@ -570,42 +582,106 @@ elements of Abram, Hagar, and Ishmael's.
 <sup>20</sup> the herdsmen of Gerar quarreled with Isaac’s herdsmen, saying, “The water is ours.” So
 he called the name of the well Esek, because they contended with him.
 >
-> Genesis 26:19-20 (ESV)
+> --Genesis 26:19-20 (ESV)
 
 These verses have word links with Abram and Lot separating. In both episodes, there was
 strife/quarreling (root *ryv*) between herdsman (*ro‘e*.) Abram allowed Lot to choose what seemed 
 to be the best land. Similarly, Isaac doesn't perpetuate conflict, but allows the herdsmen of Gerar
 to have the well.
 
-As will be seen with the other wells Isaac digs, the name of the well not only reflect's the
-current situation but also on other aspects of the Jacob Cycle. "Esek" means contention. This is the
-only time the noun is used in the Bible. In sources outside the Bible, it's used in connection to
-disputed titles of ownership.[^29] In additional to reflecting on the situation
-between the herdsman, the name could be reflecting back on Jacob and Esau's contention about the
-birthright and stew. While the sale could have been legally binding in their culture, Esau
+As will be seen with the other wells Isaac digs, the name of the well not only reflects on the
+current situation but also on other aspects of the Jacob Cycle. "Esek" means "contention." This is
+the only time the noun is used in the Bible. In sources outside the Bible, it's used in connection
+to disputed titles of ownership.[^29] So, besides reflecting on the situation between the herdsman,
+the name could be reflecting back on Jacob and Esau's contention about the birthright and stew and
+forward to the dispute between Jacob and Laban's dispute after Jacob is tricked into marrying Leah .
+While the sale could have been legally binding in their culture, Esau later says that Jacob cheated
+him and took away the birthright ([Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36);) 
+he disputes the legitimacy of the transaction. As the episode progresses towards Isaac finding water
+and making peace with Abimelek, Jacob's grasping for the birthright is revealed to be unnecessary
+and faithless. Here and in the past, with Abraham and Lot's separation in the forefront of the 
+audience's mind effected by the literary links, God has shown that he will provide for the chosen
+line.
+
+### Sitnah: hostility
+
+> <sup>21</sup> Then they dug another well, and they quarreled over that also, so he called its name
+> Sitnah.
+>
+> --Genesis 26:21 (ESV)
+
+The second well is named "Sitnah," which means “hostility.” The word is used in
+[Ezra 4:6](https://biblia.com/bible/esv/ezra/4/6) to indicate a formal accusation against Judah and
+Jerusalem rebuilding for the temple.[^30] This well name looks forward to the aforementioned
+complaint Esau lodges against Jacob for cheating him out of the birthright and blessing in 
+[Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36).[^31] Isaac again doesn't fight for the
+well, instead allowing the herdsmen of Gerar to have it. His son Esau won't follow his example; 
+instead; he will plan to kill Jacob after Isaac's blessing is stolen from him
+([Genesis 27:41](https://biblia.com/bible/esv/genesis/27/41).)
+
+Yet, even Esau, the unchosen son who had the cultural rights of the firstborn taken from him, could
+have trusted in God to provide for him. Ishmael, too, was the unchosen firstborn son. After he and
+his mother were given a pittance of water and exiled, God gave them enough water, a promise of
+descendants, and was with Ishmael 
+([Genesis 21:18-20](https://biblia.com/bible/esv/genesis/21/18-20).) Rather than trust that God
+would be with him as well as Jacob, he echoes Cain in his desire to kill his brother.
+
+### Rehoboth: wide open spaces
+
+> <sup>22</sup> And he moved from there and dug another well, and they did not quarrel over it. So
+he called its name Rehoboth, saying, “For now the LORD has made room for us, and we shall be
+fruitful in the land.”
+>
+> --Genesis 26:22 (ESV)
+
+The third well that Isaac digs doesn't result in any conflict with the Gerar herdsmen, so he names 
+it "Rehoboth," which means "wide open spaces."[^32] Isaac recognizes that Yahweh was the one who 
+brought him to this point. Isaac's hope that his household will be fruitful recalls the Eden
+commission in Genesis 1 to "be fruitful and multiply" 
+([Genesis 1:28](https://biblia.com/bible/esv/genesis/1/28).) His refusal to be provoked by the
+Philistines has moved him closer to the Eden ideal.
+
+His statement that God has "made room" converges the stories of Abram and Lot's separation and 
+Israel's bondage in Egypt. After Abram and Lot separate and God reiterates his promise to Abraham,
+he tells Abram to walk the land.
+
+> "Arise, walk through the length and the breadth [*rakhvah*, root *rkhv*] of the land, for I will
+give it to you.”
+>
+> --Genesis 13:17 (ESV)
+
+The Hebrew word translated "breadth" shares the same root, *rkhv*, as Rehoboth and "room"
+(*hirkhv*).
+
+Speaking from the burning bush, God says to Moses that he has come down to rescue Israel from Egypt.
+
+> <sup>8</sup> and I have come down to deliver them out of the hand of the Egyptians and to bring 
+them up out of that land to a good and broad [*r<sup>e</sup>khavh*] land, a land flowing with milk 
+and honey, to the place of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites,
+and the Jebusites.
+>
+> --Exodus 3:8 (ESV)
+
+God promises to bring Israel back to the land of the patriarchs. Included in the list of the peoples
+of the land are the Canaanites and Perizzites, which were noted in Abram and Lot's separation (see 
+[Abram and Lot](#abraham-and-lot).) God giving the land to Abram, leading Isaac to open spaces, and
+rescuing Israel to bring them to a broad land are interlocked with the Hebrew root *rkhv* and 
+mentioning the Canaanites and Perizzites.
 
 
 
+## Divine promises in Beersheba
 
-Genesis 26:20 - The herdsmen of Gerar (ro’e) quarreled (yarivbu - note the root riv) with Isaac’s herdsmen (ro’e).
+> <sup>23</sup> From there he went up to Beersheba. <sup>24</sup> And the LORD appeared to him the
+same night and said, “I am the God of Abraham your father. Fear not, for I am with you and will
+bless you and multiply your offspring for my servant Abraham’s sake.” <sup>25</sup> So he built an
+altar there and called upon the name of the LORD and pitched his tent there. And there Isaac’s
+servants dug a well.
+>
+> --Genesis 26:23-25 (ESV)
 
-Abraham didn’t insist on the best land for himself; he let Lot choose. Isaac didn’t take the well by force, instead letting the Gerar herdsmen have it.
-
-Genesis 26:21-22 - Another well is dug, but the Gerar herdsman unjustly claim that one, too. Isaac names the well Sitnah and moves on again. A third well is dug, there’s no dispute, and Isaac calls it Rehoboth. His statement is an echo of Eden (Sailhamer: 436):
-
-Genesis 26:22 - “We shall be fruitful (parinu, root: prh) in the land (arets).”
-Genesis 1:28 - “Be fruitful (peru, root: prh) 
-
-What’s the point of these well episodes being in the Jacob story?
-
-The first well is named Esek. The word Esek isn’t used anywhere else in the Bible, but it literally means “contention” and in other sources it’s used in connection to disputed titles of ownership (Sarna: 186). Have we seen contention over something similar to a title of ownership? Yes - Jacob coercing Esau into selling his birthright over a bowl of lentil soup (Walton: 559).
-
-The second well is named Sitnah, which means “hostility” and is used in Ezra 4:6 to indicate a formal accusation against someone (Sarna: 186). This is connected to Esau later lodging a complaint against Jacob for cheating him out of the blessing in Genesis 27:36 (Walton: 559).
-
-The third well, named Rehoboth, which means “wide open spaces” (Sailhamer: 436), points to the parting between Jacob and Esau resolving their conflict (Walton: 559).
-
-So, the story of these wells gives us hope that God can work through difficult situations and imperfect people to accomplish his plan. It also casts light on Jacob’s actions. His “taking” wasn’t required. Even though Esau had the cultural right of the firstborn, God had chosen Jacob. He would have blessed Jacob freely with no need for scheming and deception.
-
+Isaac leaves the valley of Gerar and goes up to Beersheba. There is a strong theme of going "up" to
+the land in the Jacob Cycle. 
 
 
 
@@ -631,6 +707,8 @@ Heiser, Michael. *The Unseen Realm*. E-book ed. Lexham Press, 2015.
 
 Mackey, Tim, and John Collins, "Deuteronomy: The Law… Again," *The BibleProject Podcast*. October 
 24, 2022. Podcast, website, 01:13:07. https://bibleproject.com/podcast/law-again/.
+
+Sailhamer, John H. *Genesis*. The Expositor's Bible Commentary. E-book ed. Zondervan Academic, 2017.
 
 Sarna, Nahum M. *Genesis*. The JPS Torah Commentary. Philadelphia: The Jewish Publication Society,
 1989.
@@ -674,3 +752,6 @@ Academic, 2017.
 [^27]: Sarna, *Genesis*, 98.
 [^28]: Ibid, 186.
 [^29]: Ibid.
+[^30]: Ibid.
+[^31]: Walton, *Genesis*, 559.
+[^32]: Sailhamer, *Genesis*, 436.
