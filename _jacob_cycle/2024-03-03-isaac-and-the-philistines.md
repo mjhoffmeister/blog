@@ -594,14 +594,15 @@ current situation but also on other aspects of the Jacob Cycle. "Esek" means "co
 the only time the noun is used in the Bible. In sources outside the Bible, it's used in connection
 to disputed titles of ownership.[^29] So, besides reflecting on the situation between the herdsman,
 the name could be reflecting back on Jacob and Esau's contention about the birthright and stew and
-forward to the dispute between Jacob and Laban's dispute after Jacob is tricked into marrying Leah .
-While the sale could have been legally binding in their culture, Esau later says that Jacob cheated
-him and took away the birthright ([Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36);) 
-he disputes the legitimacy of the transaction. As the episode progresses towards Isaac finding water
-and making peace with Abimelek, Jacob's grasping for the birthright is revealed to be unnecessary
-and faithless. Here and in the past, with Abraham and Lot's separation in the forefront of the 
-audience's mind effected by the literary links, God has shown that he will provide for the chosen
-line.
+forward to the dispute between Jacob and Laban's dispute after Jacob is tricked into marrying
+Leah ([Genesis 29:22-27](https://biblia.com/bible/esv/genesis/29/22-27).)[^30] While the sale could
+have been legally binding in their culture, Esau later says that
+Jacob cheated him and took away the birthright
+([Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36);) he disputes the legitimacy of the
+transaction. As the episode progresses towards Isaac finding water and making peace with Abimelek,
+Jacob's grasping for the birthright is revealed to be unnecessary and faithless. Here and in the
+past, with Abraham and Lot's separation in the forefront of the audience's mind effected by the
+literary links, God has shown that he will provide for the chosen line.
 
 ### Sitnah: hostility
 
@@ -612,10 +613,11 @@ line.
 
 The second well is named "Sitnah," which means “hostility.” The word is used in
 [Ezra 4:6](https://biblia.com/bible/esv/ezra/4/6) to indicate a formal accusation against Judah and
-Jerusalem rebuilding for the temple.[^30] This well name looks forward to the aforementioned
+Jerusalem rebuilding for the temple.[^31] This well name looks forward to the aforementioned
 complaint Esau lodges against Jacob for cheating him out of the birthright and blessing in 
-[Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36).[^31] Isaac again doesn't fight for the
-well, instead allowing the herdsmen of Gerar to have it. His son Esau won't follow his example; 
+[Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36).[^32] Isaac again doesn't fight for the
+well, instead allowing the herdsmen of Gerar to have it. His sons won't follow his example. Jacob 
+and Rebekah feel the need to  Esau won't follow his example; 
 instead; he will plan to kill Jacob after Isaac's blessing is stolen from him
 ([Genesis 27:41](https://biblia.com/bible/esv/genesis/27/41).)
 
@@ -635,7 +637,7 @@ fruitful in the land.”
 > --Genesis 26:22 (ESV)
 
 The third well that Isaac digs doesn't result in any conflict with the Gerar herdsmen, so he names 
-it "Rehoboth," which means "wide open spaces."[^32] Isaac recognizes that Yahweh was the one who 
+it "Rehoboth," which means "wide open spaces."[^33] Isaac recognizes that Yahweh was the one who 
 brought him to this point. Isaac's hope that his household will be fruitful recalls the Eden
 commission in Genesis 1 to "be fruitful and multiply" 
 ([Genesis 1:28](https://biblia.com/bible/esv/genesis/1/28).) His refusal to be provoked by the
@@ -680,7 +682,7 @@ servants dug a well.
 >
 > --Genesis 26:23-25 (ESV)
 
-Isaac leaves the valley of Gerar and goes up to Beersheba. There is a strong theme of going "up" to
+Isaac leaves the valley of Gerar and goes up to Beersheba. There's a strong theme of going "up" to
 the land in the Jacob Cycle. 
 
 
@@ -752,6 +754,7 @@ Academic, 2017.
 [^27]: Sarna, *Genesis*, 98.
 [^28]: Ibid, 186.
 [^29]: Ibid.
-[^30]: Ibid.
-[^31]: Walton, *Genesis*, 559.
-[^32]: Sailhamer, *Genesis*, 436.
+[^30]: Walton, *Genesis*, 559, 728.
+[^31]: Sarna, *Genesis*, 186.
+[^32]: Walton, *Genesis*, 559.
+[^33]: Sailhamer, *Genesis*, 436.
