@@ -593,32 +593,34 @@ As will be seen with the other wells Isaac digs, the name of the well not only r
 current situation but also on other aspects of the Jacob Cycle. "Esek" means "contention." This is
 the only time the noun is used in the Bible. In sources outside the Bible, it's used in connection
 to disputed titles of ownership.[^29] So, besides reflecting on the situation between the herdsman,
-the name could be reflecting back on Jacob and Esau's contention about the birthright and stew and
-forward to the dispute between Jacob and Laban's dispute after Jacob is tricked into marrying
-Leah ([Genesis 29:22-27](https://biblia.com/bible/esv/genesis/29/22-27).)[^30] While the sale could
-have been legally binding in their culture, Esau later says that
-Jacob cheated him and took away the birthright
-([Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36);) he disputes the legitimacy of the
-transaction. As the episode progresses towards Isaac finding water and making peace with Abimelek,
-Jacob's grasping for the birthright is revealed to be unnecessary and faithless. Here and in the
-past, with Abraham and Lot's separation in the forefront of the audience's mind effected by the
-literary links, God has shown that he will provide for the chosen line.
+the name could be reflecting back on Jacob and Esau's contention about the birthright and stew
+([Genesis 31:1](https://biblia.com/bible/esv/genesis/31/1).)[^30]
 
-### Sitnah: hostility
+While the sale of the birthright could have been legally binding in their culture, Esau later says
+that Jacob cheated him and took it away 
+([Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36),) showing that he disputes the
+legitimacy of the transaction. As the episode progresses towards Isaac finding water and making
+peace with Abimelek, Jacob's grasping for the birthright is revealed to be unnecessary and
+faithless. Here and in the past, with Abraham and Lot's separation in the forefront of the
+audience's mind effected by the literary links, God has shown that he will provide for the chosen
+line.
+
+### Sitnah: complaint/hostility
 
 > <sup>21</sup> Then they dug another well, and they quarreled over that also, so he called its name
 > Sitnah.
 >
 > --Genesis 26:21 (ESV)
 
-The second well is named "Sitnah," which means “hostility.” The word is used in
+The second well is named "Sitnah," which means “complaint.” The word is used in
 [Ezra 4:6](https://biblia.com/bible/esv/ezra/4/6) to indicate a formal accusation against Judah and
-Jerusalem rebuilding for the temple.[^31] This well name looks forward to the aforementioned
-complaint Esau lodges against Jacob for cheating him out of the birthright and blessing in 
-[Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36).[^32] Isaac again doesn't fight for the
-well, instead allowing the herdsmen of Gerar to have it. His sons won't follow his example. Jacob 
-and Rebekah feel the need to  Esau won't follow his example; 
-instead; he will plan to kill Jacob after Isaac's blessing is stolen from him
+Jerusalem for rebuilding the temple.[^31] The verb that comes from the root means "to show 
+hostility."[^32] Isaac doesn't levy any accusation against the herdsmen of Gerar or show hostility
+towards them; instead, he lets them take it. His family won't follow his example. Esau had claim
+to Isaac's blessing, but Rebekah and Jacob trick Isaac into giving it to Jacob instead. This leads 
+to the to the aforementioned complaint Esau lodges against Jacob for cheating him out of the 
+birthright and blessing in [Genesis 27:36](https://biblia.com/bible/esv/genesis/27/36).[^33] There 
+is then hostility between Esau and Jacob which escalates to Esau planning to kill Jacob.
 ([Genesis 27:41](https://biblia.com/bible/esv/genesis/27/41).)
 
 Yet, even Esau, the unchosen son who had the cultural rights of the firstborn taken from him, could
@@ -627,6 +629,11 @@ his mother were given a pittance of water and exiled, God gave them enough water
 descendants, and was with Ishmael 
 ([Genesis 21:18-20](https://biblia.com/bible/esv/genesis/21/18-20).) Rather than trust that God
 would be with him as well as Jacob, he echoes Cain in his desire to kill his brother.
+
+So, the second well provides commentary on events yet to occur in the Jacob Cycle. Rebekeh and 
+Jacob are like the herdmen, seizing what isn't theirs to take. Esau is like Isaac, but, instead of
+peacefully letting go of Isaac's blessing, moving on with trust in God's provision, he plots
+revenge.
 
 ### Rehoboth: wide open spaces
 
@@ -637,7 +644,7 @@ fruitful in the land.”
 > --Genesis 26:22 (ESV)
 
 The third well that Isaac digs doesn't result in any conflict with the Gerar herdsmen, so he names 
-it "Rehoboth," which means "wide open spaces."[^33] Isaac recognizes that Yahweh was the one who 
+it "Rehoboth," which means "wide open spaces."[^34] Isaac recognizes that Yahweh was the one who 
 brought him to this point. Isaac's hope that his household will be fruitful recalls the Eden
 commission in Genesis 1 to "be fruitful and multiply" 
 ([Genesis 1:28](https://biblia.com/bible/esv/genesis/1/28).) His refusal to be provoked by the
@@ -670,7 +677,11 @@ of the land are the Canaanites and Perizzites, which were noted in Abram and Lot
 rescuing Israel to bring them to a broad land are interlocked with the Hebrew root *rkhv* and 
 mentioning the Canaanites and Perizzites.
 
-
+Looking ahead in the Jacob Cycle, this could prefigure Jacob separating from Esau and the safety it
+provides from the threat of Esau's desire to kill him. However, his flight to Haran will be more 
+like Hagar and Ishmael (the unchosen line) being exiled out of the land from Abraham's
+camp than Abram's separation from Lot, which resulted in Abram settling in the land promised to him
+and his descendants.
 
 ## Divine promises in Beersheba
 
@@ -682,8 +693,30 @@ servants dug a well.
 >
 > --Genesis 26:23-25 (ESV)
 
-Isaac leaves the valley of Gerar and goes up to Beersheba. There's a strong theme of going "up" to
-the land in the Jacob Cycle. 
+Isaac leaves the valley of Gerar and goes "up" to Beersheba. "Up/ascend" (root *‘lh*) is a keyword 
+in the Jacob Cycle that signals a return to the promised land and God's presence (see 
+[Part 5](jacob-encounters-god-at-bethel.html).)
+
+Given the parallelism between this story and the stories of Abram, Hagar, and Ishmael, there's an
+expectation for God to speak to Isaac. God re-iterated previous promises to Abram after he separated
+from Lot and to Hagar after she and Ishmael separated from Abraham's camp. He does the same for
+Isaac after his separation from the Philistines.
+
+> <sup>14</sup> The LORD said to Abram, after Lot had separated from him, “Lift up your eyes and
+look from the place where you are, northward and southward and eastward and westward, <sup>15</sup>
+for all the land that you see I will give to you and to your offspring forever. <sup>16</sup> I will
+make your offspring as the dust of the earth, so that if one can count the dust of the earth, your
+offspring also can be counted. <sup>17</sup> Arise, walk through the length and the breadth of the
+land, for I will give it to you.”
+>
+> --Genesis 13:14-17 (ESV)
+
+> <sup>17</sup> And God heard the voice of the boy, and the angel of God called to Hagar from heaven
+and said to her, “What troubles you, Hagar? Fear not, for God has heard the voice of the boy where
+he is. <sup>18</sup> Up! Lift up the boy, and hold him fast with your hand, for I will make him into
+a great nation.”
+>
+> --Genesis 21:17-18 (ESV)
 
 
 
@@ -754,7 +787,8 @@ Academic, 2017.
 [^27]: Sarna, *Genesis*, 98.
 [^28]: Ibid, 186.
 [^29]: Ibid.
-[^30]: Walton, *Genesis*, 559, 728.
+[^30]: Walton, *Genesis*, 559.
 [^31]: Sarna, *Genesis*, 186.
-[^32]: Walton, *Genesis*, 559.
-[^33]: Sailhamer, *Genesis*, 436.
+[^32]: Ibid.
+[^33]: Walton, *Genesis*, 559.
+[^34]: Sailhamer, *Genesis*, 436.
