@@ -702,14 +702,20 @@ expectation for God to speak to Isaac. God re-iterated previous promises to Abra
 from Lot and to Hagar after she and Ishmael separated from Abraham's camp. He does the same for
 Isaac after his separation from the Philistines.
 
+Yahweh appears to Isaac "at night," foreshadowing future night encounters that Jacob will have with 
+God at Bethel ([Genesis 28:10-22](https://biblia.com/bible/esv/genesis/28/10-22)) and
+
 > <sup>14</sup> The LORD said to Abram, after Lot had separated from him, “Lift up your eyes and
 look from the place where you are, northward and southward and eastward and westward, <sup>15</sup>
 for all the land that you see I will give to you and to your offspring forever. <sup>16</sup> I will
 make your offspring as the dust of the earth, so that if one can count the dust of the earth, your
 offspring also can be counted. <sup>17</sup> Arise, walk through the length and the breadth of the
-land, for I will give it to you.”
+land, for I will give it to you.” <sup>18</sup> So Abram moved his tent and came and settled by the
+oaks of Mamre, which are at Hebron, and there he built an altar to the LORD.
 >
 > --Genesis 13:14-17 (ESV)
+
+As with the promise in [Genesis 26:3-5](https://biblia.com/bible/esv/genesis/26/3-5), some elements
 
 > <sup>17</sup> And God heard the voice of the boy, and the angel of God called to Hagar from heaven
 and said to her, “What troubles you, Hagar? Fear not, for God has heard the voice of the boy where
