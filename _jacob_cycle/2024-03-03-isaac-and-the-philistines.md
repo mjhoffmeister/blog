@@ -19,11 +19,12 @@ order[^1] and is highly repetitive of episodes of Abraham in Egypt
 ([Genesis 12:10-20](https://biblia.com/bible/esv/genesis/12/10-20)) and Gerar 
 ([Genesis 20:1-18](https://biblia.com/bible/esv/genesis/20/1-18).) At surface level, this may seem
 incoherent, but the intrusion serves to develop the story of God‘s covenant with the seed of the 
-woman, allows us to reflect on what just happened, and frames what will follow.[^2] Also, we‘re 
-still to compare this story with that of Abraham, with differences between the two cycles being 
-particularly instructive. Furthermore, it's linked to the story of Jacob‘s daughter Dinah in 
-Genesis 34, which is itself an interruption between chapters 33 and 35 and also deals with 
-interactions with the people of Canaan.[^3]
+woman, allows us to reflect on what just happened, and frames what will follow.[^2] Isaac 
+experiences an exile in Gerar that foreshadows Jacob's exile in Haran. Also, we're still to compare
+this story with that of Abraham, with differences between the two cycles being particularly
+instructive. Furthermore, it's linked to the story of Jacob‘s daughter Dinah in Genesis 34, which is
+itself an interruption between chapters 33 and 35 and also deals with interactions with the people
+of Canaan.[^3]
 
 ### Sections
 
@@ -694,16 +695,16 @@ servants dug a well.
 > --Genesis 26:23-25 (ESV)
 
 Isaac leaves the valley of Gerar and goes "up" to Beersheba. "Up/ascend" (root *‘lh*) is a keyword 
-in the Jacob Cycle that signals a return to the promised land and God's presence (see 
-[Part 5](jacob-encounters-god-at-bethel.html).)
+in the Jacob Cycle that signals a return to the promised land and God's presence. By building an
+altar and calling on the name of Yahweh, he establishes a site of worship and sacred space in the 
+land and marks himself loyal to Yawheh. His actions also link his ascent to Beersheba with Jacob's
+ascent and return to Bethel, where he also builds and altar
+([Genesis 35:1](https://biblia.com/bible/esv/genesis/35/1).)
 
 Given the parallelism between this story and the stories of Abram, Hagar, and Ishmael, there's an
 expectation for God to speak to Isaac. God re-iterated previous promises to Abram after he separated
 from Lot and to Hagar after she and Ishmael separated from Abraham's camp. He does the same for
 Isaac after his separation from the Philistines.
-
-Yahweh appears to Isaac "at night," foreshadowing future night encounters that Jacob will have with 
-God at Bethel ([Genesis 28:10-22](https://biblia.com/bible/esv/genesis/28/10-22)) and
 
 > <sup>14</sup> The LORD said to Abram, after Lot had separated from him, “Lift up your eyes and
 look from the place where you are, northward and southward and eastward and westward, <sup>15</sup>
@@ -715,8 +716,6 @@ oaks of Mamre, which are at Hebron, and there he built an altar to the LORD.
 >
 > --Genesis 13:14-17 (ESV)
 
-As with the promise in [Genesis 26:3-5](https://biblia.com/bible/esv/genesis/26/3-5), some elements
-
 > <sup>17</sup> And God heard the voice of the boy, and the angel of God called to Hagar from heaven
 and said to her, “What troubles you, Hagar? Fear not, for God has heard the voice of the boy where
 he is. <sup>18</sup> Up! Lift up the boy, and hold him fast with your hand, for I will make him into
@@ -724,9 +723,57 @@ a great nation.”
 >
 > --Genesis 21:17-18 (ESV)
 
+Abram, Hagar, and Ishmael, were all rescued from exile by God. As the one chosen by God to establish
+a specific people in a specific land to ultimately bring all humanity back to Eden, Abram built an
+altar to establish worship in that land and mark it as sacred space. Hagar, as one outside the
+chosen line, didn't build an altar. However, she and Ishmael were still blessed and protected by
+God, showing that he cared for those who weren't chosen. Furthermore, as we'll see, these Eden-like,
+are places aren't exclusive to the chosen line. The nations are invited in to take part in the 
+blessing.
 
+### My servant
+
+The title of “my servant” is significant in the Bible. In the Torah, only the patriarchs, Moses, and
+Caleb are called God’s servant, and few others receive the title outside of it, the main one being
+David. The idea of “servant of the Lord” whose suffering is seen to be a part of Israel’s redemption
+is developed throughout the Old Testament.[^35] We can see our relationship to Jesus in a similar
+way to Isaac’s relationship to his father. Because Abraham was obedient, Isaac is blessed. Because
+Jesus was obedient, we are blessed.
 
 ## Isaac and Abimelek make peace
+
+> <sup>26</sup> When Abimelech went to him from Gerar with Ahuzzath his adviser and Phicol the
+commander of his army, Isaac said to them, <sup>27</sup> “Why have you come to me, seeing that you
+hate me and have sent me away from you?” <sup>28</sup> They said, “We see plainly that the LORD has
+been with you. So we said, let there be a sworn pact between us, between you and us, and let us make
+a covenant with you, <sup>29</sup> that you will do us no harm, just as we have not touched you and
+have done to you nothing but good and have sent you away in peace. You are now the blessed of the
+LORD.” <sup>30</sup> So he made them a feast, and they ate and drank. <sup>31</sup> In the morning
+they rose early and exchanged oaths. And Isaac sent them on their way, and they departed from him in
+peace.
+>
+> --Genesis 26:26-31 (ESV)
+
+Abimelech, Ahuzzath, and Phicol visit while the well is still being dug. Ahuzzath's title,
+translated “advisor” literally means “friend.” “Friend of the king” was a title that referred to
+someone who counseled the king in affairs of state. So, Abimelech brings his chief civilian and 
+military officers.[^36] The distinguished group, along with Abimelech's flattering and conciliatory
+language, indicates Isaac's strength and the respect afforded him. Isaac speaks with boldness,
+perhaps more confident after God’s reassurances.
+
+We see a picture of God's promise fulfilled. Abimelek sees that Isaac is blessed by God and 
+comes seeking peace. A meal is shared, which was a standard part of treaty negotiations in that 
+time.[^37] There's an impression that Abimelech is blessed by this encounter, reinforced by the 
+parallel scenes in the Abraham Cycle.
+
+
+
+
+
+
+. Melchizedek, set in parallel with Isaac, blessed Abraham. Abraham, set in parallel with Isaac, gave Abimelech sheep, oxen, and 7 ewe lambs. Abimelech leaves, explicitly, “in peace.”
+
+
 
 There's great contrast between the fates of the leaders of the nations, as well. Abimelek confesses 
 that Isaac, Yahweh's chosen is blessed by Yahweh and enjoys a covenant feast with Isaac in 
@@ -798,3 +845,6 @@ Academic, 2017.
 [^32]: Ibid.
 [^33]: Walton, *Genesis*, 559.
 [^34]: Sailhamer, *Genesis*, 436.
+[^35]: Sarna, *Genesis*, 187.
+[^36]: Ibid.
+[^37]: Ibid.
