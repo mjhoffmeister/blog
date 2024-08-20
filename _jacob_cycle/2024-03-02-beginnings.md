@@ -107,7 +107,7 @@ Aramean of Paddan-aram, the sister of Laban the Aramean, to be his wife.
 
 In [Genesis 24:10](https://biblia.com/bible/esv/genesis/24/10), Abraham's servant goes to Haran
 (referred to as "the city of Nahor") to find a wife for Isaac. Paddan-aram may be another name for 
-Haran[^5]. So, we’re reminded of Isaac’s link with Laban and Haran/Padan-aram (perhaps “field of 
+Haran.[^5] So, we’re reminded of Isaac’s link with Laban and Haran/Padan-aram (perhaps “field of 
 Aram,” see [Hosea 12:12](https://biblia.com/bible/esv/hosea/12/12).) Jacob will later flee to 
 Haran, meeting his match in trickery and deception in his uncle Laban.
 
@@ -218,7 +218,7 @@ in its parallel line: wife (subject) > barren (condition) becomes conceived (con
 The root of the Hebrew word translated "prayed" here is *‘tr*. This is the first time a word with 
 that root is used in the Bible, occurring 25 times in total. The more common word for “pray” (*pll*)
 occurs 172 times, so the usage of *‘tr* here is interesting. The next time it's used, and most 
-often, is in Exodus when Moses asks God to remove the plagues[^10]. The Jacob Cycle will often 
+often, is in Exodus when Moses asks God to remove the plagues.[^10] The Jacob Cycle will often 
 allude to Israel's time in Egypt, connecting it to Jacob's exile in Haran. So, we have both an early 
 connection to Israel's enslavement in Egypt and Rebekah's barrenness being addressed in the same way
 that Moses addresses the plagues on behalf of Pharaoh. Isaac asks God to remove a chaotic, 
@@ -247,14 +247,14 @@ foretold by God that a consequence of Adam and Eve’s sin would be pain in conc
 Perhaps, a manifestation of that pain is seen in Rebekah's difficult pregnancy and her reaction to 
 it. The root word used in [Genesis 3:16](https://biblia.com/bible/esv/genesis/3/16),
 translated “childbearing” (ESV,) is the same root word used in 
-[Genesis 25:21](https://biblia.com/bible/esv/genesis/25:21), translated “conceived” (ESV): *h-r-h*.
+[Genesis 25:21](https://biblia.com/bible/esv/genesis/25:21), translated “conceived” (ESV): *hrh*.
 
 > <sup>16</sup> To the woman he said, “I will surely multiply your pain in childbearing [root 
-*h-r-h*]; in pain you shall bring forth children."
+*hrh*]; in pain you shall bring forth children."
 >
 > --Genesis 3:16a (ESV)
 
-> <sup>21</sup> ... And the LORD granted his prayer, and Rebekah his wife conceived [root *h-r-h*].
+> <sup>21</sup> ... And the LORD granted his prayer, and Rebekah his wife conceived [root *hrh*].
 >
 > --Genesis 25:21b (ESV)
 
@@ -284,10 +284,11 @@ God in response to her difficult pregnancy.
 
 This verse is parallel to God’s promise to Abraham in Genesis 12:1-3.
 
-> Now the LORD said to Abram, “Go from your country and your kindred and your father’s house to the 
-land that I will show you. And I will make of you a great nation, and I will bless you and make your
-name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors 
-you I will curse, and in you all the families of the earth shall be blessed.”
+> <sup>1</sup> Now the LORD said to Abram, “Go from your country and your kindred and your father’s
+house to the land that I will show you. <sup>2</sup> And I will make of you a great nation, and I
+will bless you and make your name great, so that you will be a blessing. <sup>3</sup> I will bless
+those who bless you, and him who dishonors you I will curse, and in you all the families of the
+earth shall be blessed.”
 >
 > --Genesis 12:1-3 (ESV)
 
@@ -295,7 +296,7 @@ God's promise to Abraham in Genesis 12 establishes the mission for his family an
 nation that will come from it.[^18] Rebekah's oracle, being compared to the promise given to 
 Abraham, invites the question: how will the conflict foretold result in a nation of blessing?
 
-God’s answer to Rebekah's inquiry is presented in the form of a poem. As is typically in biblical 
+God’s answer to Rebekah's inquiry is presented in the form of a poem. As is typical in biblical 
 poetry, it's in pairs of lines with the second line in each pair developing and intensifying the 
 first.[^19]
 
@@ -307,7 +308,7 @@ nations.
 > "and two peoples from within you shall be divided"
 
 The second line develops the first with a negative aspect: the peoples of the two nations will be 
-divided. The root Hebrew word for “divided” (*p-r-d*) is the same root word used for the nations 
+divided. The root Hebrew word for “divided” (*prd*) is the same root word used for the nations 
 descended from Noah’s children with their own languages (the Babel story explains how they ended 
 up with different languages,) and the separation of Abraham and Lot in
 [Genesis 13:14](https://biblia.com/bible/esv/genesis/13/14).
@@ -320,7 +321,7 @@ In the third line, God reveals that one nation will be stronger than the other.
 
 The last line gives us the twist: the nation descended from the older shall serve the younger. 
 However, it doesn’t suggest that the younger child is therefore more favored by God or to be more 
-favored by Isaac and Rebekah; it’s about the nations that descend from them.[^20]. The words “sons” 
+favored by Isaac and Rebekah; it’s about the nations that descend from them.[^20] The words “sons” 
 or “children” are absent from the oracle.
 
 This line is more ambiguous in Hebrew. The word translated “older” (*rav*) is never translated that 
@@ -395,8 +396,8 @@ also, that strengthen the connections to the poem in Genesis 32.[^24]
 
 Most historians agree that Gilgamesh was a historical king of the Sumerian city-state Uruk who was 
 poetically elevated to part-god status after his death. In the *Epic of Gilgamesh*, he's described 
-as 2/3 god and 1/3 human. His mother was the goddess Ninsun and his father was Lugalbanda, a king 
-of Uruk.
+as two-thirds god and one-third human. His mother was the goddess Ninsun and his father was
+Lugalbanda, a king of Uruk.
 
 In the beginning of the ancient poem, Gilgamesh is portrayed as a tyrant who takes what isn't his: 
 he sleeps with new brides on their wedding nights. The people of Uruk petition the gods for help. 
@@ -594,6 +595,8 @@ Sailhamer, John H. *Genesis*. The Expositor's Bible Commentary. E-book ed. Zonde
 
 Sarna, Nahum M. *Genesis*. The JPS Torah Commentary. Philadelphia: The Jewish Publication Society,
 1989.
+
+Walton, Johm H. *Genesis*. The NIV Application Commentary. E-book ed. Zondervan, 2014.
 
 Wenham, Gordon John. *Genesis 16-50, Volume 2*. World Biblical Commentary. E-book ed. Zondervan 
 Academic, 2017.
