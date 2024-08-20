@@ -18,11 +18,11 @@ the life of Isaac as an interruption within the Jacob story. It appears to be ch
 order[^1] and is highly repetitive of episodes of Abraham in Egypt 
 ([Genesis 12:10-20](https://biblia.com/bible/esv/genesis/12/10-20)) and Gerar 
 ([Genesis 20:1-18](https://biblia.com/bible/esv/genesis/20/1-18).) At surface level, this may seem
-incoherent, but the intrusion serves to develop the story of God‘s covenant with the seed of the 
+incoherent, but the intrusion serves to develop the story of God's covenant with the seed of the 
 woman, allows us to reflect on what just happened, and frames what will follow.[^2] Isaac 
 experiences an exile in Gerar that foreshadows Jacob's exile in Haran. Also, we're still to compare
 this story with that of Abraham, with differences between the two cycles being particularly
-instructive. Furthermore, it's linked to the story of Jacob‘s daughter Dinah in Genesis 34, which is
+instructive. Furthermore, it's linked to the story of Jacob's daughter Dinah in Genesis 34, which is
 itself an interruption between chapters 33 and 35 and also deals with interactions with the people
 of Canaan.[^3]
 
@@ -79,7 +79,7 @@ my laws." <sup>6</sup> So Isaac settled in Gerar.
 As noted above, The Jacob Cycle continues to parallel the Abraham Cycle. Genesis 26:1-6 parallels
 the beginning of Genesis 12:
 
-> <sup>1</sup> Now the LORD said to Abram, "Go from your country and your kindred and your father‘s
+> <sup>1</sup> Now the LORD said to Abram, "Go from your country and your kindred and your father's
 house to the land that I will show you. <sup>2</sup> And I will make of you a great nation, and I
 will bless you and make your name great, so that you will be a blessing. <sup>3</sup> I will bless 
 those who bless you, and him who dishonors you I will curse, and in you all the families of the 
@@ -90,8 +90,8 @@ for the famine was severe in the land.
 >
 > --Genesis 12:1-3, 10 (ESV)
 
-As with us, the lived experience of the chosen line stands in contrast with God‘s promise: the land
-experiences famine. Genesis 26:1 starts exactly like Genesis 12:10, but we‘re told that this is a 
+As with us, the lived experience of the chosen line stands in contrast with God's promise: the land
+experiences famine. Genesis 26:1 starts exactly like Genesis 12:10, but we're told that this is a 
 different famine than the one Abraham experiences.[^5] Isaac goes to Gerar, like Abraham did, and as
 before the king of that place is a man named Abimelek. Abimelek means "my father is king," so it 
 could be a title of the ruler of Gerar. We don't need to assume that this Abimelek is the same one 
@@ -101,14 +101,14 @@ sister?[^6]
 
 ### The Philistines
 
-The Philistines weren‘t a presence in Canaan until later in history (1200 B.C.)[^7] In Judges and 
+The Philistines weren't a presence in Canaan until later in history (1200 B.C.)[^7] In Judges and 
 Samuel, they're are portrayed as violent invaders rather than the relatively peaceful people we see
 in Genesis, and lived in the "pentapolis," not Gerar.[^8] So, why identify Abimelek and Gerar with 
 the Philistines?
 
 Historically, "Philistines" could have been applied to an earlier group (perhaps the Caphtorim of 
 [Deuteronomy 2:23](https://biblia.com/bible/esv/deuteronomy/2/23)) which settled in Gerar and only 
-later expanded to occupy the Canaanite coast.[^9] Beyond that, maybe there‘s a narrative purpose 
+later expanded to occupy the Canaanite coast.[^9] Beyond that, maybe there's a narrative purpose 
 behind using "Philistines." What other other nation has been called out that would in the future be
 in conflict with Israel? Edom. So, perhaps Abimelek and Philistia are intended to serve as analogies
 to Esau and Edom in Genesis 26.
@@ -128,10 +128,10 @@ for the famine was severe in the land.
 We learn that Isaac was traveling to Egypt, as Abraham did during the famine in his time. However, 
 God instructs him to stay in the land ([Genesis 10:19](https://biblia.com/bible/esv/genesis/10/19) 
 states that Gerar was on the border of the settled land of Canaan.)[^10] This casts more light on
-Abraham‘s actions. The famine was a test for him, which he failed. Rather than trusting God to 
-provide in the land, he left to search out what he needed on his own. While God‘s instruction stops
+Abraham's actions. The famine was a test for him, which he failed. Rather than trusting God to 
+provide in the land, he left to search out what he needed on his own. While God's instruction stops
 Isaac from following through with going to Egypt, we see his spiritual condition is similar to his 
-father‘s when faced with the same test. However, we‘ll see that the danger he encounters is less
+father's when faced with the same test. However, we'll see that the danger he encounters is less
 pronounced than it was for Abraham in Egypt and Gerar.[^11]
 
 ### Promise of blessing
@@ -166,7 +166,7 @@ all the nations of the earth be blessed, because you have obeyed my voice."
 
 The differences between Abraham's and Isaac's blessings emphasize the themes of the Jacob Cycle. 
 
-#### I will be with you
+**I will be with you**
 
 Abraham's blessings don't include the promise that God will be with him. This doesn't mean that the 
 Bible is saying that God wasn't with Abraham; rather, it reveals that whether God will be with 
@@ -179,12 +179,12 @@ part of the condition for him pledging allegiance to Yahweh
 the contractual nature of this exchange later, but it reinforces the idea that Jacob, at least, 
 has no assumption about God being with him wherever he goes.
 
-#### Your offspring shall posses the gate of his enemies
+**Your offspring shall posses the gate of his enemies**
 
 In the blessing given to Abraham in Genesis 22, it's promised that a descendant will "possess the
 gates of his enemies." This militaristic language has been omitted from Isaac's blessing, perhaps 
 foreshadowing Isaac's passive nature in Genesis 26.[^12] Furthermore, the absence of "possess the 
-gates" could be set in contrast to "city gate" (*sa‘ar ‘ir*) appearing three times in Genesis 34, 
+gates" could be set in contrast to "city gate" (*sa'ar 'ir*) appearing three times in Genesis 34, 
 the parallel chapter to Genesis 26. There, Jacob, too, is passive, but to the detriment of his 
 family and their standing in the land. God must intervene to prevent them from overtaking Jacob's 
 camp ([Genesis 35:5](https://biblia.com/bible/esv/genesis/35/5).) In Isaac's case, not "possessing 
@@ -226,7 +226,7 @@ It's significant that the first time the promise of Abraham's descendant possess
 enemies is given is after the Isaac sacrifice episode. Isaac was saved from death by God providing 
 a substitute. Jesus saves us from death, the final enemy, by being our substitute.
 
-#### Abraham obeyed
+**Abraham obeyed**
 
 God tells Isaac that the promise of blessing isn't contingent on anything Isaac has done or will do.
 It's based on Abraham's obedience to God.[^15] As noted in 
@@ -234,7 +234,7 @@ It's based on Abraham's obedience to God.[^15] As noted in
 Jacob Cycle. Here, we have an early indication that blessing is not something the characters in the 
 story need to strive for; it's given as a gift.
 
-#### Charge, commandments, statute, and laws
+**Charge, commandments, statute, and laws**
 
 Elaborating on Abraham's obedience, God states that Abraham kept his charge, commandments, statutes, 
 and laws. This is almost the exact wording of Deuteronomy 11:1 where Moses expresses what God 
@@ -248,9 +248,9 @@ rules, and his commandments always."
 > --Deuteronomy 11:1 (ESV)
 
 The Sinai covenant hadn't been established in Isaac's time, so what does this mean? Abraham lived by
-faith in God, and therefore he followed the wisdom behind the law. Following the law wasn‘t intended
+faith in God, and therefore he followed the wisdom behind the law. Following the law wasn't intended
 as an end unto itself. Rather, it formed Israel as a distinct people marked by their relationship
-to Yahweh.[^16] We find the laws evolve as Israel‘s situation changes from wandering to living in
+to Yahweh.[^16] We find the laws evolve as Israel's situation changes from wandering to living in
 the land. For example, laws are established about moving boundary stones in 
 [Deuteronomy 19:14](https://biblia.com/bible/esv/Deuteronomy/19/14). Such a law doesn't apply to a 
 nomadic context, but the root virtue of honesty was consistent throughout Israel's history.
@@ -258,8 +258,8 @@ nomadic context, but the root virtue of honesty was consistent throughout Israel
 Yahweh claimed Abraham's family as his and Abraham's obedience to the heart of God's law set him 
 apart as God's own. So, Isaac, as Abraham's son, receives the blessing first given to Abraham.
 
-This is in contrast to how Jacob obtained the birthright.[^17] Isaac receives the promises on God‘s
-terms: as a free gift based on his father‘s obedience, not by scheming as Jacob did.[^18]
+This is in contrast to how Jacob obtained the birthright.[^17] Isaac receives the promises on God's
+terms: as a free gift based on his father's obedience, not by scheming as Jacob did.[^18]
 
 ### Isaac obeys
 
@@ -509,7 +509,7 @@ to the strength of God's chosen line and what are their fates?
 
 ### Parallels with the Abraham Cycle
 
-#### Abram and Lot
+**Abram and Lot separate**
 
 This section is thematically parallel with Abram and Lot separating in 
 [Genesis 13:1-13](https://biblia.com/bible/esv/genesis/13/1-13). Abram had also become wealthy, and
@@ -538,9 +538,9 @@ for himself.[^27] However, he allowed Lot to choose what appeared to be the more
 instead of grasping for it, himself.
 
 The note about the Canaanites and Perizzites provides a link to Exodus 3 discussed in
-[Made room](#made-room).
+[Rehoboth: wide open spaces](#rehoboth-wide-open-spaces).
 
-#### Hagar and Ishmael
+**Hagar and Ishmael**
 
 As introduced [above](#threat-disproved), there are also links to Abraham sending Hagar and Ishmael
 away in Genesis 21. Hagar "departed" (*telek*, root *hlk*) to the wilderness of Beersheba after 
@@ -556,7 +556,7 @@ Isaac departed (*yelek*, root *hlk*) to the Valley of Gerar after being asked to
 With the continued linking of the two stories through shared words, the invitation to compare them 
 is strengthened.
 
-#### Summary
+**Summary**
 
 In these parallels with the Abraham cycle, we see people within and without the chosen line
 dependent on God with an emphasis on the need for water. Abram surrendered what seemed to be the
@@ -673,10 +673,9 @@ and the Jebusites.
 > --Exodus 3:8 (ESV)
 
 God promises to bring Israel back to the land of the patriarchs. Included in the list of the peoples
-of the land are the Canaanites and Perizzites, which were noted in Abram and Lot's separation (see 
-[Abram and Lot](#abraham-and-lot).) God giving the land to Abram, leading Isaac to open spaces, and
-rescuing Israel to bring them to a broad land are interlocked with the Hebrew root *rkhv* and 
-mentioning the Canaanites and Perizzites.
+of the land are the Canaanites and Perizzites, which were noted in Abram and Lot's separation above.
+God giving the land to Abram, leading Isaac to open spaces, and rescuing Israel to bring them to a
+broad land are interlocked with the Hebrew root *rkhv* and mentioning the Canaanites and Perizzites.
 
 Looking ahead in the Jacob Cycle, this could prefigure Jacob separating from Esau and the safety it
 provides from the threat of Esau's desire to kill him. However, his flight to Haran will be more 
@@ -726,10 +725,10 @@ a great nation.”
 Abram, Hagar, and Ishmael, were all rescued from exile by God. As the one chosen by God to establish
 a specific people in a specific land to ultimately bring all humanity back to Eden, Abram built an
 altar to establish worship in that land and mark it as sacred space. Hagar, as one outside the
-chosen line, didn't build an altar. However, she and Ishmael were still blessed and protected by
-God, showing that he cared for those who weren't chosen. Furthermore, as we'll see, these Eden-like,
-are places aren't exclusive to the chosen line. The nations are invited in to take part in the 
-blessing.
+chosen line (and who was leaving the land,) didn't build an altar. However, she and Ishmael were
+still blessed and protected by God, showing that he cared for those who weren't chosen. Furthermore,
+as we'll see, these Eden-like, are places aren't exclusive to the chosen line. The nations are
+invited in to take part in the blessing.
 
 ### My servant
 
@@ -763,23 +762,42 @@ perhaps more confident after God’s reassurances.
 
 We see a picture of God's promise fulfilled. Abimelek sees that Isaac is blessed by God and 
 comes seeking peace. A meal is shared, which was a standard part of treaty negotiations in that 
-time.[^37] There's an impression that Abimelech is blessed by this encounter, reinforced by the 
+time.[^37] There's an impression that Abimelek is blessed by this encounter, reinforced by the 
 parallel scenes in the Abraham Cycle.
 
+In Genesis 14, Abram rescued Lot and the people of Sodom from the king of Elam. In
+[verses 21-24](https://biblia.com/bible/esv/genesis/14/21-24), the king of Sodom brusquely 
+demanded that his people be returned to him, but offered Abram the possessions taken during the 
+rescue. Abram refused anything for himself, asking only that his allies be given their share, 
+essentially gifting his share to the king of Sodom. In Genesis 21, Abraham gave Abimelek sheep,
+oxen, and seven eye lambs and made a covenant with him at Abimilek's request for peace and to
+resolve a conflict over a well stolen from Abraham
+([Genesis 21:27](https://biblia.com/bible/esv/genesis/21/27).) 
 
+So, a pattern is established of the nations coming to the chosen seed of the woman, finding peace 
+and being blessed.
 
+## Isaac digs a well in Beersheba
 
+> <sup>32</sup> That same day Isaac’s servants came and told him about the well that they had dug
+and said to him, “We have found water.” <sup>33</sup> He called it Shibah; therefore the name of the
+city is Beersheba to this day.
+>
+> --Genesis 26:32-33 (ESV)
 
+We learn that the well is completed. The fact that this happened “that same day” connects the peace
+treaty with the discovery of water.[^38] We have another echo of Eden, strengthened if we remember
+that Abraham planted a tamarisk tree in the same place after making his treaty with Abimelek
+([Genesis 21:32](https://biblia.com/bible/esv/genesis/21/32).)
 
-. Melchizedek, set in parallel with Isaac, blessed Abraham. Abraham, set in parallel with Isaac, gave Abimelech sheep, oxen, and 7 ewe lambs. Abimelech leaves, explicitly, “in peace.”
+He calls the well Shibah, which means “oath,” and additional meaning is given to "Beersheba." 
+Abraham originally named the place to commemorate the return of his well and the seven ewe lambs 
+given to Abimelek. *b<sup>e</sup>‘er* means well and *sheva‘* means seven. *shiv‘ah* sounds like 
+*sheva‘*. Beersheba becomes both the "well of seven" and the "well of oath."
 
-
-
-There's great contrast between the fates of the leaders of the nations, as well. Abimelek confesses 
-that Isaac, Yahweh's chosen is blessed by Yahweh and enjoys a covenant feast with Isaac in 
-Eden-space (see [Isaac and Abimelek make peace](#isaac-and-abimelek-make-peace) below,) while 
-Pharaoh, who refuses to listen to Moses, Yahweh's chosen, and his army are consumed by the waters 
-of the Sea of Reeds.
+This looks ahead not only to Jacob and Esau reconciling, but also to the Exodus and Israel settling
+into a time of peace in Canaan and the ultimate goal of all nations being brought back from exile 
+and reconciled to God.
 
 ## Bibliography
 
@@ -848,3 +866,4 @@ Academic, 2017.
 [^35]: Sarna, *Genesis*, 187.
 [^36]: Ibid.
 [^37]: Ibid.
+[^38]: Ibid, 188.
