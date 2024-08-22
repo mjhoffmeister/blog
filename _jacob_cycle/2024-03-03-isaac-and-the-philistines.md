@@ -7,7 +7,7 @@ sidebar:
   nav: jacob-cycle
 toc: true
 toc_sticky: true
-toc_label: Isaac and the Philistines
+toc_label: Contents
 ---
 **The Jacob Cycle - Part 3**
 

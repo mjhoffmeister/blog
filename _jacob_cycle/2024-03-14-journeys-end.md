@@ -1,6 +1,6 @@
 ---
 title: Journey's end
-date: 2024-03-25 15:00:00 -0600
+date: 2024-03-14 00:00:00 -0600
 permalink: /jacob-cycle/journeys-end
 categories: jacob-cycle
 sidebar:
@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 toc_label: Journey's end
 ---
-**The Jacob Cycle - Part 12**
+**The Jacob Cycle - Part 14**
 
 The final scenes of the Jacob Cycle have numerous references to what has come before. The Abraham
 and Joseph stories end in a similar way, illustrating the intentional design of Genesis and 
