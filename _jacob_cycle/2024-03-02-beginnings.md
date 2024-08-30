@@ -137,11 +137,11 @@ Exile is a central theme in the Jacob Cycle. It was suggested in
 [Part 1](introduction.html#historical-context) that the final form of the story as we have it in 
 the Bible was arranged in the period of the Babylonian exile. Terminology is being used here that 
 might have caused the original hearers or readers to consider the exile of the northern tribes to 
-Assyria and of the southern tribes to Judah. The hope of return to the land as established at Bethel 
-([Genesis 28:15](https://biblia.com/bible/esv/genesis/28/15)) would call to them from the past and 
-give them hope. If you're a Christian, that hope calls to you, as well, as you endure through the 
-final exodus ([Revelation 12](https://biblia.com/bible/esv/revelation/12)) and wait for the ultimate 
-reunification of heaven and earth 
+Assyria and of the southern tribes to Babylon. The hope of return to the land as established at
+Bethel ([Genesis 28:15](https://biblia.com/bible/esv/genesis/28/15)) would call to them from the 
+past and give them hope. If you're a Christian, that hope calls to you, as well, as you endure
+through the final exodus ([Revelation 12](https://biblia.com/bible/esv/revelation/12)) and wait for
+the ultimate reunification of heaven and earth 
 ([Revelation 22:10](https://biblia.com/bible/esv/revelation/22/10).)
 
 ## Pregnancy and birth of Esau and Jacob
@@ -359,7 +359,7 @@ born "to Isaac." As discussed in the [The toledot of Isaac](#the-toledot-of-isaa
 disconnected from Ishmael in the narrative by not stating that Abraham fathered him. Here, Isaac 
 isn't said to have fathered Esau and Jacob, either, only that Rebekah bore them. So, Isaac is 
 distanced from his sons. Why? One reason could be that by de-emphasizing Isaac, God's role in the
-childrens' birth is being accented. Another could be that the ambiguity of the oracle is being 
+children's birth is being accented. Another could be that the ambiguity of the oracle is being 
 maintained. If one son was stated to be fathered by Isaac and the other wasn't, the tension would be
 prematurely relieved.
 
