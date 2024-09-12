@@ -13,7 +13,8 @@ toc_label: Contents
 
 ## Structure
 
-There are different opinions are how this section is structured, but, generally, they generally put Isaac blessing Jacob in the center (Fokkelman: 98, Wenham: 202).
+Like the previous episode, this one is divided up into seven sections. It's arranged chiastically 
+with Isaac blessing Jacob in the center.[^1].
 
 | --- |
 | A. Esau marries Hittites - Genesis 26:34-35 |
@@ -24,15 +25,43 @@ There are different opinions are how this section is structured, but, generally,
 | &ensp;&ensp; B’. Rebekah thwarts Esau’s revenge; Jacob send to Padam-Aram - Genesis 27:41-28:5
 | A'. Esau marries an Ishmaelite - Genesis 28:6-9 |
 
+Whereas "Yahweh" occurred 7 times in the story about Isaac and in Philistines, the noun "blessing" 
+(*berakhah*) occurs 7 times and the verb "blessed" (*barak*) occurs 21 (7 X 3) times, establishing
+blessing as the central theme.
 
-## Esau marries Hitties
-Genesis 26:34-35
+## Esau marries Hittites
 
-As a preface to the story of Isaac’s blessing, we’re told that Esau marries two Hittite women. This stands in contrast to Abraham’s desire for Isaac to not intermarry with the Canaanites in Genesis 24:2-4. In Hebrew, “Hittites” is bene heth, literally “sons of Heth.” Heth is listed as a son of Canaan in Genesis 10:15, so the Hittites are likely a small group of Canaanites (Wenham: 126). Esau doesn’t only marry one Hittite woman, he marries two. The law later prohibits marrying Canaanites because doing so would tempt Israel away from Yahweh (Deuteronomy 7:3.)  He also breaks the established convention of parents brokering their childrens’ marriages (Sarna: 189)
+> <sup>34</sup> When Esau was forty years old, he took Judith the daughter of Beeri the Hittite to
+be his wife, and Basemath the daughter of Elon the Hittite, <sup>34</sup> and they made life bitter
+for Isaac and Rebekah.
+>
+> --Genesis 26:34-35 (ESV)
 
-Esau is further shown to be unworthy of inheriting the blessing.
+These verses provide provide a transition from the previous section and frame the entire episode 
+(Esau marries again in [Genesis 27:9](https://biblia.com/bible/esv/genesis/27/9).) Esau marries two
+Hittite women. Hittites are descended from Heth, who is listed as a son of Canaan in
+[Genesis 10:15](https://biblia.com/bible/esv/genesis/10/15). As discussed in
+[Part 1](beginnings.html#the-sale-of-the-birthright),
+[Hebrews 12:16](https://biblia.com/bible/esv/hebrews/12/16) interprets Esau's sale of the birthright
+and his marriages as a sign of faithlessness in Yahweh. His marriages, in particular, might suggest
+serving other gods. The law later prohibits Israelites from marrying women from the nations because
+doing so would turn them away from Yahweh
+([Deuteronomy 7:3-4](https://biblia.com/bible/esv/deuteronomy/7/3-4).)
 
-Blessing is emphasized in the following section. The word “blessing” (berakhah) occurs 7 times. The verbal form occurs 21 (7 X 3) times (Ibid). Jacob previously tricked Esau into selling the birthright (bekhorah.) Now he’ll seize the blessing.
+The names of Esau's wives and their fathers create a transition from the previous section and this
+one. Beeri recalls the well (*be’er*) dug in
+[Genesis 26:32](https://biblia.com/bible/esv/genesis/26/32). Elon sounds like *’alah*, echoing the
+pact/oath made between Isaac and Abimelek in
+[Genesis 26:28](https://biblia.com/bible/esv/genesis/26/28).[^2] Judith is connected to the verb "to 
+praise" and Basemath has a connotation of a pleasant fragrance.[^3] All this is perhaps ironic word 
+play. Isaac settled in Beersheba near plentiful water and at peace with the nations. Esau takes what
+is praiseworthy and sweet-smelling to him, but it results in bitterness of spirit for Isaac and 
+Rebekah.
+
+We're not told what specifically causes the bitterness (*morath*, root *mrr*) of spirit, but the
+detail serves an important literary role. Esau will cry out a great "bitter" (*marah*, root *mrr*)
+scream after he learns that Jacob stole the blessing from him, and Rebekah will use it as a pretense
+to send Jacob away to protect him from Esau seeking revenge.
 
 ## Isaac and Esau
 Genesis 27:1-5
@@ -98,4 +127,17 @@ Every character’s actions are morally suspect and the grasping is unnecessary.
 
 ## Bibliography
 
-Daniel Langer, “A Tikkun: Rebekah and Eve,” Tradition: A Journal of Orthodox Jewish Thought 27, no. 1
+Abraham, Jed H. “A Literary Solution to the Name Variations of Esau’s Wives.” 
+*The Torah U-Madda Journal* 7 (1997): 1–14. http://www.jstor.org/stable/40914828.
+
+Sarna, Nahum M. *Genesis*. The JPS Torah Commentary. Philadelphia: The Jewish Publication Society,
+1989.
+
+Wenham, Gordon John. *Genesis 16-50, Volume 2*. World Biblical Commentary. E-book ed. Zondervan 
+Academic, 2017.
+
+---
+
+[^1]: Wenham, *Genesis*, 202.
+[^2]: Abraham, "Name Variations of Esau's Wives," 7.
+[^3]: Sarna, *Genesis*, 189.
