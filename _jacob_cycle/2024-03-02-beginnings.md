@@ -528,22 +528,46 @@ the arrangement. We get four verbs in quick succession ("he **ate** and **drank*
 **went**") with no more dialogue, which is chilling considering what just happened.[^38] Esau 
 satisfied his appetite and left without further comment.
 
-The Bible doesn’t often directly comment on whether something that happened is good or bad, so 
+The Bible doesn't often directly comment on whether something that happened is good or bad, so 
 the statement "Thus Esau despised his birthright" is unusual and significant.[^39] We’re being shown
-why Esau is disqualified from being the chosen child of promise. If he is treats the birthright, 
-something of great value in his time and place, so flippantly, how can he be trusted with carrying
-on the blessing of the seed of the woman? Nevertheless, Jacob doesn’t present himself as a much 
-better option. There’s still more to reflect on as the story progresses. Still, it’s perhaps 
-significant that Esau doesn’t seem to care much about the rights of the firstborn, while Jacob does.
-[^40] While Jacob isn’t loyal to God at this point, his heart is somewhat oriented towards the 
-commission given to humanity in the beginning.
+why Esau is disqualified from being the chosen child of promise. By treating the birthright, 
+something of great value in his time and place, so flippantly, he's shown as one who gives in to 
+hardship instead of persevering. Hebrews comments on Esau's behavior.
+
+> <sup>15</sup> See to it that no one falls short of the grace of God and that no bitter root grows
+up to cause trouble and defile many. <sup>16</sup> See that no one is sexually immoral, or is
+godless like Esau, who for a single meal sold his inheritance rights as the oldest son.
+<sup>16</sup> Afterward, as you know, when he wanted to inherit this blessing, he was rejected. Even
+though he sought the blessing with tears, he could not change what he had done.
+>
+> --Hebrews 12:15-17 (NIV)
+
+In context, the author of Hebrews is encouraging his audience to persevere in their faith through
+difficulty. To "fall short" of God's grace is to abandon faith in the face of difficulty. "Bitter
+root" is a metaphor for the result of serving other gods in
+[Deuteronony 29:18](https://biblia.com/bible/esv/deuteronomy/29/18). Esau would have exposed himself
+to the worship of other gods when he married Hittite women in
+[Genesis 28:34](https://biblia.com/bible/esv/genesis/28/34), which is the sexual immorality and 
+godlessness to which the Hebrews author refers, and he gave up his birthright, something of great
+value in his culture, to appease momentary hunger. He's portrayed as one who didn't persevere and
+gave his allegiance to other gods. While there's a reversal of Esau's misfortunes in the Jacob
+Cycle, here in Hebrews, the point where Esau changed his mind is set up as the future final 
+judgment. He was too late; the "race" of Hebrews 12:1 was finished. Literally, he wasn't able to 
+find a "place for repentance." As we'll see later, Jacob's place of repentance is at Peniel where 
+he wrestles with God.[^40]
+
+At this point, however, Jacob doesn't present himself as a much better option for the seed of the 
+woman. There's still more to reflect on as the story progresses. Still, it's perhaps 
+significant that Jacob appreciates the cultural value of the birthright. [^41] While Jacob isn't
+loyal to God at this point, his heart is somewhat oriented towards the commission given to humanity
+in the beginning.
 
 Esau is following the lead of Adam and Eve in the garden. Esau called Edom, which sounds like Adam,
 trades his birthright, which included authority, for food he thought was more substantial than it 
 turned out to be because he thought he was going to die. Adam and Eve traded their right to rule 
 for food they thought would make them like gods (*elohim*,) being promised that they wouldn’t die. 
 But, Jacob is the the deceiver in this story. The literary design of the section even has Jacob 
-encircling Esau.[^41] Perhaps like a coiling serpent?
+encircling Esau.[^42] Perhaps like a coiling serpent?
 
 &ensp;&ensp;Said Jacob: sell me your birthright  
 &ensp;&ensp;&ensp;&ensp;Said Esau: I leave, I die; of what use is a birthright to me?  
@@ -554,14 +578,14 @@ transactions in the Bible
 ([Abraham’s purchase of a burial cave](https://biblia.com/bible/esv/genesis/23/3-17), 
 [David’s purchase of a threshing floor](https://biblia.com/bible/esv/2-samuel/24/21-24)) follow a 
 formula that states that the purchaser actually bought what was sold to them. It’s left out here to
-distance Jacob’s eventual authority from the means he used to get it.[^42] That is, Jacob’s
+distance Jacob’s eventual authority from the means he used to get it.[^43] That is, Jacob’s
 actions aren’t what establish him as the chosen seed of the woman.
 
 ## Conclusion
 
 The beginning of the Jacob Cycle sets the trajectory for the rest of the story. Through God's 
 oracle, it's revealed that he will chose the one to carry on the blessing given to Abraham. Human 
-traditions and expectations won't be the determining factors. Paul comments on this in Romans.[^43]
+traditions and expectations won't be the determining factors. Paul comments on this in Romans.[^44]
 
 > <sup>10</sup> And not only so, but also when Rebekah had conceived children by one man, our 
 forefather Isaac, <sup>11</sup> though they were not yet born and had done nothing either good or 
@@ -577,6 +601,10 @@ despite selfish human machinations, his plan to save humanity won't be thwarted.
 ## Bibliography
 
 Alter, Robert. *The Art of Biblical Narrative*, E-book ed. Basic Books, 2011.
+
+Asumang, Annang. "Strive for peace and holiness: the intertextual journey of the Jacob traditions
+from Genesis to Hebrews, via the prophets."
+*Conspectus: The Journal of the South African Theological Seminary* 17, no. 3 (2014): 1-52.
 
 Cassuto, Umberto. *A Commentary on the Book of Genesis: From Noah to Abraham*. Translated by Israel
 Abrams. E-book ed. Varda Books, 2012.
@@ -642,7 +670,8 @@ Academic, 2017.
 [^37]: Sarna, *Genesis*, 182.
 [^38]: Wenham, *Genesis* 177.
 [^39]: Ibid.
-[^40]: Sailhamer, *Gensis*, 427.
-[^41]: Fokkelman, *Narrative Art*, 95.
-[^42]: Sarna, *Genesis*, 182.
-[^43]: Wenham, *Genesis* 179.
+[^40]: Asumang, "Strive for Peace and Holiness," 42.
+[^41]: Sailhamer, *Gensis*, 427.
+[^42]: Fokkelman, *Narrative Art*, 95.
+[^43]: Sarna, *Genesis*, 182.
+[^44]: Wenham, *Genesis* 179.
