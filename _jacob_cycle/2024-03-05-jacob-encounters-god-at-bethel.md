@@ -116,7 +116,7 @@ There are many links to Abraham's vision in Genesis 15.
 | "What will you give me?" - Genesis 15:2 | "Of all that you give me" - Genesis 28:22 |
 | "The heir of my house is Eliezer" - Genesis 15:2 | "This stone... shall be God's house " - Genesis 28:22 |
 | "Look toward heaven" - Genesis 15:5 | "The top of it reached heaven" - Genesis 28:12 |
-| "So shall your offspring be [like the stars]" - Genesis 15:5 | "Your offspring shall be like the dust of the earth - Genesis 28:14 |
+| "So shall your offspring be [like the stars]" - Genesis 15:5 | "Your offspring shall be like the dust of the earth" - Genesis 28:14 |
 | "As the sun was going down" - Genesis 15:12 | "The sun had set" - Genesis 28:11 |
 | "You shall go to your fathers in peace" - Genesis 15:15 | "So that I come to my father's house in peace" - Genesis 28:21 |
 | "They shall come back here" - Genesis 15:16 | "I will bring you back to this land" - Genesis 28:10 |
@@ -224,10 +224,9 @@ to the promised land.
 >
 > --Genesis 28:12b (ESV)
 
-Jacob sees "angels" (*malake*, literally "messengers") ascending and the *sullam*. Along the
-vertical axis, the angels are God's spiritual messengers. Strangely, they don't give a message to
-Jacob. This suggests, perhaps, that the "message" they carry is their movement up and down the
-*sullam*.[^12]
+Jacob sees "angels" (*malake*, literally "messengers") ascending and the *sullam*. Strangely, they
+don't give a message to Jacob. This suggests, perhaps, that the "message" they carry is their
+movement up and down the *sullam*.[^12]
 
 Along the vertical axis, they represent God's knowledge of and control over everything that occurs 
 in the physical realm.[^13] God sends his agents to effect his plan to rescue humanity, Jacob
@@ -330,7 +329,7 @@ through righteousness leading to eternal life through Jesus Christ our Lord.
 
 The promises given to Jacob closely echo those given to Abram after he generously allowed Lot to 
 choose what appeared to be the best land for himself in 
-[Genesis 13:14-16](https://biblia.com/bible/esv/genesis/15/9-17).[^17] Interestingly, Abram was
+[Genesis 13:14-16](https://biblia.com/bible/esv/genesis/13/14-16).[^17] Interestingly, Abram was
 between Bethel and Ai when he was given these promises, where he had established a site of worship
 by building an altar. For Jacob, the place where he sleeps has no significance, but he's unknowingly
 near where Abram was given the same promises after demonstrating generosity. Perhaps, the biblical 
@@ -372,8 +371,7 @@ being chased by Saul, he accused Saul's allies of telling him to serve other god
 outside Israel ([1 Samuel 26:19](https://biblia.com/bible/esv/1-samuel/26/19).) Naaman, commander of
 the Syrian army, asked for loads of earth to take back with him after he was healed from leprosy
 because he believed that he needed part of Yahweh's land to legitimately worship him
-([2 Kings 5:17](https://biblia.com/bible/esv/2-kings/5/17).) Yahweh's promise asserts that he isn't
-constrained by the boundary lines of other nations nor challenged by their gods.
+([2 Kings 5:17](https://biblia.com/bible/esv/2-kings/5/17).)
 
 It also might have been contrary to the beliefs in the cultural context that God could descend to 
 the earth himself (although he did manifest himself to Abraham.) In the Ancient Near East myth
