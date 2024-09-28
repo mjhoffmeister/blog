@@ -42,7 +42,7 @@ itself.[^2]
 | Dream | Jacob's response |
 | --- | --- |
 | "place" - Genesis 28:11 | "place" - Genesis 28:16-17 |
-| "stones," "headrest"  - Genesis 28:11 | "stone," "headrest" - Genesis 28:18 |
+| "stones," "headrest" - Genesis 28:11 | "stone," "headrest" - Genesis 28:18 |
 | "I am with you" - Genesis 28:15 | "If God will be with me" - Genesis 28:20 |
 | "guard you wherever you go" - Genesis 28:15 | "guard me in this way that I go" - Genesis 28:20 |
 | "bring you back to this land" - Genesis 28:15 | "return to my father’s house" - Genesis 28:21 |
@@ -130,14 +130,14 @@ While Abram's vision begins with the verbal elements, Jacob's dream ends with th
 | A. "And behold, a member of my household will ber my heir" - Genesis 15:3 |
 | A'. "And behold... 'This man shall not be your heir'" - Genesis 15:4 |
 | &ensp;&ensp; B. "And behold, dreadful and great darkness fell upon him" - Genesis 15:12 |
-| &ensp;&ensp; B'. "And behold, a smoking fire pot and a flaming torch passed between the pieces - Genesis 15:17 |
+| &ensp;&ensp; B'. "And behold, a smoking fire pot and a flaming torch passed between the pieces" - Genesis 15:17 |
 
 | Verbal and visual elements in Jacob's dream |
 | --- |
 | &ensp;&ensp; B. "And behold, there was a *sullam*" - Genesis 28:12a |
 | &ensp;&ensp; B'. "And behold, the angels of God were ascending and descending on it" - Genesis 28:12b |
-| A. "And behold... 'The land on which you lie I will give' - Genesis 28:13 |
-| A'. "'And behold... will bring you back to this land' - Genesis 28:15 |
+| A. "And behold... 'The land on which you lie I will give'" - Genesis 28:13 |
+| A'. "'And behold... will bring you back to this land'" - Genesis 28:15 |
 
 Comparing these show the primary concerns of the patriarchs. Abram's concern is for offspring, while
 Jacob's is the land, specifically returning to it. While God promises offspring and land to both
