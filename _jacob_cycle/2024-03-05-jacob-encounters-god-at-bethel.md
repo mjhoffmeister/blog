@@ -546,7 +546,7 @@ Academic, 2017.
 [^12]: Ibid, 102.
 [^13]: Ibid.
 [^14]: Ibid, 107.
-[^15]: Heister, *Unseen Realm*, 136.
+[^15]: Heiser, *Unseen Realm*, 136.
 [^16]: Wenham, *Genesis 1-15*, 331.
 [^17]: Wenham, *Genesis 16-50*, 222.
 [^18]: Ibid, 223.
