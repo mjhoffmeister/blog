@@ -47,15 +47,15 @@ about a betrothal, links to the other betrothal stories in interesting ways).[^3
 It could mean that Jacob has left Bethel with energy or confidence after his experience with
 God.[^4]
 
-As has been mention in previous parts, east is associated with separation from God in Genesis. When
-Adam and Eve were exiled from the garden, the cherubim were placed on the east side of the garden
-([Genesis 3:24](https://biblia.com/bible/esv/genesis/3/24).)[^5] Cain went away from God’s presence
-after he killed Abel east of Eden ([Genesis 4:16](https://biblia.com/bible/esv/genesis/4/16).) The
-people involved in the building of the tower of Babel had migrated east
-([Genesis 11:2](https://biblia.com/bible/esv/genesis/11/2).) So, on one hand, Jacob is moving away
-from God in the cosmic geography, away from Bethel, the House of God and a gate of heaven. On the
-other hand, God said that he would be with him and guard him wherever he went
-([Genesis 28:15](https://biblia.com/bible/esv/genesis/28/15).)
+As has been mentioned in previous parts, east is associated with separation from God in Genesis.
+When Adam and Eve were exiled from the garden, the cherubim were placed on the east side of the
+garden ([Genesis 3:24](https://biblia.com/bible/esv/genesis/3/24).)[^5] Cain went away from God's
+presence after he killed Abel east of Eden
+([Genesis 4:16](https://biblia.com/bible/esv/genesis/4/16).) The people involved in the building of
+the tower of Babel had migrated east ([Genesis 11:2](https://biblia.com/bible/esv/genesis/11/2).)
+So, on one hand, Jacob is moving away from God in the cosmic geography, away from Bethel, the House
+of God and a gate of heaven. On the other hand, God said that he would be with him and guard him
+wherever he went ([Genesis 28:15](https://biblia.com/bible/esv/genesis/28/15).)
 
 ### The shepherds and the stone
 
@@ -99,7 +99,7 @@ that he was Rebekah’s son, and she ran and told her father.
 >
 > --Genesis 29:9-12 (ESV)
 
-During the conversation, suspense builds as Rachel approaches. Rachel arrives at the well and we
+During the conversation, suspense builds as Rachel approaches. Rachel arrives at the well, and we
 receive a hint that God has indeed gone with Jacob out of the land and Bethel. Not only has God led
 him to his extended family, but he gives him supernatural strength to single-handedly remove the
 "great" stone from the well.
