@@ -238,7 +238,7 @@ would eventually break free and have revenge in the wake of Babylon’s conquest
 
 ## Jacob sent to Padam-aram
 
-### Rebakah and Jacob
+### Rebekah and Jacob
 
 > <sup>41</sup> Now Esau hated Jacob because of the blessing with which his father had blessed him,
 and Esau said to himself, “The days of mourning for my father are approaching; then I will kill my
