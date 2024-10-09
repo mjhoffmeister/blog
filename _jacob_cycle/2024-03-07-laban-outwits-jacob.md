@@ -1,5 +1,5 @@
 ---
-title: Laban outwits Jacob (draft)
+title: Laban outwits Jacob
 date: 2024-03-07 00:00:00 -0600
 permalink: /jacob-cycle/laban-outwits-jacob
 categories: jacob-cycle
