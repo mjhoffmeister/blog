@@ -196,8 +196,8 @@ In the light of morning, Jacob discovers the deception. He echoes the words of I
 they discovered Jacob's deception in [Genesis 27:35](https://biblia.com/bible/esv/genesis/27/35):
 "Your brother came deceitfully..."[^14] Laban responds, literally, "It is not done in our place to
 give the younger before the firstborn." "Place" *m<sup>e</sup>qome* recalls Bethel, which was just a
-"place" (*maqom*) to Jacob before God revealed himself and Jacob renamed it Bethel. There, God
-promised Jacob that he would be with him wherever he went
+"place" (*maqom*) to Jacob before God revealed himself and Jacob renamed it. There, God promised
+Jacob that he would be with him wherever he went
 ([Genesis 28:15](https://biblia.com/bible/esv/genesis/28/15).) Laban's statement about it not being
 their custom to give the younger before the firstborn leaves Jacob speechless. What he had done to
 Isaac and Esau is now being done to him. He elevated himself, the younger, above Esau, the
@@ -207,14 +207,39 @@ will work through his chosen one, regardless of his failings.
 
 Instead of a verbal response, Jacob silently accepts Laban's offer to work another seven years for
 Rachel. We're perhaps intended to wonder if this is the appropriate response. In Biblical narrative, 
-marrying multiple wives is generally demonstrated to cause problems and not align with God's plan.
+marrying multiple wives is generally demonstrated to cause problems and not align with God's plan. 
+The first man who had two wives in the Bible was Lamech, the seventh generation from the line of
+Cain, was also the second murderer in the Bible and boasted about it. Sarah gave Hagar to Abraham 
+to try to resolve her barrenness on her own, contrary to God's plan. In the Jacob Cycle itself,
+Esau's first two wives caused "bitterness of spirit" in Isaac and Rebekah. Leah will be the mother 
+of Judah, the line of Israel's kings and Jesus himself. She'll survive the return to Canaan, while
+Rachel won't. Jacob's persistent favoritism for Rachel and his children by her will ultimately lead
+to the nascent Israel relocating to Egypt and becoming enslaved there. Leah, though the firstborn,
+as the unloved wife is the lesser between her and her sister. Up to this point in Genesis, God has
+been choosing the lesser to be his chosen one. Maybe, Leah was the only one God intended Jacob to
+marry. If Jacob, confronted with what he had done in Canaan had repented here, would he have
+recognized it? Regardless, God will work through both wives, and their servants, to bring about the
+births of the patriarchs of the twelve tribes of Israel, demonstrating the invincibility of his plan
+despite imperfect people and situations.
 
-Like with Leah, Rachel is given a servant. We're presented with all the matriarchs of the tribes of
-Israel: Leah, Rachel, Zilpah, and Bilhah. Leah and Rachel will experience barrenness like Sarah and
-Rebekah, and they'll resort to the tactics of Abram and Sarah to resolve it: giving their servants 
-to Jacob to have children through them.
+After completing the required week with Leah, Jacob marries Rachel, committing to another seven
+years of service to Laban. The introduction of Rachel's servant Bilhah sets the stage for further
+complications in Jacob’s family. Here, the matriarchs of the tribes of Israel are presented: Leah,
+Rachel, Zilpah, and Bilhah. Leah and Rachel will both experience barrenness, and, like Sarah before
+them, will attempt to resolve it by giving their servants to Jacob to bear children on their behalf.
+This, combined with Jacob's clear preference for Rachel over Leah, suggests that more familial
+discord is imminent. Despite these issues, God's plan remains firm. He continues to work through the
+failings and favoritism of His chosen people, committed to reforming Jacob along the way.
 
-The section ends with tension as we’re told Jacob favors Rachel of Leah. Based on what we read before with Isaac and Rebekah’s favoritism, we’re left to expect more conflict.
+## Another seven years of service
+
+> <sup>30</sup> ...and served Laban for another seven years.
+>
+> --Genesis 29:20b (ESV)
+
+The episode ends with Jacob committed to another seven years of service to Laban. These do not pass
+"like a few days," however.[^15] Jacob and Rebekah's hopes of a swift return to Canaan are dashed.
+God has more work to do with Jacob in Haran.
 
 ## Bibliography
 
@@ -247,3 +272,4 @@ Academic, 2017.
 [^12]: Walton, *Genesis*, 587.
 [^13]: Wenham, *Genesis 16-50*, 235.
 [^14]: Sarna, *Genesis*, 205.
+[^15]: Wenham, *Genesis 16-50*, 237.
