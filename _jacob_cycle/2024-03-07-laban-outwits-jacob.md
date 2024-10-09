@@ -80,7 +80,7 @@ appearance. He's about to be deceived by the Laban and the "weak-eyed" Leah. In 
 Rebekah deceived the "dim-eyed" Isaac.
 
 This passage parallels the descriptions of Esau and Jacob and the favoritism of their parents in 
-[Genesis 25:27-28](https://biblia.com/bible/esv/genesis/25/27-28.) Isaac loved Esau because of what
+[Genesis 25:27-28](https://biblia.com/bible/esv/genesis/25/27-28). Isaac loved Esau because of what
 Esau could offer him: food that he loved. Jacob loves Rebekah because of her beauty. He's falling 
 into the places of Esau and Isaac whom he manipulated and deceived. Jacob was initially described as
 *tam*, "blameless" or "having integrity"
@@ -98,7 +98,7 @@ deceptions on him as discipline to encourage repentance.
 <sup>19</sup> Laban said, “It is better that I give her to you than that I should give her to any
 other man; stay with me.”
 >
-> --Genesis 29:18b-19
+> --Genesis 29:18b-19 (ESV)
 
 The offer of seven years of service is for the typical bride-price, which was a fixed amount paid by 
 the groom in compensation for the loss of the bride's contributions to the family and her potential 
@@ -169,7 +169,7 @@ Laban's plan a greater chance of success. It's noted that Laban implemented his 
 "in the evening," recalling Isaac's "dim" eyes
 ([Genesis 27:1](https://biblia.com/bible/esv/genesis/27/1)) and Jacob stopping at the place that he
 would name Bethel because the "the sun had set"
-([Genesis 28:11](https://biblia.com/bible/esv/genesis/28/11).) The physical blindness in these 
+([Genesis 28:11](https://biblia.com/bible/esv/genesis/28/11).) The physical darkness in these 
 scenes points to the spiritual blindness of the chosen one. Here, an unrepentant and uncommitted 
 (and perhaps drunk) Jacob is unable to see through the masquerade. In addition to the darkness of 
 evening, Leah was likely veiled per the customs of the time.[^12] This all contributes to the main
@@ -195,9 +195,9 @@ he loved Rachel more than Leah...
 In the light of morning, Jacob discovers the deception. He echoes the words of Isaac to Esau when
 they discovered Jacob's deception in [Genesis 27:35](https://biblia.com/bible/esv/genesis/27/35):
 "Your brother came deceitfully..."[^14] Laban responds, literally, "It is not done in our place to
-give the younger before the firstborn." "Place" *m<sup>e</sup>qome* recalls Bethel, which was just a
-"place" (*maqom*) to Jacob before God revealed himself and Jacob renamed it. There, God promised
-Jacob that he would be with him wherever he went
+give the younger before the firstborn." "Our Pplace" *m<sup>e</sup>qome* recalls Bethel, which was
+just a "place" (*maqom*) to Jacob before God revealed himself and Jacob renamed it. There, God
+promised Jacob that he would be with him wherever he went
 ([Genesis 28:15](https://biblia.com/bible/esv/genesis/28/15).) Laban's statement about it not being
 their custom to give the younger before the firstborn leaves Jacob speechless. What he had done to
 Isaac and Esau is now being done to him. He elevated himself, the younger, above Esau, the
