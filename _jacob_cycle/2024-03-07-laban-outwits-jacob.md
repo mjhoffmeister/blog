@@ -36,7 +36,7 @@ for nothing? Tell me, what shall your wages be?”
 
 On the surface, especially within our cultural context, it appears that Laban is being friendly
 towards Jacob and concerned about his wellbeing. However, this wage bartering between family members
-is likely meant to be discomforting, especially given how the words "work" and "wages" are used
+is likely meant to be discomforting, especially given how the words "serve" and "wages" are used
 later in the context of Jacob being exploited by Laban.[^2] By offering wages, Laban makes the 
 relationship transactional instead of relational.
 
@@ -163,6 +163,13 @@ However, this time, Jacob won't immediately get what he wants, and it's he who w
 of greater value, his seven years of service, for something of lesser value in his eyes, Leah. Laban
 is in control of the situation. The turning point has arrived.
 
+Laban gathers the people of the "place" (*maqom*) for a wedding feast. "Place" was established as 
+a keyword in the Jacob Cycle at the beginning of the Bethel episode where it was repeated three 
+times ([Genesis 28:15](https://biblia.com/bible/esv/genesis/28/15).) There, God promised Jacob that
+he would be with him wherever he went. He's now in Haran, a different "place" away from the "House
+of God" and "Gate of Heaven" ([Genesis 28:17](https://biblia.com/bible/esv/genesis/28/17).) *maqom*
+is repeated here to remind us of that promise.
+
 The Hebrew word translated "feast", *mishteh*, might imply a feast with copious drinking (the root
 word is *sth*, "drink".) So, it might not be a stretch to imagine Jacob drinking too much, giving 
 Laban's plan a greater chance of success. It's noted that Laban implemented his plan
@@ -195,15 +202,13 @@ he loved Rachel more than Leah...
 In the light of morning, Jacob discovers the deception. He echoes the words of Isaac to Esau when
 they discovered Jacob's deception in [Genesis 27:35](https://biblia.com/bible/esv/genesis/27/35):
 "Your brother came deceitfully..."[^14] Laban responds, literally, "It is not done in our place to
-give the younger before the firstborn." "Our Pplace" *m<sup>e</sup>qome* recalls Bethel, which was
-just a "place" (*maqom*) to Jacob before God revealed himself and Jacob renamed it. There, God
-promised Jacob that he would be with him wherever he went
-([Genesis 28:15](https://biblia.com/bible/esv/genesis/28/15).) Laban's statement about it not being
-their custom to give the younger before the firstborn leaves Jacob speechless. What he had done to
-Isaac and Esau is now being done to him. He elevated himself, the younger, above Esau, the
-firstborn. The reminder of Bethel is set in tension with Jacob experiencing the wrong he's inflicted
-on others. It can be viewed as God's discipline to reshape Jacob and demonstrate that he can and 
-will work through his chosen one, regardless of his failings.
+give the younger before the firstborn." "Our place" *m<sup>e</sup>qome* again recalls Bethel and 
+God's promise to be with Jacob. Laban's statement about it not being their custom to give the
+younger before the firstborn leaves Jacob speechless. What he had done to Isaac and Esau is now
+being done to him. He elevated himself, the younger, above Esau, the firstborn. The reminder of
+Bethel is set in tension with Jacob experiencing the wrong he's inflicted on others. It can be
+viewed as God's discipline to reshape Jacob and demonstrate that he can and will work through his
+chosen one, regardless of his failings.
 
 Instead of a verbal response, Jacob silently accepts Laban's offer to work another seven years for
 Rachel. We're perhaps intended to wonder if this is the appropriate response. In Biblical narrative, 

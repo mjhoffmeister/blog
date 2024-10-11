@@ -52,3 +52,17 @@ The following snippets are helpful for Bible blog posts.
     "description": "Insert a superscription."
 }
 ```
+
+These user settings (in `settings.json`) are helpful for snippet usage.
+
+``` json
+"[markdown]": {
+    "editor.snippetSuggestions": "top",
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    },
+    "editor.wordBasedSuggestions": "off"
+}
+```
