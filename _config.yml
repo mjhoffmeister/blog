@@ -71,6 +71,8 @@ include:
   - _pages
   - _jacob_cycle
 
+google_analytics: G-36E2NHR5T9
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
