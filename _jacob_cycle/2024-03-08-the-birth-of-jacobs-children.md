@@ -14,7 +14,7 @@ toc_label: Contents
 ## Structure
 
 This episode is about the birth of Jacob's children in Haran: eleven sons and one daughter. The 
-sections describing the circumstances of their births surround an interlude which echos the sale of 
+sections describing the circumstances of their births surround an interlude which echoes the sale of 
 the birthright in [Genesis 25:29-34](https://biblia.com/bible/esv/genesis/25/29-34). 
 
 In Genesis 49, Jacob gives an oracle about the destinies of the tribes that will come from his sons.
@@ -22,8 +22,7 @@ Here, we have a micro view with the names of his children being connected to the
 around their individual births.
 
 The structure is chiastic, with the first and last sons not being born "to Jacob," highlighting 
-Yahweh being the one who brought about their births, and the central mandrakes scene which echoes
-the sale of the birthright in [Genesis 25:29-33](https://biblia.com/bible/esv/genesis/25/29-33).[^1]
+Yahweh being the one who brought about their births, and the central mandrakes scene.[^1]
 
 | --- |
 | A. Yahweh sees Leah is unloved; Leah has four sons |
