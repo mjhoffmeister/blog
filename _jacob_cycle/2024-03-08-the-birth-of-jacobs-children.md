@@ -300,19 +300,19 @@ of her life.
 
 ## Bibliography
 
-Walton, John H. *Genesis*. The NIV Application Commentary. E-book ed. Zondervan, 2014.
-
-Wyatt, N. "Asherah," *Dictionary of Demons and Deities in the Bible*. Grand Rapids, Michigan: Brill,
-1999.
-
 Olszewska, Karolina. "The Biblical Narrative about Leah, Jacob's Wife
 (Genesis 29:16–30:21; 31:4–16; 33:1–3)," *Biblica et Patristica Thoruniensia* 11, no. 3 (2018):
 347-358.
 
-Sailhamer, John H. *Genesis*. The Expositor's Bible Commentary. E-book ed. Zondervan Academic, 2017. 
+Sailhamer, John H. *Genesis*. The Expositor's Bible Commentary. E-book ed. Zondervan Academic, 2017.
+
+Walton, John H. *Genesis*. The NIV Application Commentary. E-book ed. Zondervan, 2014.
 
 Wenham, Gordon John. *Genesis 16-50, Volume 2*. World Biblical Commentary. E-book ed. Zondervan 
 Academic, 2017.
+
+Wyatt, N. "Asherah," *Dictionary of Demons and Deities in the Bible*. Grand Rapids, Michigan: Brill,
+1999.
 
 ---
 
