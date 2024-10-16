@@ -30,6 +30,11 @@ url: https://blog.matthoffmeister.com # the base hostname & protocol for your si
 twitter_username: jekyllrb
 github_username:  jekyll
 
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: G-36E2NHR5T9
+
 collections:
   jacob_cycle:
     output: true
@@ -70,8 +75,6 @@ defaults:
 include:
   - _pages
   - _jacob_cycle
-
-google_analytics: G-36E2NHR5T9
 
 # Exclude from processing.
 # The following items will not be processed, by default.
