@@ -185,8 +185,8 @@ This, perhaps, suggests that Leah is straying further from Yahweh.
 ### Gad
 
 Gad means "good luck" or "fortune." It was also the name of a god of luck in the region, as seen in
-[Genesis 65:11](https://biblia.com/bible/esv/genesis/65/11) Leah probably isn't explicitly naming
-Gad after a pagan god here, but there could be religious overtones.[^19]
+[Isaiah 65:11](https://biblia.com/bible/esv/isaiah/65/11). Leah probably isn't explicitly naming
+Gad after a pagan god here, but there could be a religious connotation.[^19]
 
 ### Asher
 
@@ -223,9 +223,9 @@ therefore has no right to take anything more from her. So, a bargain is struck: 
 Jacob in return for the mandrakes. The verb used for lie here, *shkv* connects this scene with
 other stories where someone is taken advantage of sexually. Lot's daughters "lie" with him after
 they fled Sodom so that they could have children
-([Genesis 20:33-35](https://biblia.com/bible/esv/genesis/20/33-35)). Later in the Jacob story, the
+([Genesis 20:33-35](https://biblia.com/bible/esv/genesis/20/33-35).) Later in the Jacob story, the
 same word is used to describe the rape of Dinah in Genesis 34
-([Genesis 34:2](https://biblia.com/bible/esv/genesis/34/2)). Jacob is now the one to be taken
+([Genesis 34:2](https://biblia.com/bible/esv/genesis/34/2).) Jacob is now the one to be taken
 advantage of.
 
 Jacob returns from the field with the same phrase as Esau at the beginning of the birthright story.
@@ -249,7 +249,7 @@ called his name Issachar. <sup>19</sup> And Leah conceived again, and she bore J
 me, because I have borne him six sons.” So she called his name Zebulun. <sup>21</sup> Afterward she
 bore a daughter and called her name Dinah.
 >
-> --Genesis 30:17-21
+> --Genesis 30:17-21 (ESV)
 
 Leah, who gave up the mandrakes, is the one who next has children. The narrative again shows us that
 it's not by human effort that the fledgling nation of Israel will be fruitful and multiply, but by
@@ -306,7 +306,7 @@ Wyatt, N. "Asherah," *Dictionary of Demons and Deities in the Bible*. Grand Rapi
 1999.
 
 Olszewska, Karolina. "The Biblical Narrative about Leah, Jacob's Wife
-(Genesis 29:16–30:21; 31:4–16; 33:1–3)," *Biblica et PatristicaThoruniensia* 11, no. 3 (2018):
+(Genesis 29:16–30:21; 31:4–16; 33:1–3)," *Biblica et Patristica Thoruniensia* 11, no. 3 (2018):
 347-358.
 
 Sailhamer, John H. *Genesis*. The Expositor's Bible Commentary. E-book ed. Zondervan Academic, 2017. 
