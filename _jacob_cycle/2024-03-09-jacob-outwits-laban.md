@@ -98,7 +98,7 @@ are associated with "household gods", *teraphim*, in
 [2 Kings 23:24](https://biblia.com/bible/esv/2-kings/23/24).[^4] Later, we'll learn of Laban's
 household gods. This suggests that it was by way of his gods that he practiced divination. However,
 Yahweh is the god of gods. Any information that Laban divined was ultimately given by Yahweh, and
-the Jacob story will later portray the defeat of Laban's households gods
+the Jacob story will later portray the defeat of Laban's household gods
 ([Genesis 31:34-35](https://biblia.com/bible/esv/genesis/31/34-35).) The exodus is framed similarly,
 with the plagues demonstrating Yahweh's power over Egyptian gods.[^5] After the Israelites cross 
 the Sea of Reeds, Moses and Israel sang a song about God's victory over the gods of Egypt.
