@@ -13,6 +13,14 @@ toc_label: Contents
 
 This section is parallel to Jacob’s arrival to Haran in Genesis 29 and his experience at Bethel in Genesis 28. There are also references to Jacob’s stealing Isaac’s blessing.
 
+Parallel to Genesis 21:8-21? Needs investigation.
+
+Parallel words: ra: displeasing/harm
+Lift up: voice; boy/esys
+See: Sarah saw, God saw/Jacob saw, God tells Jacob to see
+Hagar the Egyptian/Regards us as foreigners
+With/favor/before?
+
 Genesis 31:1-3 - Jacob learns that Laban’s attitude towards him has changed. Jacob’s wealth has come at the expense of Laban and he’s now seen as a thief. God speaks to him and calls him back to the land and reiterates the promise at Bethel to be with him (Genesis 28:15.) God’s words echoe those he gave to Abraham when he called him our of Haran in Genesis 12:1-2. Whereas for Abraham it was the first time he entered the land and received God’s promise, here Jacob is returning to the land with a renewed promise (Wenham: 268). The “angels” are ascending the stairway back to the “gate of heaven.”
 
 Genesis 31:4-9 - Perhaps for secrecy, Jacob meets with his wives in the field where his flock was (Sarna: 214). In verses 4 and 14, Rachel is listed before Leah, showing that Jacob maintains his preference for her (Wenham: 270) and that there’s perhaps more trouble to come because of it.
@@ -46,3 +54,7 @@ Genesis 31:36-42 - Vindicated, Jacob fully lays out his grievances against Laban
 Genesis 31:43-54 - Laban pathetically insists that everything Jacob has is his, but he knows he’s defeated. So, he moves to make a treaty with the more powerful Jacob as protection against revenge. Jacob sets up a stone pillar and asks that both groups build a “heap” (gal,) giving meaning to the name Galeed (“heap of witness”) and adding additional meaning to Gilead (both names have the same consonants.) The reason for two witnesses could be an indication of the mistrust between Jacob and Laban and a link to Deuteronomy 19:15. Stones continue to be witnesses to pivotal moments in Jacob’s life. Laban names the place “heap of witness” in Aramaic (Wenham: 279). Other than accenting the note on Genesis 31:20, it perhaps solidifies the Babylonian background of the story. The other name Jacob gives is “the watch tower.”
 
 Other than being witnesses, the heap and pillar serve as boundary stones. Lines have been drawn between Jacobs god(s) and Laban’s gods.
+
+Later, Jacob will flee Laban and be pursued by him, but the two 
+will ultimately make peace by setting up a pillar with stones that Jacob will call
+*gal<sup>e</sup>ed*, Gilead (See https://www.ldsscriptureteachings.org/wp-content/uploads/2022/02/Jacob-and-Labans-double-talk-Scott-Noegel.pdf)

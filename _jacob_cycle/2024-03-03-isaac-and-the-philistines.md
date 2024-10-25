@@ -811,7 +811,7 @@ Cassuto, Umberto. *The Documentary Hypothesis*. Translated by Israel Abrams. E-b
 
 Heiser, Michael. *The Unseen Realm*. E-book ed. Lexham Press, 2015.
 
-Mackey, Tim, and John Collins, "Deuteronomy: The Law… Again," *The BibleProject Podcast*. October 
+Mackie, Tim, and John Collins, "Deuteronomy: The Law… Again," *The BibleProject Podcast*. October 
 24, 2022. Podcast, website, 01:13:07. https://bibleproject.com/podcast/law-again/.
 
 Sailhamer, John H. *Genesis*. The Expositor's Bible Commentary. E-book ed. Zondervan Academic, 2017.
