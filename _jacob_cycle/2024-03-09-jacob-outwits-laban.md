@@ -336,7 +336,7 @@ Academic, 2017.
 [^10]: Walton *Genesis*, 589.
 [^11]: Fokkelman, *Narrative Art*, 150.
 [^12]: Noegel, "Sex, Sticks, and the Trickster," 15.
-[^13]: Noegel, "Sex, Sticks, and the Trickster," 14-15.
+[^13]: Ibid, 14-15.
 [^14]: Wenham, *Genesis*, 255 and Sarna, *Genesis*, 212, although Sarna critiques the idea of visual impression having a tangible result.
 [^15]: Noegel, "Sex, Sticks, and the Trickster," 9.
 [^16]: Ibid, 12-13.
