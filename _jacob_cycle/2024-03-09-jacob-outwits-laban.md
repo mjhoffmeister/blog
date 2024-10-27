@@ -53,7 +53,7 @@ Once again, Jacob insists with an imperative verb and offers no "please," simila
 Esau to sell him the birthright ([Genesis 25:31](https://biblia.com/bible/esv/genesis/25/31)) and
 asserting that Laban give him Rachel after his first seven years of service
 ([Genesis 29:21](https://biblia.com/bible/esv/genesis/29/21); see
-[Part 7](jacob-outwits-laban.html#masquerade)) However, whereas Jacob experienced a reversal of his 
+[Part 7](jacob-outwits-laban.html#masquerade).) However, whereas Jacob experienced a reversal of his 
 purchase of the birthright through Laban masquerading Leah as Rachel, Laban will now experience a
 reversal of his deception by God transferring Laban's strong livestock to Jacob.
 
