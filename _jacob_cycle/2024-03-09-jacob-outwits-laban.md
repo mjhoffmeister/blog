@@ -305,8 +305,8 @@ Hepner, Gershon. "Jacob's Servitude with Laban Reflects Conflicts between Biblic
 *Zeitschrift für die Alttestamentliche Wissenschaft* 115, no. 2 (2003): 185-209.
 <https://doi.org/10.1515/zatw.2003.011>.
 
-Mackie, Tim. "Jacob Deceives His Deceiver." *The BibleProject Classroom: Jacob*. Published 2021.
-<https://bibleproject.com/classroom/jacob/notebook/teacher-notes>.
+Mackie, Tim. "Session 17: Jacob Deceives His Deceiver." *The BibleProject Classroom: Jacob*.
+Published 2021. <https://bibleproject.com/classroom/jacob/notebook/teacher-notes>.
 
 Noegel, Scott B. "Sex, Sticks, and the Trickster in Gen. 30:31-43: A New Look at an Old Crux,"
 *Journal of Ancient Near Eastern Society* 25, no.1 (1997): 7-17.
