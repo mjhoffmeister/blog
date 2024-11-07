@@ -323,5 +323,5 @@ Academic, 2017.
 [^16]: Walton, *Genesis*, 728.
 [^17]: Sarna, *Genesis*, 225.
 [^18]: Mackie, "Jacob Builds and Ark," see section "Yaaqov and Esau Unite."
-[^15]: Wenham, *Genesis 16-50*, 291.
+[^19]: Wenham, *Genesis 16-50*, 291.
 [^20]: Mackie, "Jacob Builds and Ark." The class notes don't comment on it, but Mackie suggests the connection between the decks of the ark and Jacob's droves in the class audio/video.

@@ -11,51 +11,6 @@ toc_label: Contents
 ---
 **The Jacob Cycle - Part 12**
 
-TODO: review “Jacob’s Herds in Light of Ancient Near Eastern Sources,” Aaron Demsky
-
-Chapters 32 and 33 involve Jacob and Esau meeting again. They’re parallel to chapter 27 where Jacob stole the blessing (Wenham: 288).
-
-Delegation
-Genesis 32:3-6 
-
-| "He...stayed there that night" | "He himself stayed that night in the camp" |
-| "I am Yahweh, the god of Abraham your father and the God of Isaac" | "O god of my father Abraham and God of my father Isaac, O Yahweh..." |
-| "Your offspring shall be like the dust of the earth" | "'I will...make your offspring as the sand of the sea'" |
-| "I will bring you back to this land" | "'Return to your land'" |
-| "He was afraid" | "Jacob was greatly afraid," "I fear him" |
-| Jacob "set" up a pillar | Jacob "set" space between droves |
-| "Of all that you give me I will tithe" | Gave animals in multiples of ten to servants for Esau |
-
-Jacob sends a delegation to Esau in an attempt to discover Esau’s attitude towards him. “Seir” (se’ir,) “country” (sedeh,) and “Edom” (‘edom,) are used in quick succession to remind us of Jacob’s trickery of Esau. Esau is covered with hair (se’ar,) a man of the field (sadeh) described as “red” (admoni) at birth who came from the field (sadeh) and sold his birthright to Jacob for the “red” (adom) soup, and whose blessing was stolen by Jacob imitating “hairiness” (sa’ir) (Sarna: 224).
-
-Note: the following needs review. May be incorrect as Jacob will return the birthright and blessing
-Jacob’s message is placating and deferential. It represents a tragic reversal of what God intended. In God’s oracle to Rebekah, it was foretold that the “older will serve (ya’avod) the younger.” Instead, out of fear for his and his family’s lives, he calls Esau “my lord” (Wenham: 289). Because of Jacob’s past actions in grasping for what he wanted instead of allowing God to give it to him freely, he’s now almost trying to return what he stole to save his life. 
-
-Jacob likely describes his wealth to Esau to suggest he can pay Esau off to placate any remaining anger. It’s perhaps interesting to note that he leaves out camels from his list of possessions, even though he sends them ahead in verse 15. He’s perhaps underselling what he can give Esau to impress him with more than Esau expected (Sarna: 224). Jacob is afraid, but he’s still a schemer.
-
-The report that Esau is “coming to meet him” with 400 mean is ambiguous and meant to be suspenseful (Wenham: 289). The phrase “coming to meet” in the Bible is used in both violent and non-violent contexts, and 400 men is used in 1 Samuel to describe the size of a militia several times (Sarna: 255).
-
-Defensive measures
-Genesis 32:7-8
-
-Jacob, afraid of being attacked by Esau, continues to be a man of action. He divides his camp into two so that if one is attacked, the other can escape. There is likely a link between Jacob splitting his people and possessions into two camps and Mahanaim, “two camps,” where he met angels. Perhaps we’re being reminded, even if Jacob has forgotten, that God is still with him (Wenham: 290). Alternatively, or simultaneously, it could represent the division Jacob has caused in his family (Fokkelman: 200).
-
-Jacob’s prayer
-Genesis 32:9-12
-
-Jacob’s prayer should probably be read as generally positive. Facing a desperate situation, he humbles himself before God and asks for rescue before taking further action. At a river’s edge (verse 22,) he’s breaking down to a point where God can remake him.
-
-The opening of his prayer combines his experience at Bethel (Genesis 28:13-15) and God’s words commanding him to leave Haran (Genesis 31:3) (Sarna: 225). He recalls how God has been with Abraham, Isaac, and himself. He acknowledges that God has given him everything and that he doesn’t deserve any of it. He asks God for rescue (same word used in Genesis 31:9,) commits his fear to him, and invokes God’s promises. He appeals to God’s khesed, loyal love, not his own merit (Ibid.) According to the BibleProject, “God’s khesed is expressed in a series of covenant commitments to restore Eden blessing to the nations through the family of Abraham.” Abraham’s servant called on God’s loyal love to grant him success in finding a wife for Isaac in Genesis 24:12.
-
-Jacob’s gift
-Genesis 32:13-21
-
-Jacob’s actions after his prayer are ambiguous. Is he failing to trust in God or is he acting in faith? It’s perhaps illuminating that Jacob sends other’s ahead into danger. By verse 24, even his family is between him and Esau.
-
-Jacob sends 550 animals. This is an exceedingly lavish gift. There’s a record of the town of Hindanu paying the Assyrian king 110 animals as tribute in the 9th century B.C. (Walton: 728). By dividing them into groups, Esau would have to stop multiple times to receive each one for questioning and inspection, slowing him down (Sarna: 225).
-
-The words “gifts,” “pacify,” and “accept” create links to the sacrifices in Leviticus 1-2. It could be portrayed here that Jacob making peace with Esau is also making peace with God (Wenham: 290).
-
 Jacob crosses the Jabbok
 Genesis 32:22-24a
 
