@@ -1,7 +1,7 @@
 ---
 title: Jacob encounters angels at Mahamaim
 date: 2024-03-11 00:00:00 -0600
-permalink: /jacob-cycle/jacob-encounters-angels-at-mahamaim
+permalink: /jacob-cycle/jacob-encounters-angels-at-mahanaim
 categories: jacob-cycle
 sidebar:
   nav: jacob-cycle
