@@ -11,10 +11,30 @@ toc_label: Contents
 ---
 **The Jacob Cycle - Part 12**
 
-Jacob crosses the Jabbok
-Genesis 32:22-24a
+## Structure
 
-Jacob helps his family and the rest of his possession across the river Jabbok, a barrier between him and the land. Strangely, he does this at night and then apparently goes back across, away from the land, so that he’s alone (Wenham: 290). That Jacob “got up” suggests that he was trying to sleep but couldn’t (Fokkelman: 221). This section is parallel to Jacob stealing Isaac’s blessing from Esau. There, he deceived his blind father by masquerading as Esau. That should be in our minds as we continue.
+This part can be divided into five scenes.
+
+1. Jacob retreats across the Jabbok
+2. Jacob wrestles with God
+3. Jacob and Esau reconcile
+4. Jacob and Esau depart
+5. Jacob returns to the land
+
+## Jacob retreats across the Jabbok
+
+> <sup>22</sup> The same night he arose and took his two wives, his two female servants, and his
+eleven children, and crossed the ford of the Jabbok. <sup>23</sup> He took them and sent them across
+the stream, and everything else that he had. <sup>24</sup> And Jacob was left alone.
+>
+> --Genesis 32:22–24 (ESV)
+
+Jacob helps his family and the rest of his possession across the river Jabbok, a tributary of the 
+Jordan River.[^1] The Jordan serves a significant symbolic function as the eastern border of the 
+promised land.[^2] When Joshua led the people into Canaan from the east, the water of the Jordan
+stopped flowing after the feet of the priests carrying the ark touched it, allowing Israel to cross
+on dry ground ([Joshua 3:14-17](https://biblia.com/bible/esv/joshua/3/14-17).) Strangely, Jacob
+crosses at night and then apparently goes back across, away from the land, so that he's alone (Wenham: 290). That Jacob “got up” suggests that he was trying to sleep but couldn’t (Fokkelman: 221). This section is parallel to Jacob stealing Isaac’s blessing from Esau. There, he deceived his blind father by masquerading as Esau. That should be in our minds as we continue.
 
 Jacob wrestles God
 Genesis 32:24b-32
@@ -58,10 +78,22 @@ Genesis 33:18-20
 
 Jacob finally returns to the land. Like Abraham when he first entered the land, he goes to Shechem and purchases land, therefore settling there. Also, like Abraham he builds and altar. The word “altar” is connected to “pillar.” God fulfilled his promise, and now Jacob fulfills his. He will worship Yahweh. El-elohe-yisrael means El, God of Israel (Sarna: 232).
 
-Bibliography
+## Bibliography
+
+Sarna, Nahum M. *Genesis*. The JPS Torah Commentary. Philadelphia: The Jewish Publication Society,
+1989.
+
+Wenham, Gordon John. *Genesis 16-50, Volume 2*. World Biblical Commentary. E-book ed. Zondervan 
+Academic, 2017.
 
 Loyal Love_Study Notes_final.pdf (d1bsmz3sdihplr.cloudfront.net)
 
 Esther J. Hamori, “Echoes of Gilgamesh in the Jacob Story,” Journal of Biblical Literature 130, no.4: 625-642.
 
 Jason S. DeRouchie, “The Blessing-Commission, the Promised Offspring, and the Toledot Structure of Genesis,” Journal of the Evangelical Theological Society 56, no. 2
+
+---
+
+[^1]: Wenham, *Genesis 16-50*, 292.
+[^2]: Sarna, *Genesis*, 403.
+[^3]: Wenham, *Genesis 16-50*, 290.
