@@ -18,6 +18,14 @@ Chapters 32 and 33 involve Jacob and Esau meeting again. They’re parallel to c
 Delegation
 Genesis 32:3-6 
 
+| "He...stayed there that night" | "He himself stayed that night in the camp" |
+| "I am Yahweh, the god of Abraham your father and the God of Isaac" | "O god of my father Abraham and God of my father Isaac, O Yahweh..." |
+| "Your offspring shall be like the dust of the earth" | "'I will...make your offspring as the sand of the sea'" |
+| "I will bring you back to this land" | "'Return to your land'" |
+| "He was afraid" | "Jacob was greatly afraid," "I fear him" |
+| Jacob "set" up a pillar | Jacob "set" space between droves |
+| "Of all that you give me I will tithe" | Gave animals in multiples of ten to servants for Esau |
+
 Jacob sends a delegation to Esau in an attempt to discover Esau’s attitude towards him. “Seir” (se’ir,) “country” (sedeh,) and “Edom” (‘edom,) are used in quick succession to remind us of Jacob’s trickery of Esau. Esau is covered with hair (se’ar,) a man of the field (sadeh) described as “red” (admoni) at birth who came from the field (sadeh) and sold his birthright to Jacob for the “red” (adom) soup, and whose blessing was stolen by Jacob imitating “hairiness” (sa’ir) (Sarna: 224).
 
 Note: the following needs review. May be incorrect as Jacob will return the birthright and blessing

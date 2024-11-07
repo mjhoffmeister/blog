@@ -235,12 +235,16 @@ and Leah should have been entitled to 14 years' wages. Laban’s selfishness has
 hope of receiving it.[^13] They're convinced that Jacob's wealth is from God and commit to
 following his command.
 
-TODO: fill out the following
+The comment about being regarded as foreigners could be parallel to Hagar being noted as "the
+Egyptian" ([Genesis 21:9](https://biblia.com/bible/esv/genesis/21/9)) before she was cast out of
+Abraham's family.
+
+TODO: fill out the following  
 Genesis 31:17-21 - Jacob’s escape is connected to Abraham’s move from Harran to Canaan, Jacob’s later move to Egypt, and the exodus. He left during sheep-shearing season because Laban was away. We receive a note about Rachel stealing household gods or idols. Later in the Bible they’re connected with divination, linking back to Genesis 30:27. It also recall’s Jacob’s theft of Isaac’s blessing before he left home.
 
 “Deceived” is literally “stole the heart of.” “Heart” is lev which is a play on “Laban,” and “Aramean” is very close to the work “cheat” in Hebrew. The point is that Jacob has out-tricked the trickster (Sarna: 216). The focus on Laban as an Aramean illustrates the divide between him and Jacob. Laban is no longer family, he represents “the nations.” When Rachel commanded Jacob to flee to Haran, she literally said “arise, flee.” Here, Jacob “fled” and “arose.” The word reversal illustrates the change in direction (Sarna: 217.)
 
-TODO: fill out
+TODO: fill out  
 Genesis 31:22-35 - Laban eventually catches up with Jacob. There is a lot of language used that creates the connotation of a hostile environment, but God speaks to Laban and warns him against harming Jacob.
 
 Laban tries to paint himself as a victim and accuses Jacob of stealing his gods. Jacob defends himself and invites Laban to search for his gods. Laban “feels” all around the tent. This links back to Isaac “feeling” the disguised Jacob in Genesis 27:22 (Wenham: 276). Jacob disguised himself under animal skins. Rachel hides Laban’s gods inside an animal’s saddle. She sits on the saddle, claiming she can’t rise because she’s on her period. If this is true, she is culturally unclean and Laban can’t approach. Furthermore, she would be making the idols unclean. In a sense Laban’s gods have been defeated along with Laban himself. He searched three times but found nothing.
@@ -257,9 +261,9 @@ will ultimately make peace by setting up a pillar with stones that Jacob will ca
 
 ## Bibliography
 
-Bunn Jr, Daniel D.
-*"Return to the Land of Your Fathers": A Narrative Reading of Genesis 31–33, the Return of Jacob to the Land of Canaan*
-Fuller Theological Seminary, Center for Advanced Theological Study, 2015.
+Bunn Jr, Daniel D. 2015.
+"'Return to the Land of Your Fathers': A Narrative Reading of Genesis 31–33, the Return of Jacob to the Land of Canaan."
+PhD diss. Fuller Theological Seminary, Center for Advanced Theological Study.
 
 Mackie, Tim. "Session 18: Jacob Versus the Narrator." *The BibleProject Classroom: Jacob*.
 Published 2021. <https://bibleproject.com/classroom/jacob/notebook/teacher-notes>.

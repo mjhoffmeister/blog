@@ -245,7 +245,7 @@ and Esau said to himself, “The days of mourning for my father are approaching;
 brother Jacob.” <sup>42</sup> But the words of Esau her older son were told to Rebekah. So she sent
 and called Jacob her younger son and said to him, “Behold, your brother Esau comforts himself about
 you by planning to kill you. <sup>43</sup> Now therefore, my son, obey my voice. Arise, flee to
-Laban my brother in Haran <sup>44</sup>  and stay with him a while, until your brother’s fury turns
+Laban my brother in Haran <sup>44</sup> and stay with him a while, until your brother’s fury turns
 away— <sup>45</sup> until your brother’s anger turns away from you, and he forgets what you have
 done to him. Then I will send and bring you from there. Why should I be bereft of you both in one
 day?”
@@ -256,11 +256,18 @@ Esau is perhaps linked to Cain here. Cain was angry (*yihar*, literally “hot�
 his offering, so he rose up against his brother (*ahi*,) killed (*yaharge*) him, and was cursed from
 the ground. He was told he would be a wanderer on the earth (*arets*.) Esau would live away from the
 richness of the earth (*arets*) and wanted to kill (*ahargah*) his brother (*ahi*.) Rebekah tells
-Jacob to flee and stay in Haran until Esau’s anger (*hamat*, literally “heat”) turns away from him.
+Jacob to flee and stay in Haran until Esau's anger (*hamat*, literally “heat”) turns away from him.
 
-Literally, Rebekah directs Jacob to stay with Laban for “a few days”.[^18] The consequences of the
+However, he's further shown as a character deserving sympathy by linking his response to Jacob's
+theft of the birthright to God's response to the evil of humanity in Genesis 6.[^18] Yahweh
+regretted (*yinnakhem*, root *nkhm*) creating humans. It grieved him in his heart (*lib*,) so
+he planned their end. Esau said to himself/in his heart (*lib*) that he would kill Jacob to comfort
+himself (*mitnakhem*, root *nkhm*.) More connections to the flood story are made when Jacob returns
+to the land and faces Esau (see [Part 11](jacob-encounters-angels-at-mahamaim.html).)
+
+Literally, Rebekah directs Jacob to stay with Laban for "a few days."[^19] The consequences of the
 deception will be more than she or Jacob anticipate. Jacob is away for 20 years and Rebekah will
-never see him again.[^19]
+never see him again.[^20]
 
 ### Rebekah and Isaac
 
@@ -302,7 +309,7 @@ daughter of Ishmael, Abraham’s son, the sister of Nebaioth.
 
 The literary unit that started with Esau marrying Hittites neatly concludes with Esau marrying an
 Ishmaelite. Recognizing that marrying Canaanites displeased Isaac, he marries an Ishmaelite to try
-to gain favor. By doing so, he only connects himself a family line that was sent away.[^20]
+to gain favor. By doing so, he only connects himself a family line that was sent away.[^21]
 
 ## Summary
 
@@ -313,6 +320,9 @@ God works through even human fallibility.
 
 Abraham, Jed H. “A Literary Solution to the Name Variations of Esau’s Wives.” 
 *The Torah U-Madda Journal* 7 (1997): 1–14. http://www.jstor.org/stable/40914828.
+
+Mackie, Tim. "Session 11: Parting of the Brothers." *The BibleProject Classroom: Jacob*.
+Published 2021. <https://bibleproject.com/classroom/jacob/notebook/teacher-notes>.
 
 Sarna, Nahum M. *Genesis*. The JPS Torah Commentary. Philadelphia: The Jewish Publication Society,
 1989.
@@ -341,6 +351,7 @@ Academic, 2017.
 [^15]: Ibid, 211.
 [^16]: Sarna, *Genesis*, 194.
 [^17]: Ibid.
-[^18]: Wenham, *Genesis*, 212.
-[^19]: Ibid, 216.
-[^20]: Walton, *Genesis*, 569.
+[^18]: Mackie, "Parting of the Brothers," see section "Esau, Cain, and the Flood-Sending God."
+[^19]: Wenham, *Genesis*, 212.
+[^20]: Ibid, 216.
+[^21]: Walton, *Genesis*, 569.
