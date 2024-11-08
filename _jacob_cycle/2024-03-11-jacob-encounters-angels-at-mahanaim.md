@@ -27,7 +27,7 @@ Jacob's return to the land is parallel to Jacob leaving the land in
 and received promises from Yahweh. There are also links to the flood narrative in
 Genesis 6-7. In [Genesis 27:41-42](https://biblia.com/bible/esv/genesis/27/41-42), Esau was set on
 analogy to God in Genesis 6 (see
-[Part 4](jacob-steals-esaus-blessing.html#jacob-sent-to-padam-aram).) The thread from Esau is posed
+[Part 4](jacob-steals-esaus-blessing.html#jacob-sent-to-padam-aram).) The threat from Esau is posed
 as a flood. Will Jacob trust in God's protection, or will he take his own defensive measures?
 
 ## Divine and human messengers
