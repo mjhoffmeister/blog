@@ -88,15 +88,15 @@ used here for "country." He was born *’adom*, "red," evoking *edom*, Edom. Esa
 wore **hairy** goat skins to deceive Isaac.[^6]
 
 His message to Esau is placating and deferential. He calls Esau "my lord" and himself "his
-servant."[^7] He also describes his wealth, suggesting that he's willing to pay Esau off. This is in
-contrast to the blessing that Isaac gave to him in
+servant."[^7] He also describes his wealth, suggesting that he's willing to pay Esau off. This
+contrasts with the blessing that Isaac gave to him in
 [Genesis 27:29](https://biblia.com/bible/esv/genesis/27/29), where it was said he would be "lord"
 over his brothers. It also contrasts with the anti-blessing Isaac gave to Esau, where he said Esau
 would serve his brother ([Genesis 27:40](https://biblia.com/bible/esv/genesis/27/40).) Even before
 receiving a response from his messengers, he's formulating a plan for how to protect himself, 
 despite already having the protection of God's heavenly camp. Jacob's tendency to grasp for what God
 has offered freely led to this moment where Jacob's intended elevated role has been reversed. Yet,
-he still continues operating in the same way.
+he continues operating in the same way.
 
 Jacob's states that his motivation is to "find favor" in Esau's "sight."[^8] This re-establishes the
 connection to the flood narrative first made in Genesis 27 where Esau's response to Jacob's theft
