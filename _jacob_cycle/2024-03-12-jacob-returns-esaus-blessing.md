@@ -257,8 +257,6 @@ Walton, John H. *Genesis*. The NIV Application Commentary. E-book ed. Zondervan,
 Wenham, Gordon John. *Genesis 16-50, Volume 2*. World Biblical Commentary. E-book ed. Zondervan 
 Academic, 2017.
 
-Loyal Love_Study Notes_final.pdf (d1bsmz3sdihplr.cloudfront.net)
-
 Esther J. Hamori, “Echoes of Gilgamesh in the Jacob Story,” Journal of Biblical Literature 130, no.4: 625-642.
 
 Jason S. DeRouchie, “The Blessing-Commission, the Promised Offspring, and the Toledot Structure of Genesis,” Journal of the Evangelical Theological Society 56, no. 2
