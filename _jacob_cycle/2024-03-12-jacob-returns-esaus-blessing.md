@@ -235,7 +235,7 @@ his tent. <sup>20</sup> There he erected an altar and called it El-Elohe-Israel.
 
 Jacob finally returns to the land. Like Abraham when he first entered the land, he goes to Shechem
 and purchases land, therefore settling there. Also, like Abraham he builds and altar. In Genesis,
-altars are build when God's chosen is brought back into the land. It signifies that Yahweh is
+altars are built when God's chosen is brought back into the land. It signifies that Yahweh is
 recognized as rescuer and that allegiance is given to him. Also, the word "altar," 
 *mizbe<sup>o</sup>h*, sounds, like "pillar," *matsevah*, connecting this scene with the promise
 that God made to Jacob at Bethel that he would bring Jacob back to the land. Yahweh fulfilled his
