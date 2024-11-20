@@ -326,7 +326,7 @@ Isaac's death links back to his desire to bless Esau because he believed his dea
 [Genesis 27:4](https://biblia.com/bible/esv/genesis/27/4)). This led to the theft of the blessing,
 orchestrated by Rebekah and carried out by Jacob. Isaac survives the entirety of Jacob's exile, not
 dying only after he returned. The tragedy of Isaac's favoritism and Jacob's deception is recalled
-as the Jacob story ends.
+as the Jacob story ends.[^26]
 
 Isaac's burial echoes Abraham's in [Genesis 25:7-9](https://biblia.com/bible/esv/genesis/25/7-9). 
 Isaac and Ishmael came together after being estranged to bury Abraham. Esau and Jacob's 
@@ -402,3 +402,4 @@ Academic, 2017.
 [^23]: Wenham, *Genesis 16-50*, 327.
 [^24]: Sarna, *Genesis*, 245.
 [^25]: Ibid, 107.
+[^26]: Mackie, "The Deaths of Rachel and Isaac," see section "The Many Burials."
