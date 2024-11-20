@@ -282,7 +282,7 @@ Academic, 2017.
 ---
 
 [^1]: Walton, *Genesis*, 589.
-[^2]: Wenham, *Genesis 16-50*, 266-267 and Mackie, "Jacob Builds and Ark," see "Yaaqov and Esau Unite." Wenham sees the encounter with angels in 32:1-2 as a conclusion to this episode, but Mackie's connection between Mahamaim and Jacob dividing his camps is a compelling reason to include the scene in the next episode, not this one.
+[^2]: Wenham, *Genesis 16-50*, 266-267 and Mackie, "Jacob Builds and Ark," see "Yaaqov and Esau Unite." Wenham sees the encounter with angels in 32:1-2 as a conclusion to this episode, but Mackie's connection between Mahanaim and Jacob dividing his camps is a compelling reason to include the scene in the next episode, not this one.
 [^3]: Mackie, "Jacob Versus the Narrator," see translation in "Yaaqov Persuades His Wives to Flee."
 [^4]: Ibid, see "Key Takeaways."
 [^5]: Bunn, "Return of Jacob," 56.

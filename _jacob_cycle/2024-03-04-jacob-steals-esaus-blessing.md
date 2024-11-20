@@ -263,7 +263,7 @@ theft of the birthright to God's response to the evil of humanity in Genesis 6.[
 regretted (*yinnakhem*, root *nkhm*) creating humans. It grieved him in his heart (*lib*,) so
 he planned their end. Esau said to himself/in his heart (*lib*) that he would kill Jacob to comfort
 himself (*mitnakhem*, root *nkhm*.) More connections to the flood story are made when Jacob returns
-to the land and faces Esau (see [Part 11](jacob-encounters-angels-at-mahamaim.html).)
+to the land and faces Esau (see [Part 11](jacob-encounters-angels-at-mahanaim.html).)
 
 Literally, Rebekah directs Jacob to stay with Laban for "a few days."[^19] The consequences of the
 deception will be more than she or Jacob anticipate. Jacob is away for 20 years and Rebekah will
