@@ -278,7 +278,7 @@ challenge to his father's authority in
 authority, Reuben loses all hope for it. Judah is now implicitly set up to carry on the line of the 
 chosen seed of the woman. Reuben, Simeon, and Levi have all disqualified themselves, like Esau did.
 
-Nevertheless, as Jacob hasn't presented himself as an attractive alternative to Esau, and Judah,
+Nevertheless, Jacob hasn't presented himself as an attractive alternative to Esau, and Judah,
 himself, will have his own failure following the pattern of Shechem. Shechem saw Dinah, the
 "daughter of Leah" and "took" her. Judah saw Shua, the "daughter of a certain Canaanite" and "took"
 her ([Genesis 38:2](https://biblia.com/bible/esv/genesis/38/2).) This leads to a chain of events
