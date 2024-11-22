@@ -102,7 +102,7 @@ the tree could be just as good as destroying them as a sacred site would likely 
 The hiding of the idols also recalls the Rebekah's theft of her father's household Gods, which was
 parallel to Jacob deceiving his father in the theft of the blessing
 ([Genesis 27:35](https://biblia.com/bible/esv/genesis/27/35),
-[Genesis 30:19-20](https://biblia.com/bible/esv/genesis/30/19-21)).[^7] This establishes a pattern
+[Genesis 31:19-20](https://biblia.com/bible/esv/genesis/31/19-21)).[^7] This establishes a pattern
 in the episode where burials are linked to previous deceptions, making death the ultimate
 consequence of those deceptions as the Jacob story comes to an end.[^8] Here, foreign gods die,
 including Laban's household gods. Rachel sitting them during her period
