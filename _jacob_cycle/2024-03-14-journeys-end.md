@@ -179,8 +179,12 @@ cursed instead of blessed, Rebekah responded, "Let your curse be on me..."
 seems to be realized here. Not only did Rebekah never see Jacob again after he was sent to Haran,
 although she hoped he'd return after being there "a few days"
 ([Genesis 27:43](https://biblia.com/bible/esv/genesis/27/43),) she disappeared from the story. Her
-nurse's death is recorded, but not hers. Genesis doesn't reveal that was buried with Isaac until
-Jacob's death ([Genesis 49:31](https://biblia.com/bible/esv/genesis/49/31)).
+nurse's death is recorded, but not hers. Furthermore, Deborah's death is tied to Sarah's in
+[Genesis 23:2](https://biblia.com/bible/esv/genesis/23/2). There, Abraham wept (*b<sup>e</sup>koth*,
+root *bkt*) for Sarah after she died. Here, Jacob names the tree Deborah is buried under
+*’allon bakuth* (root *bkt*), "oak of weeping." The lack of a burial scene for Rebekah is
+highlighted. Genesis doesn't reveal that was buried with Isaac until Jacob's death
+([Genesis 49:31](https://biblia.com/bible/esv/genesis/49/31)).
 
 Other than serve as the final reversal of Rebekah's involvement in the theft of the blessing,
 Deborah's death could also underscore the purification of the nascent Israel as it returns to
