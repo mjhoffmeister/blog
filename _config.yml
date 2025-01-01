@@ -73,8 +73,9 @@ defaults:
       share: true
 
 include:
-  - _pages
+  - _dnd
   - _jacob_cycle
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
