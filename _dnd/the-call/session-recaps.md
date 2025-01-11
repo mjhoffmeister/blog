@@ -463,3 +463,28 @@ and death, he was able to perceive Tuval's descent into Kur. Ibate was able to r
 from the underworld and return with him to the physical realm.
 
 With Tuval's help, you were able to dispatch Dibela and Shesai, winning the battle.
+
+# The Hevron Bore
+
+You retrieved the Crown of Ashalu from Shesai. You tried to destroy it with your coven magic, but
+its immense demonic power thwarted your first attempt. As you entered Hevron, you encountered Ithi,
+a man who had been sympathetic to Shesai's, unconscious, and learned that there were some others 
+suffering the same condition.
+
+You went to Tuval's smithy, where you were gifted masterwork armor by the skilled craftsman. From
+there, you entered Shesai's palace, convincing the remaining militia to lay down their arms and
+surrender. You found Dormin imprisoned in palace. She revealed that a "bore" had been formed
+underneath the palace though Shesai and Dam Hamor, a blood mage, had been attempting to free Ba'al,
+also called Hadaad, from Kur Sig, the deepest part of the underworld.
+
+Before descending into the cavern beneath the palace to face Dom Hamor, you again attempted to
+destroy the Crown of Ashalu. That time, you were successful.
+
+After bursting through the door into the room where Dam Hamopr was, Ishtar was banished into Kur.
+There, he found the spirits of those who had fallen unconscious after The Forgetting had broken.
+He forced his way past a large serpent, up some stairs, and found himself back in the physical
+realm.
+
+After you defeated the blood mage, a massive tannim burst from the waters in the cavern. You now
+face the monster.
+
