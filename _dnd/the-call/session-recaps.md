@@ -505,8 +505,8 @@ attacked. Each demon subjected one of you to a phantasm.
 
 * Ibate faced a caricature of himself, consumed by a desire to dominate the Na'ani and subjugate
 them for his own glory.
-* Inatu battled a reanimated Lugal, Ishme, shortly after she had beheaded him.
-* Ishtar confronted a doppelganger that transformed into a large, black lion after refusing to
+* Inatu battled a reanimated Lugal Ishme, shortly after she had beheaded him.
+* Ishtar confronted a doppelgänger that transformed into a large, black lion after refusing to
 submit to Salar.
 
 Despite the harrowing trials, you prevailed against your phantasms. With the demons defeated, the
