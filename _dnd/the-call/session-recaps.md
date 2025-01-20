@@ -492,7 +492,7 @@ face the monster.
 
 You chose to perform the Metamorphose ritual on the tannim within the Hevron bore. At the completion
 of the ritual, it was transformed into a dove. After the din of battle waned, Ishtar sensed a
-connection to other bores in the region: one far to the north, one far to the south, and the bore in
+connection to other bores in the region: two to the north, one far to the south, and the bore in
 the Balat catacombs. However, you perceived that the Hallow ritual you performed in the Balat
 catacombs had formed a kind of barrier. Ishtar surmised that direct travel between the bores might
 be possible.
