@@ -33,6 +33,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Install ruby-build
+        run: |
+          git clone https://github.com/rbenv/ruby-build.git
+          PREFIX=/opt/hostedtoolcache/Ruby /bin/bash ruby-build/install.sh
       - name: Set up Ruby
         run: |
           git clone https://github.com/rbenv/ruby-build.git
