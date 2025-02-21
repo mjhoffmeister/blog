@@ -16,7 +16,7 @@ house in Jerusalem.[^1]
 
 [Matthew 26:17-30](https://biblia.com/bible/esv/matthew/26/17-30)
 
-* The Last Supper marks the establishment of a new community who identify with Jesus's death which
+* The Last Supper marks the establishment of a new community that identifies with Jesus's death which
 forgives them of their sins.[^2]
 
 # Practice in the early church

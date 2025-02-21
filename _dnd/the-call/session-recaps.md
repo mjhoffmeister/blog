@@ -480,7 +480,7 @@ also called Hadaad, from Kur Sig, the deepest part of the underworld.
 Before descending into the cavern beneath the palace to face Dom Hamor, you again attempted to
 destroy the Crown of Ashalu. That time, you were successful.
 
-After bursting through the door into the room where Dam Hamopr was, Ishtar was banished into Kur.
+After bursting through the door into the room where Dam Hamor was, Ishtar was banished into Kur.
 There, he found the spirits of those who had fallen unconscious after The Forgetting had broken.
 He forced his way past a large serpent, up some stairs, and found himself back in the physical
 realm.
@@ -511,3 +511,27 @@ submit to Salar.
 
 Despite the harrowing trials, you prevailed against your phantasms. With the demons defeated, the
 spirits were freed. They surged upward, returning to the physical realm.
+
+# A divine council
+
+After your battle with Dom Hamor and the tannim in the Hevron bore, you retrieved Dom Hamor's
+material on blood magic and cast it into the pond within the bore. Astonishingly, it transformed
+into a copy of the Tablet of Judgment, and a pedestal rose from the ground to hold it. Moments
+later, Al'havir appeared and Hallowed the bore. During this event, Ishtar discovered that
+transportation between Hallowed spaces might be possible.
+
+You then returned to Shesai's palace to confront Dormin. Believing that she was sincere in her
+desire to serve Salar, you chose to leave her to reflect in the now-Hallowed bore.
+
+Shortly after, Tuval arrived with news: a man named Aqhat had come to the gate, seeking Ishtar. You
+met him in Shesai's palace and learned that he had experience in administration. Seeing an
+opportunity, you proposed that he lead Hevron, a suggestion that the people readily accepted.
+
+Back in Balat, Ili invited you to a divine council meeting with The Seven and Salar. There, the
+crisis of the Vaxai and demons was debated. Two surprising proposals were presented: releasing the
+tannim from Ugarit or freeing Ba’al from Kur—both of which, according to Salar, "would succeed."
+You were asked to consider these options, propose alternatives, or formulate your own plan.
+
+When the meeting ended, you were met with shocking news from your mother and father—though to you,
+it had seemed like a short time, you had been in the council meeting for forty days. In your
+absence, the people had begun worshiping the statue of Ba'al in the catacombs.
