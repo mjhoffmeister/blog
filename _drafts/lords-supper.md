@@ -17,8 +17,8 @@ new community that identifies with Jesus's death which forgives them of their si
 
 [Matthew 26:17-30](https://biblia.com/bible/esv/matthew/26/17-30)
 
-* The Last Supper marks the establishment of a new community that identifies with Jesus's death which
-forgives them of their sins.[^2]
+* The Last Supper marks the establishment of a new community that identifies with Jesus's death
+which forgives them of their sins.[^2]
 
 [Luke 22:1-38](https://biblia.com/bible/esv/luke/22/1-38)
 
