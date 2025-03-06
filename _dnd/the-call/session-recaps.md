@@ -512,7 +512,7 @@ submit to Salar.
 Despite the harrowing trials, you prevailed against your phantasms. With the demons defeated, the
 spirits were freed. They surged upward, returning to the physical realm.
 
-# A divine council
+# A Divine Council
 
 After your battle with Dom Hamor and the tannim in the Hevron bore, you retrieved Dom Hamor's
 material on blood magic and cast it into the pond within the bore. Astonishingly, it transformed
@@ -523,7 +523,7 @@ transportation between Hallowed spaces might be possible.
 You then returned to Shesai's palace to confront Dormin. Believing that she was sincere in her
 desire to serve Salar, you chose to leave her to reflect in the now-Hallowed bore.
 
-Shortly after, Tuval arrived with news: a man named Aqhat had come to the gate, seeking Ishtar. You
+Shortly after, Tuval arrived with news: a man named Attar had come to the gate, seeking Ishtar. You
 met him in Shesai's palace and learned that he had experience in administration. Seeing an
 opportunity, you proposed that he lead Hevron, a suggestion that the people readily accepted.
 
@@ -535,3 +535,33 @@ You were asked to consider these options, propose alternatives, or formulate you
 When the meeting ended, you were met with shocking news from your mother and father—though to you,
 it had seemed like a short time, you had been in the council meeting for forty days. In your
 absence, the people had begun worshiping the statue of Ba'al in the catacombs.
+
+# Stand in the Breach
+
+After learning that the people had begun worshiping the statue of Ba'al in the Balat catacombs, you
+decided to investigate with Ili and Tuval. Descending into the dark crypt, you discovered that
+roughly 30 worshipers were gathered, offering a sacrifice to Ba'al. The air was thick with the scent
+of freshly spilled goat's blood and the sound of ecstatic singing.
+
+As you confronted them, a tense exchange unfolded. The worshipers ceased their ritual in fear and
+shame. Then, a deep, thunderous voice filled your minds—the voice of Ba'al Hadaad. A dark, smoky
+vapor dotted with motes of dark red light began to rise from the statue of Ba'al and coalesce into
+demonic forms.
+
+Ili, as a response to Ishtar deciding to rely on Salar instead of human weapon-craft, transformed
+him into a Cherubic Guardian, his form now radiant and resplendent. With Ili’s fervent cry—“Stand
+in the breach!”—the battle began.
+
+Wave after wave of demons poured forth. You held the demons' attention, giving the people time to
+escape. Then, you made your stand to ensure they wouldn't follow.
+
+Then came the final wave. A larger demon, towering and grotesque, emerged from the shadows.
+With effortless brutality, the demon struck down Ili. Weakened from the relentless waves, he
+crumpled to the floor. As Ili gasped for breath, the demon commanded the last remaining lesser demon
+to strike the killing blow.
+
+You fought with renewed fury, vanquishing the last of the demons. However, Ili had died standing in
+the breach, just as he had exhorted you to do.
+
+As the battle's din faded, silence gripped the catacombs. Then, from the darkness, a sound—low,
+guttural, mocking. Ba’al’s laughter echoed in your minds—low, guttural, and triumphant.

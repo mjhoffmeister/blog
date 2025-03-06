@@ -10,14 +10,19 @@ toc_label: Contents
 
 # Establishment
 
-The Lord's Supper was established by Jesus the evening before his death at the
-celebration of the Passover meal with his disciples in the upper room of a 
-house in Jerusalem.[^1]
+The Lord's Supper was established by Jesus the evening before his death at the celebration of the
+Passover meal with his disciples in the upper room of a house in Jerusalem.[^1] In the context of
+the synoptic gospels (Matthew, Mark, and Luke), it marks the inauguration of the kingdom of God, a
+new community that identifies with Jesus's death which forgives them of their sins.[^2]
 
 [Matthew 26:17-30](https://biblia.com/bible/esv/matthew/26/17-30)
 
-* The Last Supper marks the establishment of a new community that identifies with Jesus's death which
-forgives them of their sins.[^2]
+* The Last Supper marks the establishment of a new community that identifies with Jesus's death
+which forgives them of their sins.[^2]
+
+[Luke 22:1-38](https://biblia.com/bible/esv/luke/22/1-38)
+
+* The Last Supper symbolized Jesus's sacrifice that would inaugurate the kingdom of God.[^3]
 
 # Practice in the early church
 
@@ -56,6 +61,7 @@ Heiser, Michael. *The Unseen Realm*. E-book ed. Lexham Press, 2015.
 
 ---
 
-[^1]: Ellwell and Walter, "Upper Room," 2116. It's noted here that upper rooms 
-were built on the flat roofs of Hebrew homes.
-[^2]: Wenham, et al., *New Bible Commentary*, 940.
+[^1]: Ellwell and Walter, "Upper Room," 2116. It's noted here that upper rooms were built on the
+flat roofs of Hebrew homes.
+[^2]: Wenham, et al., *New Bible Commentary*, see 940 for commentary of the Last Supper in Matthew
+and 1015 for commentary on it in Luke.

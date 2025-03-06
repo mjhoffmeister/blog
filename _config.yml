@@ -38,6 +38,8 @@ analytics:
 collections:
   jacob_cycle:
     output: true
+  worship:
+    output: true
 
 # Build settings
 # theme: minima
@@ -71,10 +73,18 @@ defaults:
     values:
       layout: single
       share: true
+  # _worship
+  - scope:
+      "path": ""
+      "type": worship
+    values:
+      layout: single
+      share: true
 
 include:
   - _dnd
   - _jacob_cycle
+  - _worship
   - _pages
 
 # Exclude from processing.

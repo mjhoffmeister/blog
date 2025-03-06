@@ -18,5 +18,10 @@ sidebar:
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
+<div class="entries-{{ entries_layout }}">
+  {% for post in site.worship %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
 
 {% include paginator.html %}

@@ -29,3 +29,8 @@ jacob-cycle:
        url: /jacob-cycle/jacob-and-the-hivites
      - title: Part 14 - Journey's end
        url: /jacob-cycle/journeys-end
+worship:
+  - title: Worship
+    children:
+      - title: The Lord's Supper
+        url: /worship/lords-supper
