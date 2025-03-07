@@ -1,6 +1,6 @@
 ---
 title: Beginnings
-date: 2024-03-02 00:00:00 -0600
+date: 2025-03-07 15:34:00 -0600
 permalink: /jacob-cycle/beginnings
 categories: jacob-cycle
 sidebar:
@@ -63,14 +63,15 @@ Egyptian, Sarah’s servant, bore to Abraham.
 >
 > --Genesis 25:12 (ESV)
 
-In the *toledot* of Ishmael, it’s Hagar who bears Ishmael (to Abraham,) while Abraham is said to 
+In the *toledot* of Ishmael, it's Hagar who bears Ishmael (to Abraham), while Abraham is said to 
 bear/father Isaac. Abraham is distanced from Ishmael. This highlights Isaac as the chosen seed of 
 the woman as foretold by God in [Genesis 21:12](https://biblia.com/bible/esv/genesis/21/12). 
-Although Ishmael isn't chosen by God to be the child of promise, he's still blessed in fulfillment 
-of God's promise to Abraham in [Genesis 17:20](https://biblia.com/bible/esv/genesis/17/20).[^3] 
-This is important to remember for the Jacob story. Virtually all the characters operate under a 
-scarcity mindset: if one person is blessed, that means others lose out. Part of the teaching of the 
-Jacob Cycle is that God's ability to bless isn't constrained by human institutions or expectations.
+However, though Ishmael isn't chosen by God to be the child of promise, he's still blessed in
+fulfillment of God's promise to Abraham in
+[Genesis 17:20](https://biblia.com/bible/esv/genesis/17/20).[^3] This is important to remember for
+the Jacob story. Virtually all the characters operate under a scarcity mindset: if one person is
+blessed, that means others lose out. Part of the teaching of the Jacob Cycle is that God's ability
+to bless isn't constrained by human institutions or expectations.
 
 ### Isaac's age
 
@@ -164,14 +165,14 @@ was barren; she had no child.
 > --Genesis 11:29-30 (ESV)
 
 The barrenness of the matriarchs of the chosen line is a recurring theme that shows that it isn’t 
-by human effort that the blessed seed of the woman will continue; it’s by God’s power. In 
+by human effort that the blessed seed of the woman will continue; it's by God's power. In 
 the Abraham and Sarah story, it takes 9 chapters to resolve Sarah’s barrenness as they try to 
 overcome it their own way. Although we learn that it's 20 years after Isaac and Rebekah marry 
 before Esau and Jacob are born, it only takes one verse for Rebekah's barrenness to be resolved 
 in the narrative.[^8]
 
 Sarai and Abram (Sarah and Abraham's names before God changes them) try to resolve their fertility 
-issues by having a slave woman, Hagar act as a surrogate mother. The Bible makes it clear that this 
+issues by having a slave woman, Hagar, act as a surrogate mother. The Bible makes it clear that this 
 was contrary to God's plan by linking it with Eve and Adam eating from the forbidden tree of the 
 knowledge of good an evil.
 
@@ -215,15 +216,25 @@ barrenness is reversed to conception. Even the word order of "wife" and her cond
 in its parallel line: wife (subject) > barren (condition) becomes conceived (condition) > wife 
 (subject).
 
+This reversal grounds the beginning of the Jacob story in the creation/blessing stage of the Genesis
+cycle. Sarah's story bridges the garden of Eden and Rebekah's story in the first section of the
+Jacob Cycle.[^10]
+
+| Eden story (Genesis 2-3) | Sarah's story (Genesis 12-21) | Rebekah's story (Genesis 25-28) |
+| --- | --- | --- |
+| Barren land | "Barrenness" (*'aqar*, literally "without root") | "Barrenness" (*'aqar*, literally "without root") |
+| God provides water and life | God "visited" (*paqad*, looks like the Hebrew for "without root") Sarah | Isaac "prayed" (*'atar*, looks like the Hebrew for "without root") |
+| Result: a garden in Eden (*'eden*, root *'dn*) | Result: the "pleasure" (*'ednah*, root *'dn*) fertility and a son | Result: two sons |
+
 The root of the Hebrew word translated "prayed" here is *‘tr*. This is the first time a word with 
 that root is used in the Bible, occurring 25 times in total. The more common word for “pray” (*pll*)
 occurs 172 times, so the usage of *‘tr* here is interesting. The next time it's used, and most 
-often, is in Exodus when Moses asks God to remove the plagues.[^10] The Jacob Cycle will often 
+often, is in Exodus when Moses asks God to remove the plagues.[^11] The Jacob Cycle will often 
 allude to Israel's time in Egypt, connecting it to Jacob's exile in Haran. So, we have both an early 
 connection to Israel's enslavement in Egypt and Rebekah's barrenness being addressed in the same way
 that Moses addresses the plagues on behalf of Pharaoh. Isaac asks God to remove a chaotic, 
-"de-creation" state to restore order, though it was God himself who allowed that chaos to manifest 
-to reveal himself ([Exodus 7:5](https://biblia.com/bible/esv/exodus/7/5).)
+pre-creation state to bring order, though it was God himself who allowed that chaos to manifest to
+reveal himself ([Exodus 7:5](https://biblia.com/bible/esv/exodus/7/5)).
 
 ### Crushing in the womb
 
@@ -234,15 +245,15 @@ this happening to me?” So she went to inquire of the LORD.
 
 The Hebrew word translated “struggled” (*yitrotsatsu*) is an unusual verb which means “smash, 
 crush.” It's used figuratively in the Bible to describe the oppression of the poor, and literally 
-to describe skulls smashing together or reeds being broken.[^11] This violent term could be an echo 
+to describe skulls smashing together or reeds being broken.[^12] This violent term could be an echo 
 of God’s statement that he would place enmity between the seed of the woman and the seed of the 
-serpent.[^12] It also foreshadows the hostility between Esau and Jacob and the nations that will 
-come from them.[^13]
+serpent.[^13] It also foreshadows the hostility between Esau and Jacob and the nations that will 
+come from them.[^14]
 
 ### Inquiring of the Lord
 
 Literally, Rebekah's response is an incomplete sentence: “if so, why then am I...” which can be 
-interpreted to mean “why do I go on living?” or “why did I desire to become pregnant?”[^14] It was 
+interpreted to mean “why do I go on living?” or “why did I desire to become pregnant?”[^15] It was 
 foretold by God that a consequence of Adam and Eve’s sin would be pain in conceiving children. 
 Perhaps, a manifestation of that pain is seen in Rebekah's difficult pregnancy and her reaction to 
 it. The root word used in [Genesis 3:16](https://biblia.com/bible/esv/genesis/3/16),
@@ -260,12 +271,12 @@ translated “childbearing” (ESV,) is the same root word used in
 
 Rebekah “inquires of the Lord” because of what’s happening to her. Commentators note that this would
 typically involve going to a prophet or sacred space. Conjectures include:
-* Beer-lahai-roi, where God spoke to Hagar.[^15]
-* Abraham, although it's unlikely.[^16] Abraham may not actually be alive at this time despite the 
+* Beer-lahai-roi, where God spoke to Hagar.[^16]
+* Abraham, although it's unlikely.[^17] Abraham may not actually be alive at this time despite the 
 fact that if Biblical ages are taken literally, he would be (Abraham would be 160 when Isaac is 60, 
 35 years before Abraham’s death.) Abraham is conspicuously absent in 
 [Genesis 24:62-67](https://biblia.com/bible/esv/genesis/24/62-67), implying that he died before his 
-servant returned to Isaac with Rebekah.[^17]
+servant returned to Isaac with Rebekah.[^18]
 
 Regardless, the Bible doesn’t dwell on how Rebekah inquired of the Lord, stating only that she does 
 and that God answers. Isaac turned to God as a response to Rebekah's barrenness; Rebekah turns to 
@@ -293,12 +304,12 @@ earth shall be blessed.”
 > --Genesis 12:1-3 (ESV)
 
 God's promise to Abraham in Genesis 12 establishes the mission for his family and the Israelite 
-nation that will come from it.[^18] Rebekah's oracle, being compared to the promise given to 
+nation that will come from it.[^19] Rebekah's oracle, being compared to the promise given to 
 Abraham, invites the question: how will the conflict foretold result in a nation of blessing?
 
 God’s answer to Rebekah's inquiry is presented in the form of a poem. As is typical in biblical 
 poetry, it's in pairs of lines with the second line in each pair developing and intensifying the 
-first.[^19]
+first.[^20]
 
 > "Two nations are in your womb"
 
@@ -321,7 +332,7 @@ In the third line, God reveals that one nation will be stronger than the other.
 
 The last line gives us the twist: the nation descended from the older shall serve the younger. 
 However, it doesn’t suggest that the younger child is therefore more favored by God or to be more 
-favored by Isaac and Rebekah; it’s about the nations that descend from them.[^20] The words “sons” 
+favored by Isaac and Rebekah; it’s about the nations that descend from them.[^21] The words “sons” 
 or “children” are absent from the oracle.
 
 This line is more ambiguous in Hebrew. The word translated “older” (*rav*) is never translated that 
@@ -339,7 +350,7 @@ They aren’t given instruction about how to raise their children. Their biases 
 are their own choices. Will they “see and take” or patiently trust God?
 
 The oracle develops the established theme in Genesis of a younger or lesser son be chosen over the 
-firstborn. Abel, Seth, and Isaac weren't firstborn sons.[^21] The story of the Bible is showing us 
+firstborn. Abel, Seth, and Isaac weren't firstborn sons.[^22] The story of the Bible is showing us 
 that being chosen by God is an act of grace, not a natural right. Also, the Bible often shows us 
 how the firstborn children choose to become the seed of the serpent rather than the seed of the 
 woman. We'll see this with Esau.
@@ -376,7 +387,7 @@ Hebrew letters (note that Hebrew is read right to left.)
 | אַדְמוֹנִי | *admoni* |
 | אֱדוֹם | *edom* |
 
-"Hairy" is *se‘ar* in Hebrew, a play on the region within Edom that Esau will settle.[^22]
+"Hairy" is *se‘ar* in Hebrew, a play on the region within Edom that Esau will settle.[^23]
 
 #### Jacob
 
@@ -384,7 +395,7 @@ Jacob is born grasping Esau's heel. "Jacob" in Hebrew is *ya‘aqov*, a play on 
 *‘aqev*. This explanation of Jacob's name establishes his behavioral pattern for the rest of the 
 story. He'll consistently grasp for what he wants on his own terms.
 
-*ya‘aqov* is also a shortened form of the name *ya‘aqov-el*, which means "may God protect."[^23] 
+*ya‘aqov* is also a shortened form of the name *ya‘aqov-el*, which means "may God protect."[^24] 
 A double meaning could be intended. Despite Jacob's schemes, God protects him.
 
 #### Parallels with the Epic of Gilgamesh
@@ -392,7 +403,7 @@ A double meaning could be intended. Despite Jacob's schemes, God protects him.
 Esau and Jacob share similarities with Enkidu and Gilgamesh, respectively, from the ancient 
 Mesopotamian epic poem *Epic of Gilgamesh*. These parallels are strongest in the wrestling scene in 
 [Genesis 32:22-32](https://biblia.com/bible/esv/genesis/27/15), but there are notable examples here,
-also, that strengthen the connections to the poem in Genesis 32.[^24]
+also, that strengthen the connections to the poem in Genesis 32.[^25]
 
 Most historians agree that Gilgamesh was a historical king of the Sumerian city-state Uruk who was 
 poetically elevated to part-god status after his death. In the *Epic of Gilgamesh*, he's described 
@@ -416,7 +427,7 @@ Coated in hair like the god of the animals,
 joining the throng with the game at the water-hole,  
 &ensp;&ensp;his heart delighting with the beasts in the water.  
 >
-> --The Epic of Gilgamesh (Tablet I, lines 101-112)[^25]
+> --The Epic of Gilgamesh (Tablet I, lines 101-112)[^26]
 
 Note the similar hairy descriptions of Esau and Enkidu. Also, we'll see that Esau's domain is away 
 away from camp with the animals, and will demonstrate animalistic behaviors.
@@ -433,7 +444,7 @@ The gods Anu, Enlil and Ea have broadened his wisdom.
 >'Before you even came from the uplands,  
 &ensp;&ensp;Gilgamesh in Uruk was seeing you in dreams:'
 >
-> --The Epic of Gilgamesh (Tablet I, lines 236-239, 242-244)[^26]
+> --The Epic of Gilgamesh (Tablet I, lines 236-239, 242-244)[^27]
 
 Parallels can be seen between Gilgamesh and Jacob.
 
@@ -463,7 +474,7 @@ someone with high moral character
 [Psalm 15:2](https://biblia.com/bible/esv/psalms/15/2), 
 [Proverbs 10:9](https://biblia.com/bible/esv/proverbs/10/9)) This doesn’t fit the Jacob we see in 
 the Biblical story. It could be used here as a puzzle intended to cause us to reflect on the 
-complicated nature of Jacob.[^27] Or, it could mean “bent on one purpose”.[^28] It could also invite
+complicated nature of Jacob.[^28] Or, it could mean “bent on one purpose”.[^29] It could also invite
 comparison between Abimelech in [Genesis 20:5](https://biblia.com/bible/esv/genesis/20/5,) which 
 will be explored later.
 
@@ -479,11 +490,11 @@ preference for Jacob isn't explicitly given, but the story may hint at the reaso
 
 The predominance of the firstborn son is well documented in the region and time of ancient Israel 
 (Sumeria, Mari, Nuzi, and Middle Assyrian laws.) He was second in rank only to the family 
-patriarch and would become his successor.[^29] He would also receive a double share of the 
-inheritance.[^30]
+patriarch and would become his successor.[^30] He would also receive a double share of the 
+inheritance.[^31]
 
 Birthright in Hebrew, *bekorah*, is an anagram of blessing, *berakah*, a major theme in 
-Genesis.[^31] In the early arcs of the Jacob Cycle, we see Jacob seizing both authority and 
+Genesis.[^32] In the early arcs of the Jacob Cycle, we see Jacob seizing both authority and 
 blessing from Esau.
 
 ### The sale of the birthright
@@ -502,34 +513,34 @@ The scene opens with Jacob cooking stew. The kind of stew isn’t revealed to ma
 tragic at its end. Esau comes in from the field exhausted. In the ancient Near East, one would 
 more likely be exhausted from exertion or thirst rather than hunger. When the object is a person, 
 most instances of the Hebrew word translated "exhausted" (*‘ayeph*) in the Bible refer to someone 
-who is thirsty, so perhaps what Esau really needed was rest and water.[^32] Nevertheless, 
-it's possible he’s truly extremely weary.[^33]
+who is thirsty, so perhaps what Esau really needed was rest and water.[^33] Nevertheless, 
+it's possible he’s truly extremely weary.[^34]
 
 The ESV doesn't translate the word, but Esau says "please" (Hebrew *na‘*) in verse 30, in contrast
 to the demanding way Jacob speaks to him later. Nevertheless, Esau's speech is animalistic. The
 Hebrew word translated "eat" is *halite*, which is a verb used for the feeding of animals. A 
 translation capturing the essence of Esau's request could be "let me cram my maw with that red-red."
-[^34]
+[^35]
 
 Literally, Esau asks to for some of "the red, the red." The repetition of "red" might suggest a deep
 red stew. An explanation is given for Esau being called Edom, the nation that would come from him. 
 Here, "red" is *adom*, the root word for *admoni* seen in verse 25 (see [Esau](#esau).) *adom* also 
 sounds like the Hebrew word for "blood," *dam*. There's wordplay between Edom and *dam* later in the
 Bible ([Joel 3:19](https://biblia.com/bible/esv/joel/3/19);) perhaps Esau thought that "the red, the
-red" was blood broth, believed to be life essence, or meat stew.[^35]
+red" was blood broth, believed to be life essence, or meat stew.[^36]
 
 Jacob, cold and calculating, demands that Esau immediately sell him his birthright. Esau, thinking 
 that he’ll die without the food, agrees. He’s too much a slave of the moment to consider the great 
-ramifications of the transaction.[^36] To ensure that he gets what he wants, Jacob tells Esau to 
-swear to him. In the ancient Near East, such an oath may have been considered irrevocable.[^37]
+ramifications of the transaction.[^37] To ensure that he gets what he wants, Jacob tells Esau to 
+swear to him. In the ancient Near East, such an oath may have been considered irrevocable.[^38]
 
 It's revealed that the stew is only lentils, not blood broth or meat, intensifying the inequity of 
 the arrangement. We get four verbs in quick succession ("he **ate** and **drank** and **rose** and 
-**went**") with no more dialogue, which is chilling considering what just happened.[^38] Esau 
+**went**") with no more dialogue, which is chilling considering what just happened.[^39] Esau 
 satisfied his appetite and left without further comment.
 
 The Bible doesn't often directly comment on whether something that happened is good or bad, so 
-the statement "Thus Esau despised his birthright" is unusual and significant.[^39] We’re being shown
+the statement "Thus Esau despised his birthright" is unusual and significant.[^40] We’re being shown
 why Esau is disqualified from being the chosen child of promise. By treating the birthright, 
 something of great value in his time and place, so flippantly, he's shown as one who gives in to 
 hardship instead of persevering. Hebrews comments on Esau's behavior.
@@ -554,11 +565,11 @@ gave his allegiance to other gods. While there's a reversal of Esau's misfortune
 Cycle, here in Hebrews, the point where Esau changed his mind is set up as the future final 
 judgment. He was too late; the "race" of Hebrews 12:1 was finished. Literally, he wasn't able to 
 find a "place for repentance." As we'll see later, Jacob's place of repentance is at Peniel where 
-he wrestles with God.[^40]
+he wrestles with God.[^41]
 
 At this point, however, Jacob doesn't present himself as a much better option for the seed of the 
 woman. There's still more to reflect on as the story progresses. Still, it's perhaps 
-significant that Jacob appreciates the cultural value of the birthright. [^41] While Jacob isn't
+significant that Jacob appreciates the cultural value of the birthright. [^42] While Jacob isn't
 loyal to God at this point, his heart is somewhat oriented towards the commission given to humanity
 in the beginning.
 
@@ -567,7 +578,7 @@ trades his birthright, which included authority, for food he thought was more su
 turned out to be because he thought he was going to die. Adam and Eve traded their right to rule 
 for food they thought would make them like gods (*elohim*,) being promised that they wouldn’t die. 
 But, Jacob is the the deceiver in this story. The literary design of the section even has Jacob 
-encircling Esau.[^42] Perhaps like a coiling serpent?
+encircling Esau.[^43] Perhaps like a coiling serpent?
 
 &ensp;&ensp;Said Jacob: sell me your birthright  
 &ensp;&ensp;&ensp;&ensp;Said Esau: I leave, I die; of what use is a birthright to me?  
@@ -578,14 +589,14 @@ transactions in the Bible
 ([Abraham’s purchase of a burial cave](https://biblia.com/bible/esv/genesis/23/3-17), 
 [David’s purchase of a threshing floor](https://biblia.com/bible/esv/2-samuel/24/21-24)) follow a 
 formula that states that the purchaser actually bought what was sold to them. It’s left out here to
-distance Jacob’s eventual authority from the means he used to get it.[^43] That is, Jacob’s
+distance Jacob’s eventual authority from the means he used to get it.[^44] That is, Jacob’s
 actions aren’t what establish him as the chosen seed of the woman.
 
 ## Conclusion
 
 The beginning of the Jacob Cycle sets the trajectory for the rest of the story. Through God's 
 oracle, it's revealed that he will chose the one to carry on the blessing given to Abraham. Human 
-traditions and expectations won't be the determining factors. Paul comments on this in Romans.[^44]
+traditions and expectations won't be the determining factors. Paul comments on this in Romans.[^45]
 
 > <sup>10</sup> And not only so, but also when Rebekah had conceived children by one man, our 
 forefather Isaac, <sup>11</sup> though they were not yet born and had done nothing either good or 
@@ -616,6 +627,9 @@ George, Andrew. *The Epic of Gilgamesh*. New York, New York: Penguin Books, 2000
 Hamori, Esther J. "Echoes of Gilgamesh in the Jacob Story," *Journal of Biblical Literature* 130, 
 no. 4 (2011): 625-642.
 
+Mackie, Tim. "Session 4: The Birth of Esau and Jacob," *The BibleProject Classroom: Jacob*.
+Published 2021. <https://bibleproject.com/classroom/jacob/notebook/teacher-notes>.
+
 Na'aman, Nadav, "The Jacob Story and the Formation of Biblical Israel," *Tel Aviv* 41, no. 1 
 (2014): 95-125.
 
@@ -640,38 +654,39 @@ Academic, 2017.
 [^7]: Sailhamer, *Genesis*, 281.
 [^8]: Walton, *Genesis*, 555.
 [^9]: Fokkelman, *Narrative Art*, 88.
-[^10]: Wenham, *Genesis 16-50*, 174.
-[^11]: Ibid.
-[^12]: Sailhamer, *Genesis*, 426.
-[^13]: Sarna, *Genesis*, 179.
-[^14]: Ibid.
-[^15]: Ibid, 176.
-[^16]: Walton, *Genesis*, 547.
-[^17]: Wenham, *Genesis 16-50*, 151.
-[^18]: Ibid, 173.
-[^19]: Ibid, 175.
-[^20]: Walton, *Genesis*, 549.
-[^21]: Sailhamer, *Genesis*, 427.
-[^22]: Ibid, 425.
-[^23]: Sarna, *Genesis*, 180.
-[^24]: Hamori, "Echoes of Gilgamesh," 633.
-[^25]: George, *Gilgamesh*, 5.
-[^26]: Ibid, 9-10.
-[^27]: Alter, *Art of Biblical Narrative*, 49.
-[^28]: Fokkelman, *Narrative Art*, 91.
-[^29]: Sarna, *Genesis*, 181.
-[^30]: Walton, *Genesis*, 549.
-[^31]: Wenham, *Genesis*, 31.
-[^32]: Ibid, 176.
-[^33]: Walton, *Genesis*, 551.
-[^34]: Alter, *Art of Biblical Narrative*, 49.
-[^35]: Sarna, *Genesis*, 182.
-[^36]: Alter, *Art of Biblical Narrative*, 51.
-[^37]: Sarna, *Genesis*, 182.
-[^38]: Wenham, *Genesis* 177.
-[^39]: Ibid.
-[^40]: Asumang, "Strive for Peace and Holiness," 42.
-[^41]: Sailhamer, *Gensis*, 427.
-[^42]: Fokkelman, *Narrative Art*, 95.
-[^43]: Sarna, *Genesis*, 182.
-[^44]: Wenham, *Genesis* 179.
+[^10]: Mackie, "The Birth of Esau and Jacob," see section "From Barrenness to Birth".
+[^11]: Wenham, *Genesis 16-50*, 174.
+[^12]: Ibid.
+[^13]: Sailhamer, *Genesis*, 426.
+[^14]: Sarna, *Genesis*, 179.
+[^15]: Ibid.
+[^16]: Ibid, 176.
+[^17]: Walton, *Genesis*, 547.
+[^18]: Wenham, *Genesis 16-50*, 151.
+[^19]: Ibid, 173.
+[^20]: Ibid, 175.
+[^21]: Walton, *Genesis*, 549.
+[^22]: Sailhamer, *Genesis*, 427.
+[^23]: Ibid, 425.
+[^24]: Sarna, *Genesis*, 180.
+[^25]: Hamori, "Echoes of Gilgamesh," 633.
+[^26]: George, *Gilgamesh*, 5.
+[^27]: Ibid, 9-10.
+[^28]: Alter, *Art of Biblical Narrative*, 49.
+[^29]: Fokkelman, *Narrative Art*, 91.
+[^30]: Sarna, *Genesis*, 181.
+[^31]: Walton, *Genesis*, 549.
+[^32]: Wenham, *Genesis*, 31.
+[^33]: Ibid, 176.
+[^34]: Walton, *Genesis*, 551.
+[^35]: Alter, *Art of Biblical Narrative*, 49.
+[^36]: Sarna, *Genesis*, 182.
+[^37]: Alter, *Art of Biblical Narrative*, 51.
+[^38]: Sarna, *Genesis*, 182.
+[^39]: Wenham, *Genesis* 177.
+[^40]: Ibid.
+[^41]: Asumang, "Strive for Peace and Holiness," 42.
+[^42]: Sailhamer, *Genesis*, 427.
+[^43]: Fokkelman, *Narrative Art*, 95.
+[^44]: Sarna, *Genesis*, 182.
+[^45]: Wenham, *Genesis* 179.
