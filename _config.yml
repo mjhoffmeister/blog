@@ -58,7 +58,7 @@ defaults:
       layout: single
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -72,14 +72,14 @@ defaults:
       type: jacob_cycle
     values:
       layout: single
-      share: true
+      share: false
   # _worship
   - scope:
       "path": ""
       "type": worship
     values:
       layout: single
-      share: true
+      share: false
 
 include:
   - _dnd

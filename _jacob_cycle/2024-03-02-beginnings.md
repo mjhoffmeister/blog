@@ -1,6 +1,6 @@
 ---
 title: Beginnings
-date: 2025-03-07 15:34:00 -0600
+date: 2024-03-02 00:00:00 -0600
 permalink: /jacob-cycle/beginnings
 categories: jacob-cycle
 sidebar:
