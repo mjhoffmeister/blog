@@ -17,7 +17,7 @@ Immediately after considerable action between Jacob and Esau, we get an entire c
 the life of Isaac as an interruption within the Jacob story. It appears to be chronologically out of
 order[^1] and is highly repetitive of episodes of Abraham in Egypt 
 ([Genesis 12:10-20](https://biblia.com/bible/esv/genesis/12/10-20)) and Gerar 
-([Genesis 20:1-18](https://biblia.com/bible/esv/genesis/20/1-18).) At surface level, this may seem
+([Genesis 20:1-18](https://biblia.com/bible/esv/genesis/20/1-18)). At surface level, this may seem
 incoherent, but the intrusion serves to develop the story of God's covenant with the seed of the 
 woman, allows us to reflect on what just happened, and frames what will follow.[^2] Isaac 
 experiences an exile in Gerar that foreshadows Jacob's exile in Haran. Also, we're still to compare

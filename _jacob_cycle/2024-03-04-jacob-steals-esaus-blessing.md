@@ -44,7 +44,7 @@ discussed in [Part 1](beginnings.html#the-sale-of-the-birthright),
 and his marriages as a sign of faithlessness in Yahweh. His marriages, in particular, might suggest
 serving other gods. The law later prohibits Israelites from marrying women from the nations because
 doing so would turn them away from Yahweh
-([Deuteronomy 7:3-4](https://biblia.com/bible/esv/deuteronomy/7/3-4).)
+([Deuteronomy 7:3-4](https://biblia.com/bible/esv/deuteronomy/7/3-4)).
 
 The names of Esau's wives and their fathers create a transition from the previous section and this
 one. Beeri recalls the well (*be’er*) dug in
@@ -90,7 +90,7 @@ Perhaps strangely, Isaac only calls Esau to give the blessing. In
 [Genesis 50:24-25](https://biblia.com/bible/esv/genesis/50/24-25), Jacob and Joseph gather their
 families around them before they die. He also doesn't appear to be concerned with correcting the
 issue of Esau marrying Canaanites. Abraham ensured that Isaac didn't marry a Canaanite at this stage
-in his life ([Genesis 24:1-4](https://biblia.com/bible/esv/genesis/24/1-4).)[^6] Instead of
+in his life ([Genesis 24:1-4](https://biblia.com/bible/esv/genesis/24/1-4)).[^6] Instead of
 addressing the problem of Esau’s marriages, his interest is in eating the food he loved before
 dispensing the blessing. These things, taken together, reflect poorly on Isaac, highlighting his
 favoritism for Esau and appetite above wisely making the way for the chosen seed of the woman to
@@ -101,11 +101,11 @@ you" may indicate that he strongly desired to bless his firstborn son.
 This is the first of three times in this section that Isaac's eating is associated with his death 
 ([Genesis 27:4](https://biblia.com/bible/esv/genesis/27/4),
 [Genesis 27:7](https://biblia.com/bible/esv/genesis/27/7), and
-[Genesis 27:9-10](https://biblia.com/bible/esv/genesis/27/9-10).) Death is stated as the consequence 
+[Genesis 27:9-10](https://biblia.com/bible/esv/genesis/27/9-10)). Death is stated as the consequence 
 for eating from the Tree of the Knowledge of Good and Evil three times in Genesis 2 and 3
 ([Genesis 2:17](https://biblia.com/bible/esv/genesis/2/17),
 [Genesis 3:3](https://biblia.com/bible/esv/genesis/3/3), and
-[Genesis 3:4-5](https://biblia.com/bible/esv/genesis/3/4-5).) Adam and Eve's failure is being echoed
+[Genesis 3:4-5](https://biblia.com/bible/esv/genesis/3/4-5)). Adam and Eve's failure is being echoed
 in this episode.
 
 We're told at the end of this segment that Rebekah witnessed this exchange. She's perhaps given
@@ -147,6 +147,19 @@ bear the consequences and orchestrates a masquerade. The fact that the masquerad
 only Isaac's sister in Gerar was shown to be unnecessary sheds light on this one: such action was
 unnecessary for God to accomplish his purpose. Nevertheless, God will continue to effect his plan
 to rescue humanity even through the failings of those he is working to save.
+
+### Parallels with the tree of the knowledge of good and evil
+
+The parallels with Genesis 3 are striking, illustrating that this is another failure scene.
+
+| Genesis 3 | Genesis 27 |
+| --- | --- |
+| Eve "saw" [*tere'*, root *r'h*]  | Isaac couldn't "see" [*r<sup>e</sup>ot*, root *r'h*] |
+| The tree was "good" [*tov*] for food | Rebekah requested two "good" [*tov*] goats |
+| The tree was "desirable" [*nekhmad*, root *hmd*] | Rebekah dressed Jacob in Esau's "desirable" [*khamudot*, root *hmd*] clothes |
+| Eve "took" [*tiqqakh*, root *tqh*] the fruit | Jacob "took" [*qakh*, root *tqh*] the goats; Rebekah "took" [*tiqqakh*, root *tqh*] Esau's clothes |
+| Eve "gave" [*titten*] the fruit to Adam | Rebekah "gave" [*titten*] the food to Jacob |
+
 
 ## Isaac blesses Jacob
 
@@ -254,16 +267,16 @@ day?”
 
 Esau is perhaps linked to Cain here. Cain was angry (*yihar*, literally “hot”) that God didn’t favor
 his offering, so he rose up against his brother (*ahi*,) killed (*yaharge*) him, and was cursed from
-the ground. He was told he would be a wanderer on the earth (*arets*.) Esau would live away from the
-richness of the earth (*arets*) and wanted to kill (*ahargah*) his brother (*ahi*.) Rebekah tells
+the ground. He was told he would be a wanderer on the earth (*arets*). Esau would live away from the
+richness of the earth (*arets*) and wanted to kill (*ahargah*) his brother (*ahi*). Rebekah tells
 Jacob to flee and stay in Haran until Esau's anger (*hamat*, literally “heat”) turns away from him.
 
 However, he's further shown as a character deserving sympathy by linking his response to Jacob's
 theft of the birthright to God's response to the evil of humanity in Genesis 6.[^18] Yahweh
 regretted (*yinnakhem*, root *nkhm*) creating humans. It grieved him in his heart (*lib*,) so
 he planned their end. Esau said to himself/in his heart (*lib*) that he would kill Jacob to comfort
-himself (*mitnakhem*, root *nkhm*.) More connections to the flood story are made when Jacob returns
-to the land and faces Esau (see [Part 11](jacob-encounters-angels-at-mahanaim.html).)
+himself (*mitnakhem*, root *nkhm*). More connections to the flood story are made when Jacob returns
+to the land and faces Esau (see [Part 11](jacob-encounters-angels-at-mahanaim.html)).
 
 Literally, Rebekah directs Jacob to stay with Laban for "a few days."[^19] The consequences of the
 deception will be more than she or Jacob anticipate. Jacob is away for 20 years and Rebekah will
