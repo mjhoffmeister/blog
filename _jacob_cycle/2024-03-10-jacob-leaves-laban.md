@@ -26,7 +26,7 @@ The episode is divided into seven scenes.[^2]
 4. Departure - Genesis 31:17-21
 5. Laban's pursuit - Genesis 31:25-44
 6. Confrontation and oath - Genesis 31:25-44
-7. Laban returns home - Genesis 32:55
+7. Laban returns home - Genesis 31:55
 
 This section is parallel to Jacob’s arrival to Haran in Genesis 29, serving as a reversal of it.
 Jacob is returning from exile. Also, as with previous episodes, it has several references to Jacob's
@@ -138,11 +138,11 @@ Jacob's plan to leave.
 Jacob frames his success in Haran as a battle between "the god of my father" - Yahweh still isn't 
 *his* god - and Laban, arguing that God has overcome all of Laban's strikes against him.[^10]
 
-1. Laban changed his attitude towards Jacob, but God was with Jacob
-2. Laban cheated Jacob and changed Jacob's wages "10 times," meaning repeatedly, but God didn't allow Laban to harm Jacob
+1. Laban changed his attitude towards Jacob, but God was with Jacob.
+2. Laban cheated Jacob and changed Jacob's wages "10 times," meaning repeatedly, but God didn't allow Laban to harm Jacob.
 3. Laban tried to give Jacob little, but God took much from Laban and gave it to Jacob.
 
-In his third point, "taken away" is literally "rescued" (*yatsel*, root *ntsl*.) He'll use that same
+In his third point, "taken away" is literally "rescued" (*yatsel*, root *ntsl*). He'll use that same
 word later in [Genesis 32:11](https://biblia.com/bible/esv/genesis/32/11) when he prays for God to
 rescue him from Esau when he fears he'll be attacked by him. The word is also repeatedly used in
 Exodus to describe God rescuing Israel from Egypt. However, a form of the word is also used by God
