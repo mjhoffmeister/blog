@@ -37,7 +37,7 @@ toc_label: Contents
 
 ## The Construction of the Creation Temple
 
-*   Read or summarize: Genesis 1:1–10.
+*   Read: Genesis 1:1–10.
 *   The earth was “formless and empty” (tohu va vohu).
     *   Deep-dive: other translations include “wild and waste” (Everett Fox), “welter and waste” (Robert Alter), and “weltering wasteland” (Michael Morales).
 *   The Hebrew tehom (“deep”) echoes Tiamat, the goddess of the primeval sea in Mesopotamian myth.
