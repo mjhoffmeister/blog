@@ -13,8 +13,7 @@ toc_label: Contents
 
 ## Class Introduction
 
-*   This quarter, we’ll be exploring the theme of assembled worship in Scripture.
-*   By a show of hands: who feels excited about this study? Who feels unsure?
+*   In this class, we’ll be exploring the theme of assembled worship in Scripture.
 *   Our aim is not to critique or change our worship services, but to see how the Bible frames the gathering of God’s people.
 *   What we’ll discover is that worshipping together is God’s way of transforming us, renewing our relationship with Him, and equipping us to return into the world as participants in His new creation.
 
