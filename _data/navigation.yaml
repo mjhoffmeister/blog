@@ -41,11 +41,10 @@ mountain-of-yahweh:
     children:
       - title: Creation
         url: /mountain-of-yahweh/creation/
-        children:
-          - title: Class Notes
-            url: /mountain-of-yahweh/creation/class-notes
-          - title: Research
-            url: /mountain-of-yahweh/creation/research
+      - title: Creation - Class Notes
+        url: /mountain-of-yahweh/creation/class-notes
+      - title: Creation - Research
+        url: /mountain-of-yahweh/creation/research
 
 collections:
   - title: Collections
