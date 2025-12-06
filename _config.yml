@@ -40,6 +40,8 @@ collections:
     output: true
   worship:
     output: true
+  mountain_of_yahweh:
+    output: true
 
 # Build settings
 # theme: minima
@@ -80,11 +82,19 @@ defaults:
     values:
       layout: single
       share: false
+  # _mountain_of_yahweh
+  - scope:
+      path: ""
+      type: mountain_of_yahweh
+    values:
+      layout: single
+      share: false
 
 include:
   - _dnd
   - _jacob_cycle
   - _worship
+  - _mountain_of_yahweh
   - _pages
 
 # Exclude from processing.

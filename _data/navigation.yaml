@@ -36,6 +36,17 @@ worship:
       - title: The Lord's Supper
         url: /worship/lords-supper
 
+mountain-of-yahweh:
+  - title: The Mountain of Yahweh
+    children:
+      - title: Creation
+        url: /mountain-of-yahweh/creation/
+        children:
+          - title: Class Notes
+            url: /mountain-of-yahweh/creation/class-notes
+          - title: Research
+            url: /mountain-of-yahweh/creation/research
+
 collections:
   - title: Collections
     children:
@@ -43,3 +54,5 @@ collections:
         url: /jacob-cycle/
       - title: Worship
         url: /worship/
+      - title: The Mountain of Yahweh
+        url: /mountain-of-yahweh/
