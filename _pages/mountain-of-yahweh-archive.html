@@ -10,5 +10,7 @@ sidebar:
 {% include base_path %}
 
 {% for post in site.mountain_of_yahweh %}
-  {% include archive-single.html %}
+  {% unless post.hidden %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
