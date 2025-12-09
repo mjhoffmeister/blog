@@ -105,6 +105,26 @@ In the biblical story, the ascent up the cosmic mountain becomes the reversal of
 
 ## Bibliography
 
+Block, Daniel I. *For the Glory of God: Recovering a Biblical Theology of Worship*. Grand Rapids, MI: Baker Academic, 2014. Kindle edition.
+
+Cassuto, Umberto. *A Commentary on the Book of Genesis. Part 1: From Adam to Noah (Genesis I–VI 8)*. Translated by Israel Abrahams. Jerusalem: Magnes Press, Hebrew University, 1961.
+
+Davidson, Richard M. "Cosmic Metanarrative for the Coming Millennium." *Journal of the Adventist Theological Society* 11, no. 1-2 (2000): 102–19.
+
+Morales, L. Michael. "Crouching Demon, Hidden Lamb: Resurrecting an Exegetical Fossil in Genesis 4:7." *The Bible Translator* 63, no. 4 (October 2012): 185–191.
+
+———. "The Tabernacle Pre-Figured: Cosmic Mountain Ideology in Genesis and Exodus." PhD diss., University of Bristol / Trinity College, 2011.
+
+Postell, Seth D. *Adam as Israel: Genesis 1–3 as the Introduction to the Torah and Tanakh*. Eugene, OR: Pickwick Publications, 2011.
+
+Ross, Allen P. *Recalling the Hope of Glory: Biblical Worship from the Garden to the New Creation*. Grand Rapids, MI: Kregel Academic, 2006. Kindle edition.
+
+Sailhamer, John H. "Genesis." Vol. 2 of *The Expositor's Bible Commentary: Revised Edition*. Edited by Tremper Longman III and David E. Garland. Grand Rapids, MI: Zondervan, 2008. Kindle edition.
+
+Walton, John H. *Genesis*. NIV Application Commentary. Grand Rapids, MI: Zondervan, 2001.
+
+Wenham, Gordon J. *Genesis 1–15*. Vol. 1 of *Word Biblical Commentary*. Grand Rapids, MI: Zondervan, 2014. Kindle edition.
+
 ---
 
 [^1]: Morales, "Tabernacle Pre‑Figured," 125.
