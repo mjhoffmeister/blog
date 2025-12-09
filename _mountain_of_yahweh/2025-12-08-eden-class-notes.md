@@ -11,9 +11,7 @@ toc_sticky: true
 toc_label: Contents
 ---
 
-## Lesson 2 – Eden: The Holy of Holies of Creation
-
-### Introduction 
+## Introduction 
 
 - We are continuing our study on how Mount Zion is developed in scripture, which Hebrews say is the mountain we ascend when we gather for worship.
 - Read: Hebrews 12:18-24.
@@ -27,7 +25,7 @@ toc_label: Contents
 - Hebrews 10:19–22: in Christ, the second Adam and great High Priest, the way is opened.
 - In worship, the church ascends the mountain in Him, sharing Eden's nearness of God.
 
-### Eden as Sacred Space
+## Eden as Sacred Space
 
 - Read or paraphrase: Genesis 2:4-14.
 - The divine name shifts from "God" (elohim) to LORD God (yahweh elohim).
@@ -47,7 +45,7 @@ toc_label: Contents
 - Later sanctuaries, from tabernacle to temple, were patterned after Eden.
 - In Christ, the true temple (John 2:19–21), worship is both a return to Eden's pattern and a foretaste of new creation (Revelation 22:1–2). 
 
-### Work and Keep
+## Work and Keep
 
 - God placed Adam in Eden to "work/serve" (ʿābad) and "keep/guard" (shāmar) the garden (Genesis 2:15).
 - These verbs are priestly terms, later used for the Levites who served (worked) and guarded (kept) the tabernacle (Numbers 3:7–8). 
@@ -66,7 +64,7 @@ toc_label: Contents
 	- Receiving God's word keeps/guards our holiness.
 - Worship is both encounter and formation, shaping God's people to work and keep in His presence, then sending them out to extend His blessing to the world.
 
-### Not Alone 
+## Not Alone 
 
 - Read: Genesis 2:18-24.
 - Reflection question: since God declared it "not good" for Adam to serve and guard sacred space alone, how does that shape our understanding of worship?
@@ -76,7 +74,7 @@ toc_label: Contents
 - Unity is humanity's first state before God; division comes only after sin (Genesis 3), echoed in Cain and Abel, Esau and Jacob, and Joseph and his brothers.
 - In Christ, the church gathers as a reconciled people. Assembled worship enacts Eden's pattern: we ascend together, healed and restored as one body in the presence of the great High Priest.
 
-### Occupied Territory
+## Occupied Territory
 
 - Read: Genesis 3:1-6.
 - Check question: where is the serpent?
@@ -86,7 +84,7 @@ toc_label: Contents
 	- Reading: Psalm 106:19-23.
 - For the church, assembled worship is sacred space in time. Loyalty must be guarded, God's Word must be heeded above all others, and His presence is preserved through faithfulness. 
 
-### Exile from the Summit
+## Exile from the Summit
 
 - Read: Genesis 3:8, 22–24.
 - Somewhat tragically after Adam and Eve's failure, we see the garden reinforced as the place of God's presence.
@@ -98,7 +96,7 @@ toc_label: Contents
 - Psalms 24:3 askes the question "Who shall ascend the hill of the Lord?"). In Genesis 3 the answer is no one. 
 - Yet hope remains. The tabernacle and temple later provide mediated access, foreshadowing ultimate restoration in Christ, whose death tore the temple veil (Matthew 27:50–51, Mark 15:37–38, Luke 23:44–45).
 
-### East of Eden
+## East of Eden
 
 - Read: Genesis 4:1–7.
 - After exile, access to God was mediated through sacrifice at the eastern entrance, where cherubim stood guard. This anticipates tabernacle and temple entrances.
@@ -109,7 +107,7 @@ toc_label: Contents
 - Cain's failure to confess and return to worship drove him further east, away from God's presence. Confession is essential for true worship!
 - The biblical arc: exile eastward → ascent back to God's mountain. In worship, the church enacts this return. Christ opens the way, reversing exile, restoring fellowship in God's presence.
 
-### Conclusion
+## Conclusion
 
 - Eden is God's first earthly sanctuary, the Holy of Holies, where His presence dwelt with humanity.
 - When we gather, God restores our unity, guards our loyalty, and opens the way back into His presence through Christ.
