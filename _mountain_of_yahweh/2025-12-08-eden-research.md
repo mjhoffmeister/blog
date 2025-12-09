@@ -121,7 +121,7 @@ Ross, Allen P. *Recalling the Hope of Glory: Biblical Worship from the Garden to
 
 Sailhamer, John H. "Genesis." Vol. 2 of *The Expositor's Bible Commentary: Revised Edition*. Edited by Tremper Longman III and David E. Garland. Grand Rapids, MI: Zondervan, 2008. Kindle edition.
 
-Walton, John H. *Genesis*. NIV Application Commentary. Grand Rapids, MI: Zondervan, 2001.
+Walton, John H. *Genesis*. NIV Application Commentary. Grand Rapids, MI: Zondervan, 2001. Kindle edition.
 
 Wenham, Gordon J. *Genesis 1–15*. Vol. 1 of *Word Biblical Commentary*. Grand Rapids, MI: Zondervan, 2014. Kindle edition.
 
