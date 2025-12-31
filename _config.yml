@@ -45,6 +45,7 @@ feed:
   collections:
     - jacob_cycle
     - mountain_of_yahweh
+  excerpt_only: false
 
 # Build settings
 # theme: minima
