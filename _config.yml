@@ -41,6 +41,11 @@ collections:
   mountain_of_yahweh:
     output: true
 
+feed:
+  collections:
+    - jacob_cycle
+    - mountain_of_yahweh
+
 # Build settings
 # theme: minima
 remote_theme: mmistakes/minimal-mistakes@4.24.0
