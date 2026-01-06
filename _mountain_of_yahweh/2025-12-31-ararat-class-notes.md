@@ -11,8 +11,6 @@ toc_sticky: true
 toc_label: Contents
 ---
 
-## Lesson 3 – Through the Waters
-
 ## Introduction
 
 - The flood narrative shows the collapse of creation's order. Chaotic waters return as judgment for human corruption.

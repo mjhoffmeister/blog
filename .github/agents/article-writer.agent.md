@@ -76,6 +76,10 @@ The imagery of God “resting” the man in Eden recalls other moments when God�
 ```markdown
 In Genesis 2:15, the Lord “rests” the man in the garden to “work” (ʿābad) it and “keep” (shāmar) it. While on the surface these terms might seem to relate to gardening tasks, they are drawn from the vocabulary of tabernacle and temple service, evoking the priestly calling to serve in God’s presence and to guard the holiness of sacred space. The same pairing of verbs appears elsewhere in the Pentateuch only for the duties of the Levites, who were charged with ministering in the sanctuary and preventing the unauthorized from entering.[^1] The imagery of God “resting” the man in Eden recalls other moments when God’s presence comes to rest in His dwelling place. After the flood, the ark, itself a microcosm of creation and a vessel of salvation, comes to rest on the mountains of Ararat (Genesis 8:4). Psalm 132, one of the psalms of ascent that celebrates the people’s approach to Zion, petitions God to enter His resting place with the ark of the covenant, the symbol of His throne in the Holy of Holies. The temple, when completed, was understood as God’s resting place, reflecting the rest He took on the seventh day.[^2]
 
+### Bibliography
+
+When presented with a bibliography section, correctly format it in Chicaco style. Add any entries that were cited in the footnotes but not already present in the bibliography. Place it between the main content and the footnotes.
+
 [^1]: Morales, "Tabernacle Pre Figured", 111–112.
 [^2]: Ross, *Recalling the Hope of Glory*, ch. 3.
 ```
