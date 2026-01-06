@@ -113,6 +113,12 @@ layout: null
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://blog.matthoffmeister.com/mountain-of-yahweh/creation/class-notes</loc>
+        <lastmod>2025-12-06T00:00:00-06:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://blog.matthoffmeister.com/mountain-of-yahweh/creation/research</loc>
         <lastmod>2025-12-06T00:00:00-06:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -123,6 +129,12 @@ layout: null
         <lastmod>2025-12-08T12:27:00-06:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://blog.matthoffmeister.com/mountain-of-yahweh/eden/class-notes</loc>
+        <lastmod>2025-12-08T12:27:00-06:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
     </url>
     <url>
         <loc>https://blog.matthoffmeister.com/mountain-of-yahweh/eden/research</loc>
@@ -137,8 +149,32 @@ layout: null
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://blog.matthoffmeister.com/mountain-of-yahweh/ararat/class-notes</loc>
+        <lastmod>2025-12-31T15:00:00-06:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://blog.matthoffmeister.com/mountain-of-yahweh/ararat/research</loc>
         <lastmod>2025-12-31T15:00:00-06:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://blog.matthoffmeister.com/mountain-of-yahweh/moriah-part-1/</loc>
+        <lastmod>2026-01-06T16:00:00-06:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://blog.matthoffmeister.com/mountain-of-yahweh/moriah-part-1/class-notes</loc>
+        <lastmod>2026-01-06T16:35:00-06:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://blog.matthoffmeister.com/mountain-of-yahweh/moriah-part-1/research</loc>
+        <lastmod>2026-01-06T16:00:00-06:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
