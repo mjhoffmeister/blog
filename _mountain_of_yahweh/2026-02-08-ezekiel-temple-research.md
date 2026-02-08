@@ -305,8 +305,6 @@ Ezekiel's closing words celebrate the fulfillment of God's promises. He has rega
 
 In assembled worship, the church stands in the reality Ezekiel foresaw. God is with His people. When they gather, heaven and earth come together, and the life of the coming city is present in their midst. They lift their eyes toward the true sanctuary where Christ ministers on their behalf, yet they do so from within the place where God already dwells with them. Their worship becomes an act of anticipation, a weekly confession that although *Yahweh is over there* when His people are scattered in the world, He is here when they are gathered in His name.
 
----
-
 ## Bibliography
 
 Bergsma, John S. "The Restored Temple as 'Built Jubilee' in Ezekiel 40–48." In *Proceedings of the Eastern Great Lakes and Midwest Biblical Societies* 24 (2004): 75–85.
@@ -320,6 +318,8 @@ Cook, Stephen L. *Ezekiel 38–48: A New Translation with Introduction and Comme
 Morales, L. Michael. *Who Shall Ascend the Mountain of the Lord? A Biblical Theology of the Book of Leviticus*. Downers Grove, IL: IVP Academic, 2015.
 
 Ross, Allen P. *Recalling the Hope of Glory: Biblical Worship from the Garden to the New Creation*. Grand Rapids, MI: Kregel, 2006. Kindle edition.
+
+---
 
 [^1]: Block, *The Book of Ezekiel, Chapters 25–48*, 353.
 

@@ -171,8 +171,6 @@ Solomon's story warns that ascent to the mountain does not guarantee faithfulnes
 
 For the church, Solomon's fall reminds us that worship is not only ascent but also repentance. We gather before the God who dwells with his people, aware of our divided hearts and confident that his grace is greater than our failures. The cosmic mountain still stands because a better Solomon now reigns, the one whose heart is never divided and whose kingdom cannot be shaken. In Jesus Christ, the true son of David, the work of undoing the return to Egypt has already begun, and it will reach its fullness when the new Jerusalem descends and God dwells with his people forever.
 
----
-
 ## Bibliography
 
 Cogan, Mordechai. *I Kings: A New Translation with Introduction and Commentary*. Vol. 10. Anchor Yale Bible. New Haven and London: Yale University Press, 2008.
@@ -188,6 +186,8 @@ Levenson, Jon D. *Sinai and Zion: An Entry into the Jewish Bible*. Minneapolis: 
 Morales, L. Michael. *Who Shall Ascend the Mountain of the Lord? A Biblical Theology of the Book of Leviticus*. New Studies in Biblical Theology 37. Downers Grove, IL: IVP Academic, 2015.
 
 Provan, Iain. *1 and 2 Kings*. New International Biblical Commentary. Peabody, MA: Hendrickson, 1995.
+
+---
 
 [^1]: Levenson, *Sinai and Zion*, 111; Morales, *Who Shall Ascend the Mountain of the Lord?*, 225.
 [^2]: Levenson, *Sinai and Zion*, 108.
