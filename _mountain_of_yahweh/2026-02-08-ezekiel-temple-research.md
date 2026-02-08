@@ -1,8 +1,9 @@
 ---
 title: Ezekiel's Temple Vision
 date: 2026-02-08 16:05:00 -0600
-permalink: /mountain-of-yahweh/ezekiel-temple
+permalink: /mountain-of-yahweh/ezekiel-temple/research
 categories: mountain-of-yahweh
+hidden: true
 sidebar:
   nav: mountain-of-yahweh
 toc: true
