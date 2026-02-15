@@ -13,7 +13,7 @@ From exile in Babylon, Ezekiel receives a vision of a restored temple on a very 
 
 * [Class Notes](/mountain-of-yahweh/ezekiel-temple/class-notes)
 * [Research](/mountain-of-yahweh/ezekiel-temple/research)
-* [Slides](https://1drv.ms/p/c/14cf6d53d10f7d05/IQC_ZYq1Za_cRaQ0lOo5sGRhAfyBn3SQ4xB5odC14GB7fIY?e=BwbRUl)
+* [Slides](https://1drv.ms/p/c/14cf6d53d10f7d05/IQDZnYLUZ3eBQoctNUqmUQZyAcBxIbW974GznKqt6xQvQfk?e=y9nteG)
 
 ## Summary
 
